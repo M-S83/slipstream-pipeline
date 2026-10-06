@@ -184,12 +184,12 @@ def main(argv=None):
     p.add_argument("--country", default="gb", help="two letter store code, default gb")
     p.add_argument("--min-ratings", type=int, default=1000)
     p.add_argument("--max-ratings", type=int, default=20000)
-    p.add_argument("--depth", type=int, default=100, help="chart positions to read per category (max 200)")
+    p.add_argument("--depth", type=int, default=100, help="chart positions to read per category (max 100, Apple's feed stops there)")
     p.add_argument("--genres", default="", help="comma separated genre ids, default all except Games")
     args = p.parse_args(argv)
 
     genres = [int(g) for g in args.genres.split(",") if g.strip()] or list(GENRES)
-    depth = max(1, min(args.depth, 200))
+    depth = max(1, min(args.depth, 100))
     print("Scanning {} categories in the {} store...".format(len(genres), args.country.upper()))
     rows = build_rows(args.country, genres, depth, args.min_ratings, args.max_ratings)
     if not rows:
