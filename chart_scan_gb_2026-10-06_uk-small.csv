@@ -1,0 +1,96 @@
+genre,grossing_rank,name,seller,ratings,home_share,ratings_us,ratings_de,ratings_ca,ratings_au,ratings_fr,avg_rating,price,store_id,bundle_id,url
+Business,16,Gas App Uk,Gas App Uk Limited,1536,1.0,2,0,1,0,0,4.65,Free,1033168436,biz.safegas.gasapp,https://apps.apple.com/gb/app/gas-app-uk/id1033168436
+Business,64,Devyce - 2nd Number App,DEVYCE LIMITED,150,0.8,22,2,3,5,5,3.7,Free,1504660924,com.xxvvii.devyce,https://apps.apple.com/gb/app/devyce-2nd-number-app/id1504660924
+Business,76,Another Number,Thumbtel Ltd,432,0.99,0,1,0,0,5,4.2,Free,1141833231,com.hullomail.AnotherNumber,https://apps.apple.com/gb/app/another-number/id1141833231
+Business,78,EI Classic Invoice Maker,Marla International Limited,894,0.71,258,1,31,65,4,4.8,Free,1535481541,uk.co.geode.easyinvoiceclassic,https://apps.apple.com/gb/app/ei-classic-invoice-maker/id1535481541
+Business,97,Risk Assessor Pro,Safety Apps Ltd.,102,0.86,3,0,2,12,0,4.3,Free,857556906,com.riskassessorlite.app,https://apps.apple.com/gb/app/risk-assessor-pro/id857556906
+Utilities,36,Make Me Busy,Make Me Busy LTD,136,1.0,0,0,0,0,0,3.46,Free,1562856411,com.brent.makemebusyapp,https://apps.apple.com/gb/app/make-me-busy/id1562856411
+Utilities,91,Locate A Locum - Shift Manager,LOCUM MATCH LTD,777,1.0,0,0,0,0,0,3.26,Free,1239779099,com.locatealocum.locumapp,https://apps.apple.com/gb/app/locate-a-locum-shift-manager/id1239779099
+Utilities,94,Rail Locator,Atkinson Bowes,102,1.0,0,0,0,0,0,4.12,Free,6462006029,com.tracket.orion,https://apps.apple.com/gb/app/rail-locator/id6462006029
+Travel,20,UK Hidden Gems,UK Hidden Gems Limited,189,0.96,5,0,0,2,0,3.47,Free,6449970387,com.ukhiddengems.UKHiddenGems,https://apps.apple.com/gb/app/uk-hidden-gems/id6449970387
+Travel,23,Schengen Simple,Roycroft Labs Ltd,2534,0.85,360,4,26,38,7,4.84,Free,1637045933,com.roycroft-labs.SchengenSimple,https://apps.apple.com/gb/app/schengen-simple/id1637045933
+Travel,24,Cabbie's Mate,Knowledge Master UK Ltd,2281,1.0,2,1,1,0,0,4.57,Free,649858791,com.knowledgemasteruk.cabbiesmate2013,https://apps.apple.com/gb/app/cabbies-mate/id649858791
+Travel,39,iWalk Cornwall,Working Edge Ltd,862,0.97,12,8,1,8,1,4.88,Free,739048330,uk.co.workingedge.iwalk.northcornwall,https://apps.apple.com/gb/app/iwalk-cornwall/id739048330
+Travel,53,Brit Stops,"Harvest Hosts, LLC",1462,0.95,14,48,2,12,8,4.77,Free,1588268172,com.britstops.britstops,https://apps.apple.com/gb/app/brit-stops/id1588268172
+Travel,95,180 Days: Schengen Calculator,Splinterware Ltd,865,0.85,111,7,12,15,3,4.81,Free,1663779128,com.splinterware.180days,https://apps.apple.com/gb/app/180-days-schengen-calculator/id1663779128
+Sports,21,BD British Dressage TestPro,LION DOG APPS LIMITED,286,0.99,0,1,1,2,0,4.63,Free,1418062551,com.LionDogApps.Dressage-TestPro-BD,https://apps.apple.com/gb/app/bd-british-dressage-testpro/id1418062551
+Sports,26,"VPAR Golf GPS, Scoring & Stats",VPAR Limited,355,0.81,60,2,8,8,3,3.98,Free,432332692,com.vpar-golf.vpar,https://apps.apple.com/gb/app/vpar-golf-gps-scoring-stats/id432332692
+Sports,33,Cypography,Cypography Ltd,377,0.98,3,4,0,1,1,4.72,Free,1530596453,com.cypography.app,https://apps.apple.com/gb/app/cypography/id1530596453
+Sports,34,igMember,ClearCourse Events & Leisure Limited,344,1.0,0,0,0,0,0,2.94,Free,1125323374,uk.co.intelligentgolf.igapp,https://apps.apple.com/gb/app/igmember/id1125323374
+Sports,42,The Official England App,FOOTBALL ASSOCIATION LIMITED,138,0.85,6,2,3,13,0,3.81,Free,6759335403,com.thefa.fan.app,https://apps.apple.com/gb/app/the-official-england-app/id6759335403
+Sports,49,SuperLeague+,The Rugby Football League Limited,318,0.78,29,4,6,4,45,4.56,Free,6475691660,com.rlcplus.app,https://apps.apple.com/gb/app/superleague/id6475691660
+Sports,84,Ultimate Rugby,Ultimate Rugby Limited,933,0.77,102,28,21,116,11,2.15,Free,565995979,com.ultimaterugby.ios,https://apps.apple.com/gb/app/ultimate-rugby/id565995979
+Sports,88,Padel Mates,Padel Mates International AB,1325,0.72,447,11,6,9,50,4.5,Free,1531797995,com.padelmates,https://apps.apple.com/gb/app/padel-mates/id1531797995
+Sports,96,LFC Echo,Trinity Mirror Digital Media Ltd,2016,0.74,405,36,75,189,10,4.7,Free,1255495425,com.tmg.digital.lfcecho,https://apps.apple.com/gb/app/lfc-echo/id1255495425
+Sports,97,The Official Liverpool FC App,Liverpool Football Club and Athletic Grounds LTD,1013,0.69,271,35,46,85,21,3.87,Free,332227346,liverpoolfc.lfcmnc,https://apps.apple.com/gb/app/the-official-liverpool-fc-app/id332227346
+Social Networking,25,Unify Messenger,Unify Business Solutions Limited,134,1.0,0,0,0,0,0,2.81,Free,1551129090,uk.co.unifybusiness.UnifyMessenger,https://apps.apple.com/gb/app/unify-messenger/id1551129090
+Social Networking,46,Muddy Matches,Muddy Matches Ltd,852,1.0,0,0,0,0,0,4.34,Free,1621060181,com.muddymatches,https://apps.apple.com/gb/app/muddy-matches/id1621060181
+Social Networking,76,Unifi: Your Uni Community,Unifi App Limited,436,0.97,11,0,0,1,1,3.38,Free,1418912549,com.unifi.unifi,https://apps.apple.com/gb/app/unifi-your-uni-community/id1418912549
+Reference,11,Pocket Sergeant - Police Guide,Paul Cooper,2720,1.0,2,0,0,2,0,4.67,Free,902491237,co.uk.sockmonkeystudios.pocketsgt,https://apps.apple.com/gb/app/pocket-sergeant-police-guide/id902491237
+Reference,83,Bible Widget for Women: Divine,Elven Studios Ltd,336,0.77,45,1,35,18,1,4.81,Free,6759541518,com.divinewidgets.app,https://apps.apple.com/gb/app/bible-widget-for-women-divine/id6759541518
+Reference,84,AirAssist Radar,Ernst Mulders,761,0.78,1,203,0,0,5,4.73,Free,1497325355,app.lifeliner,https://apps.apple.com/gb/app/airassist-radar/id1497325355
+News,30,Belfast Telegraph News,Mediahuis UK Ltd,1288,0.92,52,0,31,20,6,4.67,Free,1229633020,com.belfast.telegraph,https://apps.apple.com/gb/app/belfast-telegraph-news/id1229633020
+News,47,Eastern Daily Press,Newsquest Media Group Limited,247,0.99,2,0,0,0,0,4,Free,505443199,com.archant.easterndailypress,https://apps.apple.com/gb/app/eastern-daily-press/id505443199
+News,52,The Irish News Digital Edition,the Irish News Ltd,575,0.91,42,0,7,7,3,4.7,Free,1019533643,it.dshare.theirishnews,https://apps.apple.com/gb/app/the-irish-news-digital-edition/id1019533643
+News,56,Fox News International,"Fox News Network, LLC",154,0.73,0,58,0,0,0,2.93,Free,1513227161,com.foxnews.international,https://apps.apple.com/gb/app/fox-news-international/id1513227161
+News,62,Jersey Evening Post,Jersey Evening Post Limited,484,0.99,3,0,0,1,3,4.42,Free,461425137,com.pagesuite.jerseyeveninpoststore,https://apps.apple.com/gb/app/jersey-evening-post/id461425137
+News,65,The Press and Journal Scotland,D C Thomson & Co Ltd,989,0.99,5,2,1,2,0,4.56,Free,1540976301,com.pagesuite.dctpressandjournal,https://apps.apple.com/gb/app/the-press-and-journal-scotland/id1540976301
+News,71,Church Times,Hymns Ancient and Modern Ltd Apps,603,0.89,37,1,15,20,3,4.45,Free,938087502,com.hymsam.churchtimes,https://apps.apple.com/gb/app/church-times/id938087502
+News,72,Daily Express Newspaper,Reach Shared Services Limited,1358,0.97,24,2,8,6,2,4.48,Free,1015437283,com.pagesuite.expressipad.new,https://apps.apple.com/gb/app/daily-express-newspaper/id1015437283
+News,77,The Scotsman Newspaper,Iconic Media Group Limited,1780,0.86,185,25,33,36,22,4.34,Free,491137054,com.sctosman.jobs,https://apps.apple.com/gb/app/the-scotsman-newspaper/id491137054
+News,83,The Yorkshire Post Newspaper,Iconic Media Group Limited,926,0.98,9,0,3,4,1,4.61,Free,497995505,com.johnston.yorkshirepost,https://apps.apple.com/gb/app/the-yorkshire-post-newspaper/id497995505
+News,88,Nottingham Post,Trinity Mirror Digital Media Ltd,1456,0.98,12,3,10,10,0,4.42,Free,1322019846,com.mirror.NottinghamPost,https://apps.apple.com/gb/app/nottingham-post/id1322019846
+News,95,The Portsmouth News Newspaper,Iconic Media Group Limited,633,0.98,4,3,1,7,0,4.45,Free,555952987,com.johnston.portsmouthnews,https://apps.apple.com/gb/app/the-portsmouth-news-newspaper/id555952987
+Navigation,8,Delm8 Route Planner UK & Maps,Delmate LTD,1070,1.0,0,0,0,0,1,4.62,Free,1563254124,com.Delm8,https://apps.apple.com/gb/app/delm8-route-planner-uk-maps/id1563254124
+Navigation,10,DelM8 UK Address Finder,Delmate LTD,1907,1.0,1,0,0,0,0,4.69,Free,1429831779,com.v1technologies.delm8,https://apps.apple.com/gb/app/delm8-uk-address-finder/id1429831779
+Navigation,50,"AppyParking+ Plan, Park & Pay",Yellow Line Parking Ltd,2327,0.99,23,2,0,5,2,4.35,Free,1527265648,com.appyway.mobile.appyparking,https://apps.apple.com/gb/app/appyparking-plan-park-pay/id1527265648
+Navigation,54,Go Jauntly: UK Walking Routes,Go Jauntly Ltd,2999,0.98,49,2,6,10,7,4.61,Free,1150399087,com.gojauntly,https://apps.apple.com/gb/app/go-jauntly-uk-walking-routes/id1150399087
+Navigation,68,cycle.travel - map and planner,Editions Systeme D Ltd,346,0.68,63,27,16,26,30,4.81,Free,1619632879,com.geowiki.cycle-travel,https://apps.apple.com/gb/app/cycle-travel-map-and-planner/id1619632879
+Navigation,84,OMN - Outdoor Map Navigator,Anquet Technology Ltd,637,0.99,2,1,0,0,1,4.52,Free,1276592903,com.anquet.omnios,https://apps.apple.com/gb/app/omn-outdoor-map-navigator/id1276592903
+Music,83,The Vocal Coach,Annabel Williams Music Ltd,249,0.91,18,2,4,1,1,4.59,Free,1515249256,com.vocalcoach.app,https://apps.apple.com/gb/app/the-vocal-coach/id1515249256
+Lifestyle,48,WAX by Killing Kittens,WeAreX Ltd,276,0.89,27,2,2,4,0,3.37,Free,1445689663,com.killingkittens.app,https://apps.apple.com/gb/app/wax-by-killing-kittens/id1445689663
+Lifestyle,53,SwingHub: Open Dating & Chat,SwingHub Limited,147,0.98,2,0,0,1,0,3.9,Free,6459476247,com.swinghub.ios,https://apps.apple.com/gb/app/swinghub-open-dating-chat/id6459476247
+Lifestyle,60,TOM: The Organised Method,Tojobe Ltd,347,0.82,48,2,7,18,3,4.03,Free,1427750529,blog.theorganisedmum.TOMMApp,https://apps.apple.com/gb/app/tom-the-organised-method/id1427750529
+Health & Fitness,27,Carbs & Cals: Diet & Diabetes,Chello Publishing Limited,2521,0.96,56,8,18,15,4,4.11,Free,388459613,com.chellopublishing.CarbsAndCals,https://apps.apple.com/gb/app/carbs-cals-diet-diabetes/id388459613
+Health & Fitness,47,MARCHON TRAINING,MARCHON TRAINING LTD,1240,0.74,340,14,11,60,16,4.87,Free,6443470301,uk.co.marchon.training,https://apps.apple.com/gb/app/marchon-training/id6443470301
+Health & Fitness,61,ShredFast,SHREDAST GLOBAL - FZCO,269,0.7,89,10,6,7,4,4.87,Free,6755752514,com.shredfastgroup.app,https://apps.apple.com/gb/app/shredfast/id6755752514
+Health & Fitness,63,Coopah: The Run Coaching App,COOPAH LIMITED,1158,0.9,91,12,23,9,0,4.79,Free,1587165314,com.coopah.app,https://apps.apple.com/gb/app/coopah-the-run-coaching-app/id1587165314
+Health & Fitness,67,Gymproluxe,Gym Pro Group Ltd,600,0.85,97,4,0,1,4,4.64,Free,6474617038,com.gymproluxe.app,https://apps.apple.com/gb/app/gymproluxe/id6474617038
+Health & Fitness,79,Paace: Rewards for Walking,PAACE LTD,836,1.0,0,0,0,0,0,4.42,Free,1671548422,com.fn.paace,https://apps.apple.com/gb/app/paace-rewards-for-walking/id1671548422
+Health & Fitness,82,Pilates by Bryony,Pili and Kiki Limited,282,0.71,71,6,13,9,16,4.8,Free,1635282079,ott.pilatesbybryony1,https://apps.apple.com/gb/app/pilates-by-bryony/id1635282079
+Health & Fitness,98,Results Wellness Lifestyle,Results Wellness Lifestyle Limited,581,0.98,3,1,2,5,2,4.62,Free,1460681974,uk.co.disciplemedia.resultswithlucy,https://apps.apple.com/gb/app/results-wellness-lifestyle/id1460681974
+Finance,11,Sage Sole Trader - MTD Ready,Sage Global Services Ltd,708,1.0,0,0,0,0,0,4.74,Free,1641307408,com.sage.sbca,https://apps.apple.com/gb/app/sage-sole-trader-mtd-ready/id1641307408
+Finance,22,#Pie Tax,PIE MONEY LIMITED,450,1.0,0,0,0,1,0,4.69,Free,1660279468,uk.taxpie,https://apps.apple.com/gb/app/pie-tax/id1660279468
+Finance,29,Financielle: Budget Planner,FINANCIELLE LIMITED,687,0.66,183,8,90,60,8,4.6,Free,1567346791,com.financielle.mobile.app,https://apps.apple.com/gb/app/financielle-budget-planner/id1567346791
+Finance,30,Gains - Budgeting & Cashback,GAINS MONEY APP LTD,178,1.0,0,0,0,0,0,4.86,Free,6758201080,gains.app,https://apps.apple.com/gb/app/gains-budgeting-cashback/id6758201080
+Finance,33,"ADVFN Realtime Stocks, Bitcoin",ADVFN LIMITED,979,0.92,37,17,20,6,10,4.64,Free,553516718,com.advfn.mobile,https://apps.apple.com/gb/app/advfn-realtime-stocks-bitcoin/id553516718
+Finance,37,Webull: Invest. Trade.,Webull Technologies Pte. Ltd.,606,1.0,0,0,0,0,0,4.54,Free,1669463338,com.webull.uk,https://apps.apple.com/gb/app/webull-invest-trade/id1669463338
+Finance,49,"""untied"" - personal tax app",UT Tax Ltd,169,0.96,3,1,0,2,1,4.75,Free,1458630284,com.uttaxltd.untied,https://apps.apple.com/gb/app/untied-personal-tax-app/id1458630284
+Entertainment,32,AntenaPLAY,Antena TV Group SA,1689,0.66,212,418,76,10,147,3.94,Free,650785733,ro.antenaplay.app,https://apps.apple.com/gb/app/antenaplay/id650785733
+Education,33,Official Life in the UK Test,The Stationery Office Limited,1446,0.99,11,1,0,1,3,3.38,£5.99,632064672,com.tso.lifeintheuk,https://apps.apple.com/gb/app/official-life-in-the-uk-test/id632064672
+Education,50,CITB MAP HS&E test V11,CITB-ConstructionSkills,930,1.0,1,0,0,0,3,4.59,£7.29,6445915563,com.citb.imagitech.GT200.23,https://apps.apple.com/gb/app/citb-map-hs-e-test-v11/id6445915563
+Education,51,Sporecast: Mushroom Identifier,Sporecast Ltd,342,0.88,23,12,6,1,5,4.76,Free,6745700034,com.sporecast.app,https://apps.apple.com/gb/app/sporecast-mushroom-identifier/id6745700034
+Education,68,Pastest,PasTest Ltd,427,0.82,69,3,9,14,0,4.44,Free,1554317254,com.pastest.v3.app,https://apps.apple.com/gb/app/pastest/id1554317254
+Education,79,Practice Driving Test Routes,heirong Ltd,793,1.0,3,0,0,0,0,4.52,Free,6476445661,com.williamcheungapps.DrivingTestRoutesUK,https://apps.apple.com/gb/app/practice-driving-test-routes/id6476445661
+Education,100,Driving Theory Test Kit 2026,APPISODE YAZILIM TEKNOLOJILERI LIMITED SIRKETI,1049,0.98,15,0,1,0,0,4.63,Free,6502908551,com.appisode.theorytest,https://apps.apple.com/gb/app/driving-theory-test-kit-2026/id6502908551
+Books,26,"xigxag: Audiobooks, but Better",xigxag ltd,244,0.9,15,4,1,3,4,4.69,Free,1499273469,uk.co.xigxag.xigxagplayer,https://apps.apple.com/gb/app/xigxag-audiobooks-but-better/id1499273469
+Books,97,Twinkl Rhino Readers Books,Twinkl Limited,2017,0.83,108,13,27,266,7,4.63,Free,1540798519,co.uk.twinkl.rhinoreaders,https://apps.apple.com/gb/app/twinkl-rhino-readers-books/id1540798519
+Medical,9,FibriCheck,Qompium nv,2198,0.73,0,250,0,273,300,4.44,Free,1102327473,com.qompium.FibriCheck1,https://apps.apple.com/gb/app/fibricheck/id1102327473
+Medical,29,Freya • Surge Timer,The Positive Birth Company Ltd.,1207,0.79,173,24,39,80,9,4.88,£4.99,1447509164,com.thepositivebirthcompany.surgetracker,https://apps.apple.com/gb/app/freya-surge-timer/id1447509164
+Medical,46,Plabable for PLAB,Plabable Limited,1121,0.67,421,11,72,49,10,4.79,Free,1446896709,com.plabable.plabable,https://apps.apple.com/gb/app/plabable-for-plab/id1446896709
+Medical,49,Squeezy Men,Living With Ltd,1126,0.9,45,2,10,71,3,4.77,£3.99,929618748,com.propagata.squeezyformen,https://apps.apple.com/gb/app/squeezy-men/id929618748
+Medical,80,Five Lives: Brain Health 50+,SharpTx Ltd,2205,0.81,0,0,0,0,518,4.58,Free,1501546196,life.sharptx.app.production,https://apps.apple.com/gb/app/five-lives-brain-health-50/id1501546196
+Medical,87,Plabable for PA,Plabable Limited,106,0.99,1,0,0,0,0,4.46,Free,1504080359,com.plabable.plabablepa,https://apps.apple.com/gb/app/plabable-for-pa/id1504080359
+Food & Drink,4,Shuffle Rewards: Eat & Earn,Shuffle Finance Ltd,226,1.0,0,0,0,0,0,4.66,Free,6474543590,com.shuffle.finance,https://apps.apple.com/gb/app/shuffle-rewards-eat-earn/id6474543590
+Food & Drink,8,Herbi: Meal Planner + Recipes,Tempo Labs Creative Ltd,169,0.7,52,12,4,2,3,4.19,Free,6777230233,com.tempolabs.herbi,https://apps.apple.com/gb/app/herbi-meal-planner-recipes/id6777230233
+Food & Drink,9,Annabel Karmel Kids Recipes,Annabel Karmel Group Holdings Limited,1918,0.67,158,16,35,744,4,4.43,Free,409157308,tv.umee.customer.annabelkarmel,https://apps.apple.com/gb/app/annabel-karmel-kids-recipes/id409157308
+Food & Drink,12,The Doctor’s Kitchen,Doctors Kitchen Digital Ltd,1896,0.75,286,48,64,219,20,4.81,Free,1568122827,com.thedoctorskitchen.ios,https://apps.apple.com/gb/app/the-doctors-kitchen/id1568122827
+Food & Drink,14,Food For Fitness: High Protein,Food For Fitness Limited,503,0.95,6,0,2,20,1,4.87,Free,6449541193,com.foodforfitness,https://apps.apple.com/gb/app/food-for-fitness-high-protein/id6449541193
+Food & Drink,19,Coeliac UK,Coeliac UK,130,1.0,0,0,0,0,0,1.71,Free,1129216617,uk.foodmaestro.coeliacUk,https://apps.apple.com/gb/app/coeliac-uk/id1129216617
+Food & Drink,23,Cherrypick: Plan | Shop | Cook,Total Food Control Ltd,520,0.99,1,0,0,1,1,4.43,Free,1567423761,com.lollipopai.lollipop,https://apps.apple.com/gb/app/cherrypick-plan-shop-cook/id1567423761
+Food & Drink,43,The Curry Guy - Spiced Recipes,Stuart Cooper,645,0.8,75,8,18,55,8,4.64,Free,1043129225,resortmarketing.Curry-Guy,https://apps.apple.com/gb/app/the-curry-guy-spiced-recipes/id1043129225
+Food & Drink,79,Hardens: Restaurant Guide,Hardens Ltd,139,0.95,4,2,0,1,0,4.36,Free,949622414,com.Hardens.2015,https://apps.apple.com/gb/app/hardens-restaurant-guide/id949622414
+Food & Drink,80,Kneady: Bread & Baking Recipes,Quillbound Studios Ltd,1619,0.62,730,5,132,119,8,4.81,Free,1534576984,com.kneady-technologies.kneady,https://apps.apple.com/gb/app/kneady-bread-baking-recipes/id1534576984
+Food & Drink,94,5:2 Fasting Diet Recipes,APP KTCHN LTD,401,0.62,23,4,7,214,1,4.49,Free,1124902886,com.janakshah.52recipes,https://apps.apple.com/gb/app/5-2-fasting-diet-recipes/id1124902886
+Shopping,24,Freebies & Giveaways - Leavit,Gokhan Navruz,193,0.71,65,1,6,6,1,4.17,Free,6476391295,com.freecycle,https://apps.apple.com/gb/app/freebies-giveaways-leavit/id6476391295
+Shopping,36,AT Price Tracker,Blackflare Ltd,291,1.0,1,0,0,0,0,4.67,Free,6472184430,com.liprock.AT-Price-Tracker,https://apps.apple.com/gb/app/at-price-tracker/id6472184430
