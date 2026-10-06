@@ -1,0 +1,1266 @@
+[
+  {
+    "id": "6447516226",
+    "name": "app 6447516226",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 97,
+      "date_range": [
+        "2023-07-03",
+        "2026-10-04"
+      ],
+      "stars": {
+        "1": 58,
+        "2": 3,
+        "3": 0,
+        "4": 10,
+        "5": 26
+      },
+      "low_star_count": 61,
+      "low_star_share_pct": 62.9,
+      "unmatched_low": 28,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 28,
+          "share_of_low_pct": 46,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-10-04",
+              "version": "1.5.7",
+              "quote": "Stay away !!!: Just another money grabber ! 3days free trial and ask for your bank details !!! Useless app ! Don't bother to download it, you waste your time !"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-29",
+              "version": "1.5.7",
+              "quote": "Unhelpful: Pointless app, it isn\u2019t accurate. Don\u2019t know why they are charging 9.99 per month!"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-27",
+              "version": "1.5.7",
+              "quote": "Not paying for it: It\u2019s disgusting that we have to pay for an app that should be free they just want the money and parcels go missing and we never get them why should we..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 7,
+          "share_of_low_pct": 11,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-19",
+              "version": "1.5.3",
+              "quote": "Parcel & Post : Express Tracking: I have never known to ever have to pay \u00a310 a week or \u00a360 a year to track a parcel??? It is absolutely ridiculous especially for my case..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-03-04",
+              "version": "1.4.9",
+              "quote": "Not worth it: The concept is good but the updates are too slow most times >24h late so quite useless"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-10-13",
+              "version": "1.4.5",
+              "quote": "Charges to track your parcel !: Did not expect to have to pay to track a parcel as all other tracking systems are free - waste of time telling me to track it without tel..."
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 2,
+          "share_of_low_pct": 3,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-27",
+              "version": "1.5.7",
+              "quote": "Not paying for it: It\u2019s disgusting that we have to pay for an app that should be free they just want the money and parcels go missing and we never get them why should we..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-03",
+              "version": "1.5.4",
+              "quote": "Refund me: I\u2019d like a refund as I tried to cancel the subscription and it didn\u2019t let me I need a refund asap"
+            }
+          ]
+        },
+        {
+          "theme": "offline",
+          "count": 1,
+          "share_of_low_pct": 2,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-19",
+              "version": "1.5.3",
+              "quote": "Parcel & Post : Express Tracking: I have never known to ever have to pay \u00a310 a week or \u00a360 a year to track a parcel??? It is absolutely ridiculous especially for my case..."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 1,
+          "share_of_low_pct": 2,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-04-01",
+              "version": "1.5.0",
+              "quote": "A Joke: You must be a muppet if your going to pay and subscribe to what they want to track a parcel, it\u2019s beyond a joke companies use them, not even one off payment say..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1397865865",
+    "name": "app 1397865865",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 86,
+      "date_range": [
+        "2019-11-19",
+        "2026-10-02"
+      ],
+      "stars": {
+        "1": 55,
+        "2": 7,
+        "3": 3,
+        "4": 2,
+        "5": 19
+      },
+      "low_star_count": 62,
+      "low_star_share_pct": 72.1,
+      "unmatched_low": 27,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 30,
+          "share_of_low_pct": 48,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-08-13",
+              "version": "1.8.2",
+              "quote": "Do Not Download: i clicked on the 7 day free trial and couldn\u2019t cancel it so it look \u00a39.99 out of my bank when i don\u2019t even use the app and their was no option to cancel..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-31",
+              "version": "1.8.1",
+              "quote": "Silly app: Says if you pay for the upgraded version you can live track your parcel. Done the free trial to see if it worked and wasn\u2019t true. Cancelled straight away"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-29",
+              "version": "1.8.1",
+              "quote": "price: way to much money!! \u00a310 a week??"
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 3,
+          "share_of_low_pct": 5,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-10-02",
+              "version": "1.8.7",
+              "quote": "Tracking cost: Why we should have to pay to track our parcel\ud83d\ude21"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-08-13",
+              "version": "1.8.2",
+              "quote": "Do Not Download: i clicked on the 7 day free trial and couldn\u2019t cancel it so it look \u00a39.99 out of my bank when i don\u2019t even use the app and their was no option to cancel..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-07-10",
+              "version": "1.5.81",
+              "quote": "Forced \u201cfree\u201d trial: To put it simply I don\u2019t want to get the subscription and I don\u2019t want to try the free trial, there is no option to skip it and nothing telling you..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 3,
+          "share_of_low_pct": 5,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-11-05",
+              "version": "1.5.68",
+              "quote": "Don\u2019t bother: Wanted to track a parcel, then as soon as I downloaded the app it asked me to subscribe to a monthly paid subscription, so did the free trial for it, then..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2022-11-18",
+              "version": "1.4.07",
+              "quote": "Absolute Crap: Keeps crashing when trying to integrate Amazon / eBay accounts"
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2021-06-24",
+              "version": "1.4.04",
+              "quote": "Poor quality for a paid app: The data returned is often inaccurate, outdated and wrongly formatted - way too many glitches for a paid app, please dedicate some time to i..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 2,
+          "share_of_low_pct": 3,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-19",
+              "version": "1.8.1",
+              "quote": "Can\u2019t cancel free trial subscription: Downloaded the app to track a parcel, said there\u2019s a free trial for 7 days and you can cancel anytime so I thought I\u2019d do it then c..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-12-28",
+              "version": "1.7.3",
+              "quote": "Scam: This app is a scam. Part of a larger scam involving fake sales through TikTok. After paying for goods, you are directed to this app which offers \u00a39.99 per week cha..."
+            }
+          ]
+        },
+        {
+          "theme": "accuracy or content",
+          "count": 2,
+          "share_of_low_pct": 3,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-10-16",
+              "version": "1.5.68",
+              "quote": "Useless. Doesn\u2019t update and shows wrong info: How this app has so many good reviews is beyond me. The fact it\u2019s a paid for app is a disgrace. It doesn\u2019t update. It shows..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2021-06-24",
+              "version": "1.4.04",
+              "quote": "Poor quality for a paid app: The data returned is often inaccurate, outdated and wrongly formatted - way too many glitches for a paid app, please dedicate some time to i..."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 2,
+          "share_of_low_pct": 3,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-02-13",
+              "version": "1.5.44",
+              "quote": "Subscription: I kept getting charged on my account for \u00a329.99 every now and again but Ihad cancelled the subscription \ud83d\ude23 plus this app coukdnt track what I needed it to"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2022-11-18",
+              "version": "1.4.07",
+              "quote": "Absolute Crap: Keeps crashing when trying to integrate Amazon / eBay accounts"
+            }
+          ]
+        },
+        {
+          "theme": "ads",
+          "count": 1,
+          "share_of_low_pct": 2,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-01-24",
+              "version": "1.7.3",
+              "quote": "Unauthorised charges: Advertised 7 days free access and charged right away want refund"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1018594473",
+    "name": "app 1018594473",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 369,
+      "date_range": [
+        "2015-12-12",
+        "2026-10-01"
+      ],
+      "stars": {
+        "1": 14,
+        "2": 3,
+        "3": 14,
+        "4": 38,
+        "5": 300
+      },
+      "low_star_count": 17,
+      "low_star_share_pct": 4.6,
+      "unmatched_low": 6,
+      "themes": [
+        {
+          "theme": "bugs or crashes",
+          "count": 4,
+          "share_of_low_pct": 24,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-05-31",
+              "version": "4.4.2-b",
+              "quote": "Helps slow players!: So many slow players and there\u2019s no way to either hurry them up give them a warning or cancel the game without loosing your own score percentage! It..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-03-29",
+              "version": "4.3.12",
+              "quote": "App down: App doesnt work"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-07-03",
+              "version": "4.2.25",
+              "quote": "Ai worked great at first no it dosent: Ai ma king worked great for the first day decided to pay for pro version now the camera dosent come up when I click it , tried clo..."
+            }
+          ]
+        },
+        {
+          "theme": "price, trial or paywall",
+          "count": 4,
+          "share_of_low_pct": 24,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-02-06",
+              "version": "4.3.10",
+              "quote": "keeps trying to charge: i paid for the yearly subscription on christmas but it keeps trying to take it out of my account"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-05-02",
+              "version": "4.2.12",
+              "quote": "False: Says its 12.99 a year but when you try to subscribe its 39.99"
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-04-18",
+              "version": "4.2.9",
+              "quote": "First time use failure: Would only allow me to use the auto counter by forcing you to take up a free trial which of course automatically starts taking your money if you..."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 3,
+          "share_of_low_pct": 18,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-03-29",
+              "version": "4.3.12",
+              "quote": "Can\u2019t sign in: Can\u2019t sign in keeps saying bad gateway"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-02-06",
+              "version": "4.3.10",
+              "quote": "keeps trying to charge: i paid for the yearly subscription on christmas but it keeps trying to take it out of my account"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-02-11",
+              "version": "4.1.21",
+              "quote": "Rubbish scam.: I wanted to use it to score for me and my son at home and you can\u2019t do that. You have to have two phones and two accounts. Complete rubbish. Also you have..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 1,
+          "share_of_low_pct": 6,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-08-25",
+              "version": "4.4.3-d",
+              "quote": "No longer retains stats: This app started so well for me but it hasn\u2019t retained any of my stats since early July despite numerous games. Tried to contact developer but n..."
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 1,
+          "share_of_low_pct": 6,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-05-31",
+              "version": "4.4.2-b",
+              "quote": "Helps slow players!: So many slow players and there\u2019s no way to either hurry them up give them a warning or cancel the game without loosing your own score percentage! It..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "6749278824",
+    "name": "app 6749278824",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 0,
+      "date_range": [],
+      "stars": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "low_star_count": 0,
+      "low_star_share_pct": 0,
+      "unmatched_low": 0,
+      "themes": []
+    }
+  },
+  {
+    "id": "6746565278",
+    "name": "app 6746565278",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 7,
+      "date_range": [
+        "2026-02-19",
+        "2026-03-26"
+      ],
+      "stars": {
+        "1": 5,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 1
+      },
+      "low_star_count": 6,
+      "low_star_share_pct": 85.7,
+      "unmatched_low": 1,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 3,
+          "share_of_low_pct": 50,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-03-26",
+              "version": "1.0.59",
+              "quote": "Joke: Absolutely rubbish don\u2019t trust that app only what they need is your money \ud83e\udd2e"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-03-03",
+              "version": "1.0.58",
+              "quote": "Beware: Offers a free 3 day trial - so when clicked ok it then charged me immediately for \u00a329.99 for an annual subscription. Scam??"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-02-19",
+              "version": "1.0.58",
+              "quote": "Scam!: Canceled the subscription because it\u2019s not really uk friendly. Still got charged and can not get my money back and they just ignore anything to do with refunds. P..."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 1,
+          "share_of_low_pct": 17,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-03-07",
+              "version": "1.0.58",
+              "quote": "Scam: Don\u2019t sign up to the free trail, it will charge you the full yearly amount then you will have trouble even accessing the account. Its all over google This app is f..."
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 1,
+          "share_of_low_pct": 17,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-02-23",
+              "version": "1.0.58",
+              "quote": "The app asks to collect personal data, and no option to skip this step.: During installation you will have to accept collection of your personal data, which will be sold..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1609983545",
+    "name": "app 1609983545",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 361,
+      "date_range": [
+        "2022-04-11",
+        "2026-10-01"
+      ],
+      "stars": {
+        "1": 82,
+        "2": 10,
+        "3": 2,
+        "4": 2,
+        "5": 265
+      },
+      "low_star_count": 92,
+      "low_star_share_pct": 25.5,
+      "unmatched_low": 22,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 64,
+          "share_of_low_pct": 70,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-30",
+              "version": "2.0.18",
+              "quote": "Not worth it: Doesn\u2019t work in my city waste of \u00a325 no free trial to check before. Also only things people notify about is battle decks which aren\u2019t rare seeing as they c..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-09-29",
+              "version": "2.0.18",
+              "quote": "Unless your botting there isn\u2019t much point: It\u2019s \u00a359.99 for a year to get notifications. When you click the link the products are already gone or the bots have frozen up..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-20",
+              "version": "2.0.18",
+              "quote": "Very pointless: Really high subscription cost (\u00a325 a month!!) just to be told that every shop in a 25 mile radius is sold out of tcg product. Really recommend not using..."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 6,
+          "share_of_low_pct": 7,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-02-04",
+              "version": "1.5.26",
+              "quote": "Scam: Signed in and instantly took a \u00a3149.99 charge on my card. Can\u2019t sign into the app nor find any way to get my money back. This is a scam"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-05-15",
+              "version": "1.5.01",
+              "quote": "Unusable: I\u2019ve been trying to use this for the last week and all it ever says is that registration to use the app is currently unavailable due to migration. \ud83e\udd37\ud83c\udffd\u200d\u2642\ufe0f"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-11-13",
+              "version": "1.4.93",
+              "quote": "MISSLEADING TO GET MONEY: Missleading as you like feel like I have been scammed as there was like 3 different products that were all out of stock, as soon as you log in..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 4,
+          "share_of_low_pct": 4,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-15",
+              "version": "2.0.02",
+              "quote": "Waste of money: Not worth paying \u00a360 for alerts you can receive for free easily online. By the time they post out an alert their own team are already scalping every webs..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-09-12",
+              "version": "1.5.16",
+              "quote": "Worst Customer Service: They designed their app subscription like you can join according to your will but you can leave as your will. They will charge your bank even you..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-06-22",
+              "version": "1.3.0",
+              "quote": "Avoid: Downloaded app after watching Insta/TilTok content. Signed up and paid 3months (\u00a3100) - CCN said subscription not active. - money out of my account. I emailed the..."
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 4,
+          "share_of_low_pct": 4,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-04-10",
+              "version": "1.5.34",
+              "quote": "Scam: Never felt more scammed in my life. You get the same information for FREE from tik tok & Instagram pages, and the \u00a350 membership is a joke, I get more use out of m..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-04-01",
+              "version": "1.5.33",
+              "quote": "Don\u2019t download: Free to download then have to pay no free option to app ridiculous"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-02-05",
+              "version": "1.5.01",
+              "quote": "First screen bugged: Not sure if somethings wrong with the app but I can\u2019t even get past the opening screen, there\u2019s no option to move forward into the actual app it\u2019s w..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 3,
+          "share_of_low_pct": 3,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-08-11",
+              "version": "2.0.12",
+              "quote": "Don\u2019t waste time downloading: Forces you to buy a subscription if you don\u2019t the app just won\u2019t work and keeps taking you back to the subscription page"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-07-21",
+              "version": "1.5.1",
+              "quote": "Scam dont waste ur time downloading it: Disappointed"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-01-06",
+              "version": "1.2.01",
+              "quote": "Out of stock: Every single item they suggest is out of stock bar a couple of items that are pre order with release dates 4-8 weeks from purchase. It doesn\u2019t matter how q..."
+            }
+          ]
+        },
+        {
+          "theme": "ads",
+          "count": 2,
+          "share_of_low_pct": 2,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-16",
+              "version": "2.0.16",
+              "quote": "Disgusting: Saw an ad on this i think on tiktok or facebook, they didnt put the price In the ad and i thought it might come with a free trail but no it didnt and 25 poun..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-06-09",
+              "version": "1.3.0",
+              "quote": "Don\u2019t waste your time: Completely misleading advertising for the app. Half the items you will need to return, if you hit the CCN jackpot you might make \u00a32.50 profit! Com..."
+            }
+          ]
+        },
+        {
+          "theme": "accuracy or content",
+          "count": 1,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-04-03",
+              "version": "1.5.33",
+              "quote": "Pay: Have to pay to enter the app and it\u2019s not accurate at all don\u2019t recommend."
+            }
+          ]
+        },
+        {
+          "theme": "accessibility",
+          "count": 1,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-11-29",
+              "version": "1.5.168",
+              "quote": "Misleading- requires in app purchase: Very disappointing! Concept of the app looks great and very useful but can\u2019t justify having to make a payment straight away with no..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "6760328162",
+    "name": "app 6760328162",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 2,
+      "date_range": [
+        "2026-09-03",
+        "2026-09-16"
+      ],
+      "stars": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0
+      },
+      "low_star_count": 1,
+      "low_star_share_pct": 50.0,
+      "unmatched_low": 0,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 1,
+          "share_of_low_pct": 100,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-16",
+              "version": "2.8.1",
+              "quote": "Good but not the AI chat: Good to keep track of expenses but the AI chat bot is impossible, repeating itself, not answering the correct questions, telling me how to do s..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 1,
+          "share_of_low_pct": 100,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-16",
+              "version": "2.8.1",
+              "quote": "Good but not the AI chat: Good to keep track of expenses but the AI chat bot is impossible, repeating itself, not answering the correct questions, telling me how to do s..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 1,
+          "share_of_low_pct": 100,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-16",
+              "version": "2.8.1",
+              "quote": "Good but not the AI chat: Good to keep track of expenses but the AI chat bot is impossible, repeating itself, not answering the correct questions, telling me how to do s..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1050169390",
+    "name": "app 1050169390",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 48,
+      "date_range": [
+        "2016-01-05",
+        "2023-12-07"
+      ],
+      "stars": {
+        "1": 8,
+        "2": 3,
+        "3": 3,
+        "4": 4,
+        "5": 30
+      },
+      "low_star_count": 11,
+      "low_star_share_pct": 22.9,
+      "unmatched_low": 5,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 5,
+          "share_of_low_pct": 45,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-04-07",
+              "version": "4.0",
+              "quote": "Higher subscription fee: I\u2019m really upset with this app. For about 3 years I have been subscribed and I pay my yearly fee. 3 months after paying this years fee, they com..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2019-09-24",
+              "version": "2.45",
+              "quote": "Can\u2019t access the videos: I\u2019ve paid for the subscription yet I can\u2019t access most of the videos because they seem to be restricted. Please fix this!"
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2018-08-17",
+              "version": "1.5",
+              "quote": "Needs to be free: This app is ok. Why do you have to pay money to view this? You are charging yet more money for people like Junior Doctors and Medicine Students who rea..."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 1,
+          "share_of_low_pct": 9,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-04-07",
+              "version": "4.0",
+              "quote": "Higher subscription fee: I\u2019m really upset with this app. For about 3 years I have been subscribed and I pay my yearly fee. 3 months after paying this years fee, they com..."
+            }
+          ]
+        },
+        {
+          "theme": "sync or integrations",
+          "count": 1,
+          "share_of_low_pct": 9,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2022-04-04",
+              "version": "3.72",
+              "quote": "Sync: Hi guys. I\u2019m giving it one star because I purchased annual access on website and there\u2019s no way to get it on phone unless I purchase it again from App Store. Sort..."
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 1,
+          "share_of_low_pct": 9,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2022-04-04",
+              "version": "3.72",
+              "quote": "Sync: Hi guys. I\u2019m giving it one star because I purchased annual access on website and there\u2019s no way to get it on phone unless I purchase it again from App Store. Sort..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "649858791",
+    "name": "app 649858791",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 147,
+      "date_range": [
+        "2013-06-20",
+        "2026-05-19"
+      ],
+      "stars": {
+        "1": 64,
+        "2": 7,
+        "3": 6,
+        "4": 10,
+        "5": 60
+      },
+      "low_star_count": 71,
+      "low_star_share_pct": 48.3,
+      "unmatched_low": 23,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 32,
+          "share_of_low_pct": 45,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-05-06",
+              "version": "5.0.5",
+              "quote": "\ud83d\udc4e\ud83c\udffc: Charge too much money now"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-04-09",
+              "version": "5.0.4",
+              "quote": "Update: Absolutely terrible update , so awkward to use now when it used to be so simple , jumped up in price for a useless version , not happy at all"
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-04-07",
+              "version": "5.0.3",
+              "quote": "Update needs to be emended: Pervious app was working perfectly, did the job. You publish the app without fixing the bugs and charging full price for something that doesn..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 18,
+          "share_of_low_pct": 25,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-04-09",
+              "version": "5.0.4",
+              "quote": "Update ruined ap: App was brilliant until update contacted via email told there are no issues although now sending bug fixes updates"
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-04-07",
+              "version": "5.0.3",
+              "quote": "Update needs to be emended: Pervious app was working perfectly, did the job. You publish the app without fixing the bugs and charging full price for something that doesn..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-03-31",
+              "version": "5.0.0",
+              "quote": "Crashes: Won\u2019t load after latest update"
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 7,
+          "share_of_low_pct": 10,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-01-08",
+              "version": "4.1.13",
+              "quote": "Terrible app: No way of cancelling your subscription. Customer service is no help at all. Do not purchase this app. Its a scam."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2021-11-21",
+              "version": "4.0.9",
+              "quote": "Avoid at all costs: Gone from being a very useful KOL student App to a totally useless poorly configured App. The A to B mode has gone and the developers stated that the..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2016-12-02",
+              "version": "3.2",
+              "quote": "Dissatisfied customer: This app is not cheap but is very useful and until recently I viewed it as a reasonable investment. That was until they begin to notify you that i..."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 4,
+          "share_of_low_pct": 6,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-06-23",
+              "version": "5.0.6",
+              "quote": "Gone down the pan: Used to be good took 32 quid off me now I can\u2019t login nobody I can contact will use Google Maps from now on"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-04-03",
+              "version": "5.0.1",
+              "quote": "H: Every time I use cabbies mate I have to log in again using my e mail address and password This never happened on the old system"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-04-03",
+              "version": "5.0.1",
+              "quote": "Taxi driver: With this update version every day it pop up to login my old version was better next year I will not subscribe again"
+            }
+          ]
+        },
+        {
+          "theme": "accuracy or content",
+          "count": 1,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2015-11-13",
+              "version": "2.2",
+              "quote": "Scam company: This company are seriously deluded. \u00a329.99 a year for a map! Londons roads are changing by the day. Do you honestly believe this company will keep up. I've..."
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 1,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2015-01-30",
+              "version": "2.0",
+              "quote": "Last update crashes app: Despite having lots of spare storage space the new app crashes and fails to download all the maps, expected better support after paying \u00a329. So..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "6736357076",
+    "name": "app 6736357076",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 203,
+      "date_range": [
+        "2024-11-07",
+        "2026-10-03"
+      ],
+      "stars": {
+        "1": 25,
+        "2": 4,
+        "3": 2,
+        "4": 4,
+        "5": 168
+      },
+      "low_star_count": 29,
+      "low_star_share_pct": 14.3,
+      "unmatched_low": 4,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 23,
+          "share_of_low_pct": 79,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-08-27",
+              "version": "6.4.2",
+              "quote": "Money Grabbing: I thought l was getting a three day free trial but apparently l had a free three day trial a year ago and l couldn\u2019t remember using the app so instead of..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-15",
+              "version": "6.3.2",
+              "quote": "0 review: There is something wrong with this app, it\u2019s organized by scammers because it\u2019s difficult to unsubscribe . Christians go and buy a bible, God doesn\u2019t want AI t..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-05-26",
+              "version": "6.2.2",
+              "quote": "BE MINDFUL OF THIS APP: Private companies should never be profiting from The Word. Ever. Better off using the money for alms. This is an AI-powered app, nothing to do wi..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 4,
+          "share_of_low_pct": 14,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-03-11",
+              "version": "6.0.9",
+              "quote": "Be careful - will charge subscription on day 1: I tend to try a free trial before committing to a subscription so was pleased to see there was a 3 day free trial for thi..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-07-30",
+              "version": "5.3.0",
+              "quote": "Charged me then didn\u2019t let me use it: I paid for a course and they tried take out another \u00a335 after the \u00a315 for the course. I hadn\u2019t finished the course and got it taken..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-04-05",
+              "version": "4.2",
+              "quote": "Not recommended: Dismal support. Non-responsive despite multiple emails, which is the only way to contact. Do not recommend."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 4,
+          "share_of_low_pct": 14,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-02-19",
+              "version": "6.0.8",
+              "quote": "Paid but never got access to login to my account: The app is glitchy at the moment and after seeing a number of adverts I decided to buy a 3 month subscription but now w..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-02-04",
+              "version": "6.0.6",
+              "quote": "Could not sign up: I downloaded the app, went through the whole set up process. When I tried to set up my account, I kept getting a \u2018something went wrong, try again\u2019 mes..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-10-20",
+              "version": "5.6.9",
+              "quote": "Misleading info: Misleading info, I signed up for the four week offer. I am on benefits money is extremely tight and this was all I could afford, I was then charged anot..."
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 2,
+          "share_of_low_pct": 7,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-01-12",
+              "version": "6.0.3",
+              "quote": "\u00a320 a month: I really want this app but I wish there was free access, I would really benefit from this, but \u00a320 a month I can\u2019t afford"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-02-12",
+              "version": "3.2",
+              "quote": "I don\u2019t know how to feel about: You said it\u2019s going to help with relationships. I thought it was an app for healing and helping cope with trauma or attachment issues but..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 1,
+          "share_of_low_pct": 3,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-02-19",
+              "version": "6.0.8",
+              "quote": "Paid but never got access to login to my account: The app is glitchy at the moment and after seeing a number of adverts I decided to buy a 3 month subscription but now w..."
+            }
+          ]
+        },
+        {
+          "theme": "ads",
+          "count": 1,
+          "share_of_low_pct": 3,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-02-19",
+              "version": "6.0.8",
+              "quote": "Paid but never got access to login to my account: The app is glitchy at the moment and after seeing a number of adverts I decided to buy a 3 month subscription but now w..."
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
