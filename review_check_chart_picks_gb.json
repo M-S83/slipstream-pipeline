@@ -1,0 +1,1686 @@
+[
+  {
+    "id": "1054807221",
+    "name": "app 1054807221",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 160,
+      "date_range": [
+        "2020-07-16",
+        "2026-09-22"
+      ],
+      "stars": {
+        "1": 59,
+        "2": 13,
+        "3": 18,
+        "4": 20,
+        "5": 50
+      },
+      "low_star_count": 72,
+      "low_star_share_pct": 45.0,
+      "unmatched_low": 40,
+      "themes": [
+        {
+          "theme": "accuracy or content",
+          "count": 14,
+          "share_of_low_pct": 19,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-02",
+              "version": "6.5.1",
+              "quote": "Ireland (Republic): Are your sure Ireland is the Schengen? Because pretty sure it isn\u2019t therefore calculating for anyone travelling in EU is not accurate!"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-03-07",
+              "version": "4.0.3",
+              "quote": "Inaccurate app: I have calculated manually the number of days available for visits to Europe and find I have 33 days available. The app states 55 days available, a figur..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2022-12-22",
+              "version": "3.4",
+              "quote": "Poor: What should be a simple calculation appears incorrect. Initial entry appears fine, then when an additional stay is entered it does not recalculate remaining eligib..."
+            }
+          ]
+        },
+        {
+          "theme": "price, trial or paywall",
+          "count": 9,
+          "share_of_low_pct": 12,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-03-28",
+              "version": "6.2.1",
+              "quote": "Well, it used to be good\u2026: As with everything\u2026eventually they\u2019ll start charging money for something which was free\u2026 Still works as an instant \u2018Calculator\u2019 - but now you..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-10-26",
+              "version": "6.2.1",
+              "quote": "Paywall is ridiculous: App works well but is very basic and can be replaced by an excel sheet. The new paywall is ridiculous and will cause users to fall off. Offer a li..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-10-03",
+              "version": "6.2.1",
+              "quote": "Now not free: Very sad that this is not free after being with this app since brexit"
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 6,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2022-06-24",
+              "version": "3.3",
+              "quote": "Doesn\u2019t work: I\u2019ve been relying on this to keep me from overstaying. I began to get suspicious after adding a couple of future trips and the total didn\u2019t alter. I though..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2022-06-16",
+              "version": "3.3",
+              "quote": "Not accurate: Needs a spreadsheet to check accurately if making frequent visits to EU. For me lost 20 days somewhere!"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2022-03-08",
+              "version": "3.3",
+              "quote": "Doesn\u2019t calculate properly: I typed in all my trips for the last 6 months which totalled 84 days. This app said I had 45 days left which was incorrect - it should have s..."
+            }
+          ]
+        },
+        {
+          "theme": "ads",
+          "count": 2,
+          "share_of_low_pct": 3,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-09-21",
+              "version": "6.2",
+              "quote": "Too many ads: Thought I\u2019d finally found a half decent Schengen calculator, but every time you just touch this app a full page ad appears for the paid version. So annoyin..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2021-11-29",
+              "version": "3.2.1",
+              "quote": "Doesn\u2019t work: The calculator only adds up 2 trips"
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 2,
+          "share_of_low_pct": 3,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-07-25",
+              "version": "6.0.1",
+              "quote": "Ruined by update: This used to be an absolutely brilliant app, so easy to use and fantastically easy to read. Who on earth created the last version and completely wrecke..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2021-03-23",
+              "version": "3.2.1",
+              "quote": "STOPPED WORKING: At first this seemed to work OK but, after trying it out for an hour, it just stopped working properly. It was showing days used for each trip but not t..."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 1,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-12-11",
+              "version": "6.2.1",
+              "quote": "Absolutely shocking changes!: I used this app since way before Covid - it was perfect! What have you done? Pay! I\u2019m not registering or signing up or paying! Absolute ins..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 1,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2021-12-30",
+              "version": "3.2.1",
+              "quote": "Nice look but doesn\u2019t work: Every official online calendar says I have 6 days left from my 90 in any 180. This app says I have 37\u2026 I wish it was true but no. The design..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "902491237",
+    "name": "app 902491237",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 312,
+      "date_range": [
+        "2014-08-08",
+        "2026-09-21"
+      ],
+      "stars": {
+        "1": 89,
+        "2": 7,
+        "3": 15,
+        "4": 26,
+        "5": 175
+      },
+      "low_star_count": 96,
+      "low_star_share_pct": 30.8,
+      "unmatched_low": 13,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 74,
+          "share_of_low_pct": 77,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-21",
+              "version": "51.2",
+              "quote": "Scam App: If you pay upfront for an app then the app and the content you paid for should remain , not then hidden behind an updated paywall! The equivalent would be to b..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-13",
+              "version": "50.3",
+              "quote": "Worthless unless you pay monthly: As above. Would be happy to pay outright for this but as usual and like most other apps it\u2019s gone down the route of a subscription."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-06-11",
+              "version": "50.3",
+              "quote": "Started great now subscription.: Paid for a premium app used every day. Now I haven\u2019t used it in years. Dip in to check one law and can\u2019t see or use a thing without subs..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 17,
+          "share_of_low_pct": 18,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-02-28",
+              "version": "33.0",
+              "quote": "Subscription and Opening Errors: In the last few weeks, the subscription element is broken and makes you restore it every time you log on. Equally trying to get into the..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2021-04-27",
+              "version": "17.0",
+              "quote": "Paid \u00a34 for a loading screen: Pretty useless is an understatement, App starts to download and stops at 100% but never fully opens! After several attempts to run the load..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2020-09-19",
+              "version": "7.0",
+              "quote": "Won\u2019t even open: Open app and it opens to a loading page to load data. It will load up to 50% then won\u2019t load anymore unless I turn the phone off/on then it fully loads..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 4,
+          "share_of_low_pct": 4,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-09-14",
+              "version": "49.2",
+              "quote": "Unreliable, switched to a better alternative: I tried Pocket Sergeant on my iPhone, but it frequently failed to load and didn\u2019t remember my subscription. Because of this..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2020-01-02",
+              "version": "4.0",
+              "quote": "Terrible: I have bought this and it won\u2019t download on my phone. Contacted Iphone and they said the fault is with the app not my IPhone. sent message via email and no rep..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2017-08-10",
+              "version": "2.5.2",
+              "quote": "Rip off - DO NOT BUY: Having paid for the product, suddenly i get half a product because the author decides that a subscription is also now required to receive updates...."
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 4,
+          "share_of_low_pct": 4,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2019-11-26",
+              "version": "4.0",
+              "quote": "USELESS & POOR - don\u2019t install: I used this sporadically over the last three years until six months ago. Tried to use this week to be continually asked for subscription..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2017-08-10",
+              "version": "2.5.2",
+              "quote": "Rip off - DO NOT BUY: Having paid for the product, suddenly i get half a product because the author decides that a subscription is also now required to receive updates...."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2017-06-13",
+              "version": "2.5.2",
+              "quote": "Unadvertised subscriptions: Recommended this app to several friends. Was really impressed right up until I couldn't access anything without subscribing, was a bit of a s..."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 2,
+          "share_of_low_pct": 2,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-05-01",
+              "version": "48.0",
+              "quote": "Subscription should not be reminded each time you log in: Decent app but each time you open it, it continually asks for a subscription. If users want to subscription for..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2017-06-07",
+              "version": "2.5.0",
+              "quote": "Surprise subscription.: Prior to the latest update I would have rated this app highly. I've just loaded the app and I got a notification stating I need to sign in to sta..."
+            }
+          ]
+        },
+        {
+          "theme": "ads",
+          "count": 2,
+          "share_of_low_pct": 2,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2019-12-30",
+              "version": "4.0",
+              "quote": "Since the last update it\u2019s been awful so have cancelled the subscription: This used to be a great app when it was free it never seemed to fail since I\u2019ve paid subscripti..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2017-06-13",
+              "version": "2.5.2",
+              "quote": "Unadvertised subscriptions: Recommended this app to several friends. Was really impressed right up until I couldn't access anything without subscribing, was a bit of a s..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1563254124",
+    "name": "app 1563254124",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 119,
+      "date_range": [
+        "2022-06-02",
+        "2026-10-03"
+      ],
+      "stars": {
+        "1": 16,
+        "2": 9,
+        "3": 10,
+        "4": 20,
+        "5": 64
+      },
+      "low_star_count": 25,
+      "low_star_share_pct": 21.0,
+      "unmatched_low": 9,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 9,
+          "share_of_low_pct": 36,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-12-18",
+              "version": "28.1.4",
+              "quote": "Can\u2019t rely on it: Great when it works as Needed and used for my work however I had issues with app stating no internet connection whilst all other internet related produ..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-12-18",
+              "version": "28.1.4",
+              "quote": "Very good when it\u2019s online !?: Twice now in the busiest 3 weeks of the year the app doesn\u2019t work. Bet there\u2019s no refund tho for half assed availability is there !! Suppo..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2024-05-12",
+              "version": "16.0",
+              "quote": "Not good: I read a review from 1 year ago before I subscribed that had a response saying multiple stop (offline navigation) was only 2 weeks away which would be a massiv..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 8,
+          "share_of_low_pct": 32,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-12-18",
+              "version": "28.1.4",
+              "quote": "No workin: It's garbage! I pay to work with Delm8 Pro, but it doesn't work, it's rubbish!"
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-04-01",
+              "version": "27.1.2",
+              "quote": "Could be improved in many ways: Quite disappointed with this app to be honest. The QR scanner always picks up the wrong postcode by reading the smaller font first, it so..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-09-29",
+              "version": "10.0",
+              "quote": "Not working at all: I do not recommend it at all because I paid, and it doesn\u2019t work at all. All I can see on the screen is \u2018Multiple authentication attempts.\u2019"
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 2,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-12-18",
+              "version": "28.1.4",
+              "quote": "Can\u2019t rely on it: Great when it works as Needed and used for my work however I had issues with app stating no internet connection whilst all other internet related produ..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-12-18",
+              "version": "28.1.4",
+              "quote": "Very good when it\u2019s online !?: Twice now in the busiest 3 weeks of the year the app doesn\u2019t work. Bet there\u2019s no refund tho for half assed availability is there !! Suppo..."
+            }
+          ]
+        },
+        {
+          "theme": "offline",
+          "count": 2,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-12-18",
+              "version": "28.1.4",
+              "quote": "Can\u2019t rely on it: Great when it works as Needed and used for my work however I had issues with app stating no internet connection whilst all other internet related produ..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2024-05-12",
+              "version": "16.0",
+              "quote": "Not good: I read a review from 1 year ago before I subscribed that had a response saying multiple stop (offline navigation) was only 2 weeks away which would be a massiv..."
+            }
+          ]
+        },
+        {
+          "theme": "accessibility",
+          "count": 2,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-04-01",
+              "version": "27.1.2",
+              "quote": "Could be improved in many ways: Quite disappointed with this app to be honest. The QR scanner always picks up the wrong postcode by reading the smaller font first, it so..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-04-06",
+              "version": "6.0",
+              "quote": "Crashes every use: Brand new iPhone 13, every time my stops load up it crashes, now I\u2019m stuck in a new job who don\u2019t supply a nav with no way of knowing what stops I hav..."
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 2,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-02-23",
+              "version": "27.1.0",
+              "quote": "a lot of missing addresses: when using postcodes there are a lot of missing addresses, on a street with 40+ homes it gives 5 door numbers. also rather than adding addres..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2024-05-12",
+              "version": "16.0",
+              "quote": "Not good: I read a review from 1 year ago before I subscribed that had a response saying multiple stop (offline navigation) was only 2 weeks away which would be a massiv..."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 1,
+          "share_of_low_pct": 4,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-01-15",
+              "version": "12.0",
+              "quote": "Unsubscribe still charging my account: Good app but not allowing me to unsubscribe from June. Please fix this problem immediately or else I\u2019m going to take it further. W..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "6777471316",
+    "name": "app 6777471316",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 94,
+      "date_range": [
+        "2026-06-11",
+        "2026-10-04"
+      ],
+      "stars": {
+        "1": 41,
+        "2": 5,
+        "3": 9,
+        "4": 8,
+        "5": 31
+      },
+      "low_star_count": 46,
+      "low_star_share_pct": 48.9,
+      "unmatched_low": 8,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 34,
+          "share_of_low_pct": 74,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-10-04",
+              "version": "1.1.16",
+              "quote": "Asked for review before payment option lol: Then gives me a price plan I can get recipes from google for free screw this lol"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-10-04",
+              "version": "1.1.16",
+              "quote": "Terrible: The app promises a notification to cancel your free trial but never sends one. Please be aware of this absolute scam."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-10-01",
+              "version": "1.1.15",
+              "quote": "They asked for this: The app kept promoting me to leave a review before the set up process was concluded so here is my review of the app with what I have so far been abl..."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 6,
+          "share_of_low_pct": 13,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-26",
+              "version": "1.1.13",
+              "quote": "DON\u2019T SIGN UP FOR THE TRAIL: Easiest way to get scammed out of \u00a340!!! First day you have a look around the app, next day you plan your meals and realise you can\u2019t filter..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-16",
+              "version": "1.1.13",
+              "quote": "Pay to use: I hate when app make you download it, go through pages of sign up to then slap a paywall. It\u2019s not free. They are just stealing data a pretending to be free...."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-08-27",
+              "version": "1.0.75",
+              "quote": "Paywall: Disgusting that you are forced to sign up to a free trial to access the app. No way of bypassing. Would not recommend due to this, should not have to force peop..."
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 3,
+          "share_of_low_pct": 7,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-29",
+              "version": "1.1.13",
+              "quote": "Unuseful Ai: I thought this would be good after seeing it on TikTok, but you put in your requirements, and it ignores them: I wanted lots of meat dishes, it gave me aloa..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-09-21",
+              "version": "1.1.13",
+              "quote": "A really great idea.. but not quite there yet.: This app immediately drew my attention, as a mum of 2 the constant battle of planning meals and shopping lists week in we..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-07-19",
+              "version": "1.0.19",
+              "quote": "Has potential: Stopped my subscription, the meals are basic. No seasoning? A lot of missing ingredients. A few recipes with missed or miss spelled steps. Honestly the ap..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 2,
+          "share_of_low_pct": 4,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-10-01",
+              "version": "1.1.15",
+              "quote": "They asked for this: The app kept promoting me to leave a review before the set up process was concluded so here is my review of the app with what I have so far been abl..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-08-23",
+              "version": "1.0.75",
+              "quote": "Many faults: The app instructed me that I needed 199 cloves of garlic when only three were needed. I reported the glitch and it was sorted. However, I have selected vege..."
+            }
+          ]
+        },
+        {
+          "theme": "accuracy or content",
+          "count": 2,
+          "share_of_low_pct": 4,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-09-21",
+              "version": "1.1.13",
+              "quote": "A really great idea.. but not quite there yet.: This app immediately drew my attention, as a mum of 2 the constant battle of planning meals and shopping lists week in we..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-04",
+              "version": "1.0.9",
+              "quote": "Good idea but\u2026: The images of the recipes show extra seasonings, different cooking methods, and/or extra mystery ingredients that are not mentioned in the recipe. You co..."
+            }
+          ]
+        },
+        {
+          "theme": "ads",
+          "count": 2,
+          "share_of_low_pct": 4,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-03",
+              "version": "1.0.9",
+              "quote": "Uses AI: I really wanted to like this app but I immediately noticed that all the images of the food were AI. This is incredibly disappointing and put me off straight awa..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-26",
+              "version": "1.0.9",
+              "quote": "GOOGLE IS FREE: The app is awful. I thought I\u2019d try it after seeing an Instagram AD. Didn\u2019t realise it was subscription based. The concept is great. The execution is ter..."
+            }
+          ]
+        },
+        {
+          "theme": "rating prompts",
+          "count": 1,
+          "share_of_low_pct": 2,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-10-01",
+              "version": "1.1.15",
+              "quote": "They asked for this: The app kept promoting me to leave a review before the set up process was concluded so here is my review of the app with what I have so far been abl..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "6670216494",
+    "name": "app 6670216494",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 350,
+      "date_range": [
+        "2025-02-25",
+        "2026-10-04"
+      ],
+      "stars": {
+        "1": 121,
+        "2": 51,
+        "3": 47,
+        "4": 45,
+        "5": 86
+      },
+      "low_star_count": 172,
+      "low_star_share_pct": 49.1,
+      "unmatched_low": 38,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 84,
+          "share_of_low_pct": 49,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-09-28",
+              "version": "1.25.13",
+              "quote": "app looks great but lots of bugs: The meal content is great, and so is functionality of the app - when it works! I share a subscription with my partner and the shopping..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-23",
+              "version": "1.25.13",
+              "quote": "Don\u2019t get this app , just use free AI to plan meals: Terrible value. No warning given before subscription renewal."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-22",
+              "version": "1.25.13",
+              "quote": "Shocking customer service: Charged me for my annual subscription plus the monthly after free trial despite having changed to pay monthly. Emailed 3 times. Zero response,..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 44,
+          "share_of_low_pct": 26,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-09-28",
+              "version": "1.25.13",
+              "quote": "app looks great but lots of bugs: The meal content is great, and so is functionality of the app - when it works! I share a subscription with my partner and the shopping..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-19",
+              "version": "1.25.13",
+              "quote": "the basic are still not working properly: When I remove recipe from my shopping list the ingredients are not updating properly and I still have ingredients of things I\u2019v..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-08-19",
+              "version": "iOS 1.23.17",
+              "quote": "great recipes not so great app: Love the recipes and shopping list feature but the app itself is so glitchy and slow it is almost impossible to use!"
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 38,
+          "share_of_low_pct": 22,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-09-22",
+              "version": "1.25.13",
+              "quote": "Quite frustrating: I would never have left a review but it prompts me all the time so it was easier to accept rather than deny. Very frustrating as whenever you have a r..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-09-14",
+              "version": "1.24.23",
+              "quote": "Free trial warning!: Just a warning for anyone signing up for the free trial. I went ahead with the trial but cancelled my subscription before the trial period ended. De..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-06",
+              "version": "1.24.14",
+              "quote": "Unstable App, Bad Website: App is good when working. Regular outages prevent being able to view recipes. Logging into website no use as recipes (despite being listed) ca..."
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 27,
+          "share_of_low_pct": 16,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-28",
+              "version": "1.25.13",
+              "quote": "Waste of time: The app constantly breaks. I currently can\u2019t load any recipes and have food going out of date in the fridge so just made my own one. Disappointing given I..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-09-04",
+              "version": "1.24.14",
+              "quote": "All about the protein as usual: Recipes are good (some need tweaking but that\u2019s pretty standard) but the main issue is that you can only filter by protein content or cal..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-02",
+              "version": "1.24.13",
+              "quote": "Won\u2019t cancel my subscription and refund me: There\u2019s no way to cancel your subscription on the app and it\u2019s not visible in the App Store subscriptions. So you have to ema..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 25,
+          "share_of_low_pct": 15,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-22",
+              "version": "1.25.13",
+              "quote": "Shocking customer service: Charged me for my annual subscription plus the monthly after free trial despite having changed to pay monthly. Emailed 3 times. Zero response,..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-02",
+              "version": "1.24.13",
+              "quote": "Won\u2019t cancel my subscription and refund me: There\u2019s no way to cancel your subscription on the app and it\u2019s not visible in the App Store subscriptions. So you have to ema..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-07-10",
+              "version": "1.22.11",
+              "quote": "Loved it until\u2026: Absolutely loved this app until they charged me twice for an annual subscription. The second 3 months after the first payment. The second payment didn\u2019t..."
+            }
+          ]
+        },
+        {
+          "theme": "ads",
+          "count": 10,
+          "share_of_low_pct": 6,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-09-28",
+              "version": "1.25.13",
+              "quote": "app looks great but lots of bugs: The meal content is great, and so is functionality of the app - when it works! I share a subscription with my partner and the shopping..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-08-28",
+              "version": "1.24.13",
+              "quote": "Disappointing: No meal planning as advertised, it\u2019s basically a recipe app with a shopping list section, where you can create a shopping list for each week or whatever -..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-08-21",
+              "version": "1.24.13",
+              "quote": "Great idea; zero for implementation: App looks promising. However on use the meal planning functionality did not seem to be available as advertised. Secondly while cooki..."
+            }
+          ]
+        },
+        {
+          "theme": "sync or integrations",
+          "count": 4,
+          "share_of_low_pct": 2,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-09-22",
+              "version": "1.25.13",
+              "quote": "Quite frustrating: I would never have left a review but it prompts me all the time so it was easier to accept rather than deny. Very frustrating as whenever you have a r..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-19",
+              "version": "1.25.13",
+              "quote": "the basic are still not working properly: When I remove recipe from my shopping list the ingredients are not updating properly and I still have ingredients of things I\u2019v..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-12-17",
+              "version": "1.13.48",
+              "quote": "Desperate to like this app: So much goes wrong with it. Currently my search screen is a spinning wheel and hasn\u2019t worked for a week. The well documented problems with sy..."
+            }
+          ]
+        },
+        {
+          "theme": "accuracy or content",
+          "count": 4,
+          "share_of_low_pct": 2,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-29",
+              "version": "1.21.14",
+              "quote": "Misleading Trial, Inaccurate Macros and worst of all - AI customer service: Unfortunately, it\u2019s clear that the team at Mob is focused on marketing over improving the cus..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-05-04",
+              "version": "1.19.14",
+              "quote": "NOT good for weight loss: Recipes are good - calorie counts are wildly inaccurate. I bought this app hoping for healthy recipes which worked for my calorie deficit. The..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-11-04",
+              "version": "1.11.23",
+              "quote": "Horrible app & mistake ridden recipes: There\u2019s no way to filter by categories on the home page. Eg if I want to view all of the batch cook recipes, I have to scroll to t..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "6475587257",
+    "name": "app 6475587257",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 132,
+      "date_range": [
+        "2024-03-21",
+        "2026-10-04"
+      ],
+      "stars": {
+        "1": 48,
+        "2": 18,
+        "3": 17,
+        "4": 9,
+        "5": 40
+      },
+      "low_star_count": 66,
+      "low_star_share_pct": 50.0,
+      "unmatched_low": 18,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 33,
+          "share_of_low_pct": 50,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-10-04",
+              "version": "2.5.17",
+              "quote": "Disappointing app and poor customer support: Unfortunately, Mealia simply didn\u2019t work well for our household, so I stopped using it. My annual subscription then renewed..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-25",
+              "version": "2.5.16",
+              "quote": "SCAM - don\u2019t use: I purchased an annual subscription and when updating to a new phone my account has wiped - all my stored data is gone and the app is trying to make my..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-19",
+              "version": "2.5.16",
+              "quote": "\u00a329.99 a month?!: I\u2019m all for trying new meals to make them healthier but making the shopping prices \u00a329.99 then adding an extra just to look at the meal plans you may a..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 12,
+          "share_of_low_pct": 18,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-09",
+              "version": "2.5.11",
+              "quote": "App not working: App not working again, can\u2019t sending ingredients to shopping basket. Very slow and unresponsive. No reply from support."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-14",
+              "version": "2.4.14",
+              "quote": "So glitchy and basically doesn\u2019t work: I had such high hopes for this app and in principle it should be amazing but it just kept breaking constantly making it pretty muc..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-01",
+              "version": "2.4.10",
+              "quote": "can\u2019t make an account: i have literally tried to make an account 5 times and it crashes and resets everytime"
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 11,
+          "share_of_low_pct": 17,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-10-04",
+              "version": "2.5.17",
+              "quote": "Disappointing app and poor customer support: Unfortunately, Mealia simply didn\u2019t work well for our household, so I stopped using it. My annual subscription then renewed..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-09",
+              "version": "2.5.11",
+              "quote": "App not working: App not working again, can\u2019t sending ingredients to shopping basket. Very slow and unresponsive. No reply from support."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-06",
+              "version": "2.5.11",
+              "quote": "Not vegan friendly: It doesn\u2019t support Ocado and it can\u2019t make recommendations for vegan meals. I couldn\u2019t use it all."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 8,
+          "share_of_low_pct": 12,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-25",
+              "version": "2.5.16",
+              "quote": "SCAM - don\u2019t use: I purchased an annual subscription and when updating to a new phone my account has wiped - all my stored data is gone and the app is trying to make my..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-09-19",
+              "version": "2.5.16",
+              "quote": "Good idea but poor execution: I would have paid for this if allowed me to keep multiple meal plans for several weeks and take account of your child when suggesting meals..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-13",
+              "version": "2.4.17",
+              "quote": "Think twice before set preferences to Halal: The agent needs more training, and the app would benefit from giving users more control over their account preferences. For..."
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 5,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-10-04",
+              "version": "2.5.17",
+              "quote": "Disappointing app and poor customer support: Unfortunately, Mealia simply didn\u2019t work well for our household, so I stopped using it. My annual subscription then renewed..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-07-22",
+              "version": "2.4.17",
+              "quote": "Lack of Vegan options: While I love the idea for the app itself in being able to have my recipes and shopping all in one place, the bot and vegan options leave much to b..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-13",
+              "version": "2.4.17",
+              "quote": "Think twice before set preferences to Halal: The agent needs more training, and the app would benefit from giving users more control over their account preferences. For..."
+            }
+          ]
+        },
+        {
+          "theme": "ads",
+          "count": 2,
+          "share_of_low_pct": 3,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-05-12",
+              "version": "2.4.5",
+              "quote": "\u00a330pm for something to help you save money\u2026: Like everything online these days they try and advertise it to help you save money while shopping but yet you need to spend..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-08-01",
+              "version": "1.1.54",
+              "quote": "False advertising: I asked it to create a meal plan and shopping list for 14 single portion meals and it only gave me a plan and shopping list for 8 meals?"
+            }
+          ]
+        },
+        {
+          "theme": "accuracy or content",
+          "count": 1,
+          "share_of_low_pct": 2,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-27",
+              "version": "2.4.18",
+              "quote": "Useless: Mealia asked me what I wanted so I said high protein vegan and low fodmap. Mealia had two recipes, both were high fodmap, it doesn\u2019t seem to have the ability to..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1606911248",
+    "name": "app 1606911248",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 87,
+      "date_range": [
+        "2022-04-29",
+        "2026-10-01"
+      ],
+      "stars": {
+        "1": 13,
+        "2": 0,
+        "3": 0,
+        "4": 6,
+        "5": 68
+      },
+      "low_star_count": 13,
+      "low_star_share_pct": 14.9,
+      "unmatched_low": 5,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 6,
+          "share_of_low_pct": 46,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-11",
+              "version": "2.32.0",
+              "quote": "Absolute rip off: Been using the app for 2 years purely for invoices. I\u2019ve paid \u00a311.00 a month. They\u2019ve now upped their prices to \u00a317.99. Over a 54% increase. I complain..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-05-09",
+              "version": "2.27.0",
+              "quote": "Way too expensive: The app works fine, but \u00a38.99 per week is way too expensive! I\u2019ve only done two small jobs a week apart \u2014 one was just re-siliconing, the other repain..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-05-04",
+              "version": "2.27.0",
+              "quote": "Invoice maker: NOT FREE!!!!"
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 3,
+          "share_of_low_pct": 23,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-05-09",
+              "version": "2.27.0",
+              "quote": "Way too expensive: The app works fine, but \u00a38.99 per week is way too expensive! I\u2019ve only done two small jobs a week apart \u2014 one was just re-siliconing, the other repain..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-11-04",
+              "version": "2.8.0",
+              "quote": "Don\u2019t bother, use a different app: Downloaded made an invoice and the app just constantly loads for ages so you can\u2019t do anything with the invoice or send it anywhere an..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-10-21",
+              "version": "1.7.22",
+              "quote": "Overpriced: Doesn\u2019t let me create another invoice without upgrading it\u2019s really overpriced for the simple job it does very disappointed should have a free version not fo..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 1,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-02-03",
+              "version": "1.24.0",
+              "quote": "AVOID: The app holds the money and will not allow you to withdraw it. No customer service and messages go unanswered"
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 1,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-12-06",
+              "version": "1.16.1",
+              "quote": "Warning: I sent invoice and unfortunately my account number was compromised,completely wrong..absolutely unacceptable service!! Be careful guys!!!"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1033168436",
+    "name": "app 1033168436",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 0,
+      "date_range": [],
+      "stars": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "low_star_count": 0,
+      "low_star_share_pct": 0,
+      "unmatched_low": 0,
+      "themes": []
+    }
+  },
+  {
+    "id": "1483618032",
+    "name": "app 1483618032",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 450,
+      "date_range": [
+        "2022-12-22",
+        "2026-07-16"
+      ],
+      "stars": {
+        "1": 49,
+        "2": 22,
+        "3": 14,
+        "4": 40,
+        "5": 325
+      },
+      "low_star_count": 71,
+      "low_star_share_pct": 15.8,
+      "unmatched_low": 22,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 30,
+          "share_of_low_pct": 42,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-24",
+              "version": "2.6.0",
+              "quote": "Confusing.: I\u2019ve cancelled my subscription, it\u2019s too complicated to use, I work the same shifts each week, I\u2019ve saved these shifts but they don\u2019t automatically upload ,..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-02-09",
+              "version": "2.5.3",
+              "quote": "Not a fan of the new update: The new update is way overcomplicated. If I enter a shift that should be the end of it. I don't want to or need to go back to it to \"approve..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-01-30",
+              "version": "2.5.3",
+              "quote": "Keeps crashing: Brought the premium version and the app keep crashing, disappointed as I can\u2019t get my money back"
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 9,
+          "share_of_low_pct": 13,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-10-20",
+              "version": "2.4.9",
+              "quote": "Setting up the app: Wouldn't let me get passed the stage of setting up the account at all"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-08-29",
+              "version": "2.4.7",
+              "quote": "cant log in: Won\u2019t even let me make an account, needs to send a \u2018pin\u2019 to my number but no pin has come through- tried more than ten times"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-07-30",
+              "version": "2.0.3",
+              "quote": "Doesn\u2019t send me my verification code.: I can\u2019t make an account because it won\u2019t send me my verification code with my phone number, tried on wifi and 4/5G. Nothing. Shame."
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 7,
+          "share_of_low_pct": 10,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-10-28",
+              "version": "2.4.9",
+              "quote": "Used to be great :(: I hate starting out this review as completely negative but as someone who used it before and really enjoyed that app seeing so many features locked..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-10-14",
+              "version": "2.4.8",
+              "quote": "paywall for all actual useful features: I first started using this app around when it first came out, it was brilliant. however, i've now again come into a job where som..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-08-31",
+              "version": "2.4.7",
+              "quote": "Can\u2019t upload payslip: Begrudgingly paid for the premium version of the app in order to receive an estimate of my payslip - but a couple months in a row now it has been w..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 6,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-02-05",
+              "version": "2.5.3",
+              "quote": "So lagging and crashes: Fails to open, fails to load, doesn\u2019t let me always check out or take breaks, basic stuff just doesn\u2019t work"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-01-30",
+              "version": "2.5.3",
+              "quote": "Keeps crashing: Brought the premium version and the app keep crashing, disappointed as I can\u2019t get my money back"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-05-21",
+              "version": "2.4.3",
+              "quote": "used to be great now I can\u2019t even use: This app used to be great, especially if you were on a zero contact hour. However now, unless you want to pay a monthly subscripti..."
+            }
+          ]
+        },
+        {
+          "theme": "ads",
+          "count": 5,
+          "share_of_low_pct": 7,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-04-23",
+              "version": "2.5.8",
+              "quote": "Peter: Used to be great. Not a fan of the update. I am a tech-savvy person and don\u2019t mind new things. The advanced rota that is still advertised on the website made it s..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-01-15",
+              "version": "2.5.2",
+              "quote": "New update is so upsetting: I understand a company has to make money but surely adverts or a extra feature could help people upgrade, rather than taking away the sole pu..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-05-18",
+              "version": "2.2.8",
+              "quote": "False advertising.: Advertised as a \u201ctotally free\u201d app. Website still has a massive blurb about how it\u2019s all free\u2026except it\u2019s not. Can\u2019t even export shifts or save most..."
+            }
+          ]
+        },
+        {
+          "theme": "sync or integrations",
+          "count": 1,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2024-04-23",
+              "version": "2.2.6",
+              "quote": "Loved it until now: Used this app for over a year to track hours and pay. Most of the features are now locked behind a pay wall and can\u2019t even use widgets to see when my..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 1,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-03-22",
+              "version": "2.2.2",
+              "quote": "Use to be a great app: Most of the features are now moving to premium which you have to pay for! This apps say they support hourly paid people who are generally below av..."
+            }
+          ]
+        },
+        {
+          "theme": "accuracy or content",
+          "count": 1,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2023-01-23",
+              "version": "1.8.6",
+              "quote": "Unable to put in shifts for previous weeks: The app is really good for helping me track my shifts and earnings, however I am a very forgetful person and did forget to ad..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1133163586",
+    "name": "app 1133163586",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 152,
+      "date_range": [
+        "2017-07-24",
+        "2026-09-27"
+      ],
+      "stars": {
+        "1": 16,
+        "2": 11,
+        "3": 23,
+        "4": 20,
+        "5": 82
+      },
+      "low_star_count": 27,
+      "low_star_share_pct": 17.8,
+      "unmatched_low": 6,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 12,
+          "share_of_low_pct": 44,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-08-27",
+              "version": "5.250825.6319",
+              "quote": "Features have been stripped: I\u2019ve been using this app for years and the features available in the free version have been stripped bit by bit. I now can\u2019t even see what t..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2024-10-19",
+              "version": "5.240928.5788",
+              "quote": "Family subscription needed!: Unfortunately, they've stripped down the free version quite a bit, making it less appealing. I'd be happy to upgrade to premium, but with fo..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2024-10-17",
+              "version": "5.240928.5788",
+              "quote": "Used to be so much better: Disappointed as I used to use this app for tracking miles and sharing routes. Now this feature (miles per week/month/year) has been added to t..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 8,
+          "share_of_low_pct": 30,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-12-10",
+              "version": "5.231204.4929",
+              "quote": "Not working: Accepted the free trial but it does not work. Just comes up with a blank screen. Could not use when required. Have tried deleting and reinstalling but still..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2023-08-09",
+              "version": "5.230729.4702",
+              "quote": "App crashes: This app has crashed on me twice - page goes blank so you can\u2019t end a ride. I rode this morning and the app is still running - I can\u2019t stop it so apparently..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-05-16",
+              "version": "5.230506.4574",
+              "quote": "DO NOT UPDATE!: It said the update was to fix bugs, when actually it was to take away free simple features (one of which was my favourite) and make it part of pay subscr..."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 5,
+          "share_of_low_pct": 19,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-08-03",
+              "version": "5.230729.4702",
+              "quote": "Disappointed: I have been using this App for two years. Today it asked me to log in and now all my previous trainings have been deleted. To say I am gutted is an underst..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2021-06-15",
+              "version": "5.210606.0",
+              "quote": "Doesn\u2019t track rides properly: Equilab doesn\u2019t work in my opinion. I just went on a ride for 1hr45 and manually times the trot, walk and canter, as I\u2019ve not been happy wi..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2019-03-13",
+              "version": "4.2.8",
+              "quote": "Awful: Won\u2019t let me login on at all"
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 2,
+          "share_of_low_pct": 7,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-12-10",
+              "version": "5.231204.4929",
+              "quote": "Not working: Accepted the free trial but it does not work. Just comes up with a blank screen. Could not use when required. Have tried deleting and reinstalling but still..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2020-06-02",
+              "version": "4.2.83",
+              "quote": "50% Discount not honoured: If you see any subscription offers on the app, make sure you take a screen shot before it disappears, otherwise the developers will not honour..."
+            }
+          ]
+        },
+        {
+          "theme": "sync or integrations",
+          "count": 2,
+          "share_of_low_pct": 7,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2022-01-04",
+              "version": "5.211223.3702",
+              "quote": "Great but won\u2019t work with Apple Watch anymore: I really do like this app to track training sessions with my horse but the app has stopped working with my Apple Watch. It..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2020-10-05",
+              "version": "4.2.143",
+              "quote": "Doesn\u2019t work after ios14: Used to be a great app which also worked on Apple Watch, but since iOS update it doesn\u2019t work on Apple Watch anymore. Crashes immediately when..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 1,
+          "share_of_low_pct": 4,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2021-11-12",
+              "version": "5.211107.3597",
+              "quote": "App update with watch ruined the app: I don\u2019t know what you\u2019ve done with the new update but you\u2019ve ruined the app! Watch doesn\u2019t send safety tracking now, won\u2019t finish t..."
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
