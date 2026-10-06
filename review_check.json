@@ -1,0 +1,748 @@
+[
+  {
+    "id": "444924121",
+    "name": "Calorie Counter +",
+    "countries": [
+      "gb",
+      "us"
+    ],
+    "summary": {
+      "reviews_fetched": 1000,
+      "date_range": [
+        "2016-05-21",
+        "2026-10-02"
+      ],
+      "stars": {
+        "1": 145,
+        "2": 54,
+        "3": 68,
+        "4": 81,
+        "5": 652
+      },
+      "low_star_count": 199,
+      "low_star_share_pct": 19.9,
+      "unmatched_low": 66,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 74,
+          "share_of_low_pct": 37,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-21",
+              "version": "13.2.0",
+              "quote": "Disappointed: I am a type 1 diabetic and have used this app to keep track of my carbs and calories since 2021 when I was first diagnosed. I just updated the app for it t..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-08",
+              "version": "13.2.0",
+              "quote": "Money Stealing!: Used this app years. Renewed my membership after a short break, and 2 days later it still is telling me I\u2019m using the lite version. Yet the bills come O..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-08-29",
+              "version": "13.1.0",
+              "quote": "Subscription blocking: Was very impressed with the app until my free trial ran out. I chose not to subscribe as it\u2019s not within my budget to pay out for it. I didn\u2019t exp..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 27,
+          "share_of_low_pct": 14,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-08-11",
+              "version": "13.1.0",
+              "quote": "Not working: Not working since the update I can\u2019t add anything"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-05-13",
+              "version": "12.12.0",
+              "quote": "Slow: I want to like it but it's so slow when I add/remove and item it takes forever to load"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-04-07",
+              "version": "12.10.0",
+              "quote": "Broken and buggy: The app has been experiencing \u2018temporary issues\u2019 for about a year now. Unusable"
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 15,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-02",
+              "version": "12.15.0",
+              "quote": "Not free: This app gives you the impression that it\u2019s free to use, however it is not free at all. Gets you to sign up then sends you a message with payment details"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-01",
+              "version": "12.13.0",
+              "quote": "Pop up window: Every time I log in the ingredient, the pop up window shows up asking to rate the app, for that annoying reason one star, apart from that all is good"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-05-25",
+              "version": "12.12.0",
+              "quote": "Really good range of foods: Really like this app, has almost every food item you can think of, barcode scanner to easily find the product you want and lots of data on th..."
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 11,
+          "share_of_low_pct": 6,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-08-18",
+              "version": "13.1.0",
+              "quote": "UK localisation is great, but the subscription model sucks.: I understand you\u2019re a company that exists to make money, but having a \u201clite\u201d version that is even more restr..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-03-22",
+              "version": "12.9.0",
+              "quote": "Food database is limited: Extremely limited food database. Even food generally available in UK missing. App is otherwise quite good."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-11-19",
+              "version": "12.5.0",
+              "quote": "Quite Useless at Times: I was using it for a while and the more I did the more tedious it became. There is no option to add split squats but there are multiple exercise..."
+            }
+          ]
+        },
+        {
+          "theme": "rating prompts",
+          "count": 11,
+          "share_of_low_pct": 6,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-27",
+              "version": "13.0.1",
+              "quote": "App keeps asking me for a review: Worst app I\u2019ve ever used constantly asking to review shocking shocking so bad"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-02",
+              "version": "12.15.0",
+              "quote": "Stop asking me to rate the app: Stop asking me to rate the app with every action. It\u2019s ridiculous."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-15",
+              "version": "12.14.0",
+              "quote": "Stop: Stop Asking for a review. I did give 5 stars but asking all of the time Is driving me mad \ud83d\ude21"
+            }
+          ]
+        },
+        {
+          "theme": "ads",
+          "count": 10,
+          "share_of_low_pct": 5,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-08-24",
+              "version": "13.1.0",
+              "quote": "Customer review: Terrible app. Advertises \u201cfree\u201d what I can only scan 5 items a day for free? Joke"
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-08-18",
+              "version": "13.1.0",
+              "quote": "UK localisation is great, but the subscription model sucks.: I understand you\u2019re a company that exists to make money, but having a \u201clite\u201d version that is even more restr..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-01-16",
+              "version": "12.7.1",
+              "quote": "Free but not free: It\u2019s totally free to download the app, and if you eat only 5 items in a day, but anymore and you gotta pay a subscription\u2026 hey, you wanna be healthy,..."
+            }
+          ]
+        },
+        {
+          "theme": "accuracy or content",
+          "count": 9,
+          "share_of_low_pct": 5,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-05-06",
+              "version": "12.11.0",
+              "quote": "Dangerous defaults: Tried this app after being guided from NHS weight loss app to My Fitness Pal by a nutritionist. MFP\u2019s terrible database of inaccurately entered produ..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-03-22",
+              "version": "12.9.0",
+              "quote": "Food database is limited: Extremely limited food database. Even food generally available in UK missing. App is otherwise quite good."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-02-07",
+              "version": "12.8.0",
+              "quote": "Very Laggy: It\u2019s a good food database and better than myfitnesspal but it\u2019s so laggy these days and crashes far too often. It\u2019s a shame since you have to pay for it to g..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 6,
+          "share_of_low_pct": 3,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-21",
+              "version": "13.2.0",
+              "quote": "Disappointed: I am a type 1 diabetic and have used this app to keep track of my carbs and calories since 2021 when I was first diagnosed. I just updated the app for it t..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-08",
+              "version": "13.2.0",
+              "quote": "Money Stealing!: Used this app years. Renewed my membership after a short break, and 2 days later it still is telling me I\u2019m using the lite version. Yet the bills come O..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-05-19",
+              "version": "12.12.0",
+              "quote": "No low sodium option: I wanted to choose a low salt diet due to my higher blood pressure and suffering from migraines. But unfortunately as my BMI is apparently too low,..."
+            }
+          ]
+        },
+        {
+          "theme": "sync or integrations",
+          "count": 6,
+          "share_of_low_pct": 3,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-12-26",
+              "version": "12.7.1",
+              "quote": "Exercise and active calories do not sync: So frustrating that I can\u2019t get exercise to sync correctly. I can see my exercise logs but it doesn\u2019t subtract from my totals"
+            },
+            {
+              "stars": 2,
+              "country": "us",
+              "date": "2023-09-12",
+              "version": "9.25.1",
+              "quote": "Not worth a subscription: This app was fine for calorie counting, easy to use interface, synched easily with my other fitness apps. Once the free trial ends, you can onl..."
+            },
+            {
+              "stars": 2,
+              "country": "us",
+              "date": "2023-07-18",
+              "version": "9.24.0",
+              "quote": "Had some potential.: The app is painfully slow and many of the food calorie counts are inaccurate. I like the layout and that I can sync my burned calories information,..."
+            }
+          ]
+        },
+        {
+          "theme": "offline",
+          "count": 1,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "us",
+              "date": "2020-09-09",
+              "version": "8.2.0",
+              "quote": "It\u2019s ok but....: It\u2019s ok to use but if you have no internet connection it flat out doesn\u2019t work. Kind of pricey as well. Slow to refresh. If I didn\u2019t have 7 days worth o..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1064020872",
+    "name": "Foodvisor - AI Calorie Counter",
+    "countries": [
+      "gb",
+      "us"
+    ],
+    "summary": {
+      "reviews_fetched": 808,
+      "date_range": [
+        "2017-02-10",
+        "2026-10-04"
+      ],
+      "stars": {
+        "1": 154,
+        "2": 63,
+        "3": 67,
+        "4": 92,
+        "5": 432
+      },
+      "low_star_count": 217,
+      "low_star_share_pct": 26.9,
+      "unmatched_low": 53,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 116,
+          "share_of_low_pct": 53,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-30",
+              "version": "9.23.1",
+              "quote": "Scam: Paid for a year subscription then went to use it an hour later and it just keeps saying oops failed to update so now I can\u2019t use it"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-16",
+              "version": "9.23.1",
+              "quote": "Scam: You cannot get a refund on the subscription within 14 days even though they tell you you can before sign up. They advise to contact Apple if you want a refund, who..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-08-31",
+              "version": "9.22.0",
+              "quote": "thought i was paying less: i\u2019ve seen reviews that they also were scammed about paying \u00a31.66 because it just happened to me i clicked thinking i was only going to paying..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 36,
+          "share_of_low_pct": 17,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-26",
+              "version": "9.23.1",
+              "quote": "Weight tracking.: Cannot get in touch with any one?? Submitted several tickets not sure that there is any human contact available for support for this app? If you could..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-08-21",
+              "version": "9.21.0",
+              "quote": "Unable to change calorie goal to my own preference: I\u2019ve been using this app for a couple of weeks after paying the \u00a320 for \u2018full version\u2019. Disappointed to say the least..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-06-01",
+              "version": "9.17.1",
+              "quote": "Back to My Fitness Pal for me: I thought I\u2019d try a different food logging app but regret spending the \u00a320 If I am honest. I used it for a few weeks but it constantly har..."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 27,
+          "share_of_low_pct": 12,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-16",
+              "version": "9.23.1",
+              "quote": "Scam: You cannot get a refund on the subscription within 14 days even though they tell you you can before sign up. They advise to contact Apple if you want a refund, who..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-08-18",
+              "version": "9.21.0",
+              "quote": "Too many questions at the start: I\u2019ve never encountered an app where you have to spend your whole time setting it up by asking tons of questions..ironic how this app is..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-08-03",
+              "version": "9.20.0",
+              "quote": "Unusable without paying: Without a subscription, you\u2019re bombarded with \u2018offers\u2019 to sign up as well as third party ads which make it almost unusable as a quick calorie-lo..."
+            }
+          ]
+        },
+        {
+          "theme": "accuracy or content",
+          "count": 22,
+          "share_of_low_pct": 10,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-09-26",
+              "version": "9.23.1",
+              "quote": "Disappointing: The calorie entries for foods searched are so inaccurate. I paid one off for the year but I\u2019m having to cross check with another verified app. The ai scan..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-24",
+              "version": "9.23.1",
+              "quote": "Food doesn\u2019t log well: Really doesn\u2019t log food well, via the picture function or the barcode scan. It\u2019s very inaccurate which makes using the app quite frustrating and t..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-18",
+              "version": "9.19.1",
+              "quote": "Inaccurate: I\u2019ve been asking for a refund since 24th June and have been completely ignored. For anyone using the app you need to know it\u2019s not accurate the calorie calcu..."
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 22,
+          "share_of_low_pct": 10,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-08-08",
+              "version": "9.21.0",
+              "quote": "Good for journaling: The journaling works well but is a low quality Zoe. And the gamification of weight loss sucks. I want a good calorie counter I don\u2019t want a stupid p..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-26",
+              "version": "9.20.0",
+              "quote": "Avoid this app! It\u2019s a ripoff - nearly \u00a370 for 3 months, and impossible to cancel after your trial: Avoid this app, it\u2019s a ripoff and impossible to cancel after your fre..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-07-09",
+              "version": "9.19.0",
+              "quote": "More harm than good: I appreciate the visuals and the features but I wish you could turn off the pop ups in app, they\u2019re as bad as ads for blocking me logging anything i..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 21,
+          "share_of_low_pct": 10,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-27",
+              "version": "9.18.1",
+              "quote": "Full of bugs: So many bugs. Makes it very annoying to use. Kids like the gamification but its maths is very questionable! Lots of features only work if you\u2019ve turned oth..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-14",
+              "version": "9.18.0",
+              "quote": "Not suitable for UK market: The AI isn\u2019t very accurate and the food info isn\u2019t enough to successfully use in the UK. It\u2019s also really hard to correct errors. There are b..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-11-21",
+              "version": "9.2.1",
+              "quote": "All of a sudden: The app keeps crashing. I have been using the app for 275 days straight and now I have had to reinstall the app all my data has gone."
+            }
+          ]
+        },
+        {
+          "theme": "ads",
+          "count": 13,
+          "share_of_low_pct": 6,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-08-03",
+              "version": "9.20.0",
+              "quote": "Unusable without paying: Without a subscription, you\u2019re bombarded with \u2018offers\u2019 to sign up as well as third party ads which make it almost unusable as a quick calorie-lo..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-24",
+              "version": "9.20.0",
+              "quote": "Misleading subscription information: Downloaded the app and was offered a 12 month subscription for \u00a31.66 per month equating to \u00a319.99 for the year. I thought \u00a31.66 per..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-07-09",
+              "version": "9.19.0",
+              "quote": "More harm than good: I appreciate the visuals and the features but I wish you could turn off the pop ups in app, they\u2019re as bad as ads for blocking me logging anything i..."
+            }
+          ]
+        },
+        {
+          "theme": "sync or integrations",
+          "count": 3,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "us",
+              "date": "2026-01-01",
+              "version": "9.5.0",
+              "quote": "Data sync broken, no support, no refund: I\u2019m extremely dissatisfied with this app. I subscribed mainly for the Apple Health integration but the HealthKit data writing an..."
+            },
+            {
+              "stars": 1,
+              "country": "us",
+              "date": "2025-12-29",
+              "version": "9.5.0",
+              "quote": "Cute but not usable whatsoever.: So many glitches. Can\u2019t update the portion size for my recipe. No syncing with iPad. Entering a recipe or any meal takes way too long, a..."
+            },
+            {
+              "stars": 2,
+              "country": "us",
+              "date": "2025-09-15",
+              "version": "8.17.1",
+              "quote": "Inaccurate import from apple health / Apple products watch: The data import from Apple Watch/ Apple heath is grossly inaccurate. Not acceptable for a product that charge..."
+            }
+          ]
+        },
+        {
+          "theme": "rating prompts",
+          "count": 1,
+          "share_of_low_pct": 0,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "us",
+              "date": "2026-09-11",
+              "version": "9.23.1",
+              "quote": "Not accurate at all: I tried using this and almost everything I put in was inaccurate or took forever to try and search for the correct nutritional information. MyFitnes..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1502936453",
+    "name": "LADDER Strength Training Plans",
+    "countries": [
+      "gb",
+      "us"
+    ],
+    "summary": {
+      "reviews_fetched": 1000,
+      "date_range": [
+        "2024-07-17",
+        "2026-10-04"
+      ],
+      "stars": {
+        "1": 18,
+        "2": 7,
+        "3": 6,
+        "4": 30,
+        "5": 939
+      },
+      "low_star_count": 25,
+      "low_star_share_pct": 2.5,
+      "unmatched_low": 9,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 7,
+          "share_of_low_pct": 28,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-24",
+              "version": "4.9.2",
+              "quote": "Non-existent customer service: I joined a couple of weeks ago using a month long trial. Used it for a week then it booted me out saying my trial was over. I wrote to cus..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-23",
+              "version": "4.9.2",
+              "quote": "Customer service\ud83d\udc4e\ud83c\udffb: Great workouts but extremely disappointing customer service. I\u2019ve been unable to use the app for six weeks now due to sciatica and asked if my annual..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-10-02",
+              "version": "3.8.2",
+              "quote": "Could improve: The app is good, the concept is fantastic and the app works great. Really easy to use and get used to, you know what workouts you have and such, however t..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 5,
+          "share_of_low_pct": 20,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-24",
+              "version": "4.9.2",
+              "quote": "Non-existent customer service: I joined a couple of weeks ago using a month long trial. Used it for a week then it booted me out saying my trial was over. I wrote to cus..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-23",
+              "version": "4.9.2",
+              "quote": "Customer service\ud83d\udc4e\ud83c\udffb: Great workouts but extremely disappointing customer service. I\u2019ve been unable to use the app for six weeks now due to sciatica and asked if my annual..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-09-04",
+              "version": "3.7.9",
+              "quote": "Poor customer service: I have emailed and messaged several times asking whether a refund was possible after two months and I have been ignored. Very disappointing."
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 3,
+          "share_of_low_pct": 12,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-23",
+              "version": "4.9.2",
+              "quote": "Customer service\ud83d\udc4e\ud83c\udffb: Great workouts but extremely disappointing customer service. I\u2019ve been unable to use the app for six weeks now due to sciatica and asked if my annual..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2024-11-19",
+              "version": "3.0.10",
+              "quote": "Not a fan\u2026: Thought I\u2019d give this a try to mix up my workout routine, but after 20 minutes, I deleted it. Firstly, I don\u2019t want some sort of \u2018virtual trainer\u2019 giving me..."
+            },
+            {
+              "stars": 2,
+              "country": "us",
+              "date": "2026-09-03",
+              "version": "4.12.1",
+              "quote": "No way to stream: If you are paying for this. It needs to stream. Like yesterday."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 2,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-26",
+              "version": "4.10.2",
+              "quote": "Freezingggggg: Since the nutrition update, my app keeps freezing"
+            },
+            {
+              "stars": 1,
+              "country": "us",
+              "date": "2026-09-30",
+              "version": "4.13.1",
+              "quote": "Glitchy: The audio and video don\u2019t sync, the app doesn\u2019t work half the time, getting stuck on certain exercises. My workout didn\u2019t feel challenging at all. 0/10 would no..."
+            }
+          ]
+        },
+        {
+          "theme": "sync or integrations",
+          "count": 2,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "us",
+              "date": "2026-09-30",
+              "version": "4.13.1",
+              "quote": "Glitchy: The audio and video don\u2019t sync, the app doesn\u2019t work half the time, getting stuck on certain exercises. My workout didn\u2019t feel challenging at all. 0/10 would no..."
+            },
+            {
+              "stars": 1,
+              "country": "us",
+              "date": "2026-09-21",
+              "version": "4.13.0",
+              "quote": "Apple Watch Series 3 no longer works with app update: With recent ladder app update my Apple Watch Series 3 no longer works with the app. Had no problems before the soft..."
+            }
+          ]
+        },
+        {
+          "theme": "ads",
+          "count": 2,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "us",
+              "date": "2026-09-29",
+              "version": "4.13.0",
+              "quote": "excited to see ads to get here and \u2026: this is not a place for \u201cnewbie\u201d starting out anything. you have to already be doing your thing. i imagine that this is great help..."
+            },
+            {
+              "stars": 1,
+              "country": "us",
+              "date": "2026-09-12",
+              "version": "4.12.2",
+              "quote": "Doesn\u2019t work: Got tons of advertisements on this app. Downloaded it. Nothing worked. I tried to start a workout and it never worked. Customer support is trash. It\u2019s just..."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 1,
+          "share_of_low_pct": 4,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-03-04",
+              "version": "4.4.1",
+              "quote": "Limited sign in options: I was going to give it a try but you can only sign in with Apple account"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
