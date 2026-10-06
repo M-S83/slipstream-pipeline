@@ -27,6 +27,7 @@ ideas/
     measure.md        figures at day 30, 60, 90
     app/              the Expo project
 tools/
+  chart_scan.py       top grossing apps per category with a modest number of ratings
   store_check.py      top 10 App Store results for a keyword
   review_check.py     counts complaints in recent low-star App Store reviews for an app
 ```
