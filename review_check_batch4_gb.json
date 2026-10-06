@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "490104124",
+    "name": "app 490104124",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 374,
+      "date_range": [
+        "2011-12-23",
+        "2026-10-01"
+      ],
+      "stars": {
+        "1": 149,
+        "2": 21,
+        "3": 25,
+        "4": 37,
+        "5": 142
+      },
+      "low_star_count": 170,
+      "low_star_share_pct": 45.5,
+      "unmatched_low": 48,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 69,
+          "share_of_low_pct": 41,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-10-01",
+              "version": "12.12.81",
+              "quote": "Lost everything: After using the app for over 10 years, due to an error on the app and an update by ICertifi, I have now lost years of certificates. This is something th..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-09",
+              "version": "12.12.66",
+              "quote": "Pd: A waste of time - app reg loses all your certificates - completely unreliable, very poor customer support (ie none -still waiting for an apparent urgent response ) l..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-08",
+              "version": "12.12.48",
+              "quote": "Greedy: This app is great but the billing is extortionate. I\u2019ve had this app since it was free now they want \u00a3130 a year just to use it. If you don\u2019t pay you can\u2019t acces..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 60,
+          "share_of_low_pct": 35,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-09",
+              "version": "12.12.66",
+              "quote": "Pd: A waste of time - app reg loses all your certificates - completely unreliable, very poor customer support (ie none -still waiting for an apparent urgent response ) l..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-09-07",
+              "version": "12.12.63",
+              "quote": "Shocking customer care: Update 09/26 Why change the layout. To fill out a circuit was one page. Now it\u2019s two. To copy a circuit was one click. Now it\u2019s two. To access a..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-31",
+              "version": "12.12.51",
+              "quote": "Avoid at all costs: Worst software I have ever used, crashes every time you use it, it has deleted complete certificates before. I have emailed the support line and they..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 45,
+          "share_of_low_pct": 26,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-10-01",
+              "version": "12.12.81",
+              "quote": "Lost everything: After using the app for over 10 years, due to an error on the app and an update by ICertifi, I have now lost years of certificates. This is something th..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-09-07",
+              "version": "12.12.63",
+              "quote": "Shocking customer care: Update 09/26 Why change the layout. To fill out a circuit was one page. Now it\u2019s two. To copy a circuit was one click. Now it\u2019s two. To access a..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-08-12",
+              "version": "12.12.52",
+              "quote": "Loads of glitches: Was a great app but when trying to add circuits the numbers go off so you have to add each certificate manually"
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 18,
+          "share_of_low_pct": 11,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-05-23",
+              "version": "12.12.48",
+              "quote": "They\u2019ve never sorted out the bugs: I used ICertifi for years. It was always buggy. i once lost a whole day\u2019s test results once and had to recheck the entire installation..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-03-18",
+              "version": "12.12.43",
+              "quote": "Terrible!!: Awful!! isn\u2019t working properly it\u2019s so frustrating I had this app for years and it just isn\u2019t working properly now, nobody to connect because they ignore you..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-12-03",
+              "version": "12.12.23",
+              "quote": "Title: Very disappointed \u2013 no support, app not functioning properly: I\u2019ve used iCertifi for several years as a NAPIT-approved electrical contractor and originally found..."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 8,
+          "share_of_low_pct": 5,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-05-23",
+              "version": "12.12.48",
+              "quote": "They\u2019ve never sorted out the bugs: I used ICertifi for years. It was always buggy. i once lost a whole day\u2019s test results once and had to recheck the entire installation..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-05-06",
+              "version": "12.12.01",
+              "quote": "Lost all my data: Like previous reviews all our previous certificate data has been deleted from our account after their update which is an absolutely disastrous situatio..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-04-07",
+              "version": "12.11.92",
+              "quote": "Lost all data: I would not use this app. I have been using this app for 8 years with some slight issues throughout that time, up until a couple of weeks ago when they lo..."
+            }
+          ]
+        },
+        {
+          "theme": "sync or integrations",
+          "count": 5,
+          "share_of_low_pct": 3,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-12-03",
+              "version": "12.12.23",
+              "quote": "Title: Very disappointed \u2013 no support, app not functioning properly: I\u2019ve used iCertifi for several years as a NAPIT-approved electrical contractor and originally found..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2024-02-03",
+              "version": "12.11.46",
+              "quote": "No sync options: Whilst the app is pretty good at doing what it does it\u2019s let down by having no syncing options whatsoever meaning you can\u2019t sync data between devices wh..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2020-12-09",
+              "version": "11.9.2",
+              "quote": "Great app but. . .: We have been using this app for a few years now and it is great. We tried a few other software packages before but found them very complicated to set..."
+            }
+          ]
+        },
+        {
+          "theme": "ads",
+          "count": 2,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-03-24",
+              "version": "12.11.88",
+              "quote": "Lost Data: Absolutely devastating experience. Myself and four other electricians have lost all our data due to this app suddenly wiping itself clean. This isn\u2019t just a g..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2012-05-29",
+              "version": "1.1",
+              "quote": "Not happy with customer service: Looks good and got potential but keeps on crashing towards the end You send as email ? But it do not delivers Each time it crashed I los..."
+            }
+          ]
+        },
+        {
+          "theme": "offline",
+          "count": 1,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-03-24",
+              "version": "12.11.88",
+              "quote": "Lost Data: Absolutely devastating experience. Myself and four other electricians have lost all our data due to this app suddenly wiping itself clean. This isn\u2019t just a g..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1552362495",
+    "name": "app 1552362495",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 150,
+      "date_range": [
+        "2026-06-22",
+        "2026-10-04"
+      ],
+      "stars": {
+        "1": 9,
+        "2": 3,
+        "3": 1,
+        "4": 11,
+        "5": 126
+      },
+      "low_star_count": 12,
+      "low_star_share_pct": 8.0,
+      "unmatched_low": 7,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 4,
+          "share_of_low_pct": 33,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-10-01",
+              "version": "4.13.1",
+              "quote": "Wrong routes: I paid for this app to look at the routes to help me on the test but the route I took was not on the app I would like a refund"
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-09-27",
+              "version": "4.13.1",
+              "quote": "Map tells you the wrong directions: At roundabouts on multiple occasions the voice tells you the wrong exit compared to what the route wants you to take leading to confu..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-26",
+              "version": "4.13.1",
+              "quote": "Very disappointing and not accurate: I am an ADI of 25 years and was hoping I could recommend this app to pupils, but sadly cannot. The directions in Exeter and Plymouth..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 1,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-26",
+              "version": "4.13.1",
+              "quote": "Very disappointing and not accurate: I am an ADI of 25 years and was hoping I could recommend this app to pupils, but sadly cannot. The directions in Exeter and Plymouth..."
+            }
+          ]
+        },
+        {
+          "theme": "accuracy or content",
+          "count": 1,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-26",
+              "version": "4.13.1",
+              "quote": "Very disappointing and not accurate: I am an ADI of 25 years and was hoping I could recommend this app to pupils, but sadly cannot. The directions in Exeter and Plymouth..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 1,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-06-29",
+              "version": "4.11.1",
+              "quote": "I should have bought a different app: Only 2 routes for my city despite the website claiming more. GPS functionality is very poor. And the chat support function loads a..."
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 1,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-06-29",
+              "version": "4.11.1",
+              "quote": "I should have bought a different app: Only 2 routes for my city despite the website claiming more. GPS functionality is very poor. And the chat support function loads a..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "490449948",
+    "name": "app 490449948",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 50,
+      "date_range": [
+        "2025-01-20",
+        "2026-09-14"
+      ],
+      "stars": {
+        "1": 13,
+        "2": 3,
+        "3": 2,
+        "4": 5,
+        "5": 27
+      },
+      "low_star_count": 16,
+      "low_star_share_pct": 32.0,
+      "unmatched_low": 7,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 7,
+          "share_of_low_pct": 44,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-08-05",
+              "version": "18.99",
+              "quote": "Expensive: It costs money to download then once your on the app you also have to pay a subscription"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-05-26",
+              "version": "18.91",
+              "quote": "Terrible: Don\u2019t bother, only a bank of 100 questions then need to subscribe for \u00a314.99 a month"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-01-20",
+              "version": "18.73",
+              "quote": "Not good: They locked me out of the training despite getting money from my account. No appreciated it"
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 2,
+          "share_of_low_pct": 12,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-07-10",
+              "version": "18.47",
+              "quote": "Not update with new question: I give 4 LGV test but this app don\u2019t have new questions which they ask in the reality test most of the questions are missing every time do..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-04-23",
+              "version": "18.35",
+              "quote": "Cancel subscription: After purchasing there is no option in settings for cancelling subscription"
+            }
+          ]
+        },
+        {
+          "theme": "accessibility",
+          "count": 1,
+          "share_of_low_pct": 6,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-08-11",
+              "version": "18.101",
+              "quote": "Text is way too small to read. The case study questions are not quite correct.: Too difficult to read. Questions are not correct. The explanation is against the answer...."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 1,
+          "share_of_low_pct": 6,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-01-20",
+              "version": "18.73",
+              "quote": "Not good: They locked me out of the training despite getting money from my account. No appreciated it"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1625443834",
+    "name": "app 1625443834",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 83,
+      "date_range": [
+        "2022-05-30",
+        "2026-10-03"
+      ],
+      "stars": {
+        "1": 26,
+        "2": 6,
+        "3": 5,
+        "4": 9,
+        "5": 37
+      },
+      "low_star_count": 32,
+      "low_star_share_pct": 38.6,
+      "unmatched_low": 10,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 10,
+          "share_of_low_pct": 31,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-04-30",
+              "version": "1.0.105",
+              "quote": "Request refund for unused subscription: Hello, I subscribed for a month and it wasn\u2019t mentioned as renewal each month. I already passed my test and it got renewed today..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-12-24",
+              "version": "1.0.97",
+              "quote": "You only want money: I already pay taxes, need to pay for this exam and all the other steps of the process. The education for the exam should at least be free of charge"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-08-14",
+              "version": "1.0.90",
+              "quote": "Waste of money: I had already purchased a subscription and the app still doesn\u2019t let me access the practice test. Taking money off every week yet not letting me access t..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 7,
+          "share_of_low_pct": 22,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-08-17",
+              "version": "1.0.112",
+              "quote": "Quiz by Chapter doesn't work: The Chapter Quizzes include questions not covered in the chapter."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-02-02",
+              "version": "1.0.99",
+              "quote": "AI generated questions with typos: Lots of the questions or answers have typos or sentence structures that make no sense. This is either really badly AI generated or it\u2019..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-05-03",
+              "version": "1.0.51",
+              "quote": "App stopped working: The app was fine for awhile although answers needed to be updated to current political and royal role changes. It has stopped working and you can\u2019t..."
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 3,
+          "share_of_low_pct": 9,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-02-02",
+              "version": "1.0.99",
+              "quote": "AI generated questions with typos: Lots of the questions or answers have typos or sentence structures that make no sense. This is either really badly AI generated or it\u2019..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-06-26",
+              "version": "1.0.52",
+              "quote": "Lost 50 pounds - please tell me how to apply for refund: I took life in Uk weekly subscription in Feb and passed the test but my money was keep cutting every week since..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-05-17",
+              "version": "1.0.51",
+              "quote": "Not happy !: I have purchased the app at first. Then when you log in it\u2019s the option to pay extra for the \u2018Core guide for new residents\u2019 (the practice) which I did. I tr..."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 2,
+          "share_of_low_pct": 6,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-20",
+              "version": "1.0.114",
+              "quote": "unable to log into my phone and ipad: unable to log into my phone and ipad even though they are on the same Apple account, they should not be acceptable as that develope..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-05-17",
+              "version": "1.0.51",
+              "quote": "Not happy !: I have purchased the app at first. Then when you log in it\u2019s the option to pay extra for the \u2018Core guide for new residents\u2019 (the practice) which I did. I tr..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 2,
+          "share_of_low_pct": 6,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-01",
+              "version": "1.0.106",
+              "quote": "no customer service and a tricky menu: by accident i changed/ confirmed the setting that the questions should not shuffled in future. i couldn't undo this action and the..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-01-28",
+              "version": "1.0.98",
+              "quote": "Useful material, needs clearer explanations: The app has good content, but the study experience is negatively affected by how it is presented. Main issues: \u2022 Unclear wor..."
+            }
+          ]
+        },
+        {
+          "theme": "ads",
+          "count": 2,
+          "share_of_low_pct": 6,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-09-11",
+              "version": "1.0.41",
+              "quote": "Awful spamming ADs: 5 forced ADs in 25 questions intolerable."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2023-06-21",
+              "version": "1.0.41",
+              "quote": "Too many ads: You get an ad every 3-4 questions, it is so many ads that it makes the experience unpleasant"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "632064672",
+    "name": "app 632064672",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 500,
+      "date_range": [
+        "2014-05-15",
+        "2026-10-03"
+      ],
+      "stars": {
+        "1": 261,
+        "2": 49,
+        "3": 44,
+        "4": 33,
+        "5": 113
+      },
+      "low_star_count": 310,
+      "low_star_share_pct": 62.0,
+      "unmatched_low": 184,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 81,
+          "share_of_low_pct": 26,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-27",
+              "version": "2.9.3",
+              "quote": "Obsolete material: This app is now obsolete, do not reflect the real test. Had the test today and it was useless. Prefer the online free versions that are more realistic."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-09-17",
+              "version": "2.9.3",
+              "quote": "Not worth the money and ux could be improved: It was unclear for me (maybe cause I didn\u2019t read all the fine print) that once I\u2019ve paid for the app I would have to pay AG..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-09",
+              "version": "2.9.3",
+              "quote": "Doesn\u2019t give any actual examples questions: Really bad! Doesn\u2019t give any of the questions on the actual exam. Not worth the money."
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 19,
+          "share_of_low_pct": 6,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-09-17",
+              "version": "2.9.3",
+              "quote": "Not worth the money and ux could be improved: It was unclear for me (maybe cause I didn\u2019t read all the fine print) that once I\u2019ve paid for the app I would have to pay AG..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-06-15",
+              "version": "2.9.3",
+              "quote": "Hadia: It shouldn\u2019t cost this much same content is available in pdfs everywhere n many apps for free.. first paid 5\u00a3 for app n thn 8.99\u00a3 for the contents it was waste of..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-01-15",
+              "version": "2.8.1",
+              "quote": "Easy to use, but poor question accuracy: I recently passed my Life in the UK test, but I can\u2019t give much credit to this app. Only about 10% of the actual exam questions..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 17,
+          "share_of_low_pct": 5,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-05-26",
+              "version": "2.9.2",
+              "quote": "Buggy and unreliable: I bought this app few weeks ago and now I can\u2019t use it because it says unable to retrieve the information."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-03-20",
+              "version": "2.5.3",
+              "quote": "App not working!: I purchased this app last night, it has not been working and they charge me for it."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-02-11",
+              "version": "2.5.3",
+              "quote": "App doesn\u2019t work: This App for the last few weeks it\u2019s not working. It crashes straightaway, as soon I open it. I tried to delete and install it a few time and it\u2019s not..."
+            }
+          ]
+        },
+        {
+          "theme": "accuracy or content",
+          "count": 11,
+          "share_of_low_pct": 4,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-10-03",
+              "version": "2.10.2",
+              "quote": "Mostly helpful but\u2026: Mostly helpful to study, but some of the info is out of date!! I am studying in October 2026, and some information on the Welsh Senedd for example,..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-05-15",
+              "version": "2.9.2",
+              "quote": "Do not use this app: I used this app and out of 418 questions, got 44 wrong so I was fairly confident going into the test. The questions on this app are not accurate and..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-03-08",
+              "version": "2.9.2",
+              "quote": "Not accurate: I agree, this was a waste of money. The tests here does not cover most of the questions you see in the actual exam. Now I have to take a second test becaus..."
+            }
+          ]
+        },
+        {
+          "theme": "ads",
+          "count": 4,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-05-12",
+              "version": "2.9.2",
+              "quote": "Failed my exam thanks to this app: Only about 5 questions in the actual exam were in this app, why would they advertise it as the official app? This is very unfair consi..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-08-05",
+              "version": "2.6.5",
+              "quote": "DO NOT BUY THIS APP!: I would give a 0 star if there was an option! This App has 2 sections. The study cards which roughly has 500 questions and mock tests for practice...."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2021-11-18",
+              "version": "2.0.6",
+              "quote": "Nothing to do with the actual test: The questions in the app have nothing to do with the test. My pass rate in 14 mocks is 97% and gave me false confidence. 80% of the q..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 3,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-05-21",
+              "version": "2.9.2",
+              "quote": "Paid for the App with No content.: Paid \u00a35.99 and received no content. Emailed support and received no response."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-03-04",
+              "version": "2.9.2",
+              "quote": "Query: Hi, Recently, is anyone clear his or her life in the uk test. Because i am so much confused which app is excellent for preparation. Please let me know ASAP. Pleas..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-11-24",
+              "version": "2.8.1",
+              "quote": "Paid \u00a36-App refuses to unlock content. Not acceptable: I paid \u00a36 for this app and the money was deducted from my Apple account, yet the app still blocks access and keeps..."
+            }
+          ]
+        },
+        {
+          "theme": "accessibility",
+          "count": 2,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2022-07-11",
+              "version": "2.2.4",
+              "quote": "Useless: Done all the revision passed 20/20 times on the practice test went and done the real test not 1 of your questions are in the real test"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2021-04-27",
+              "version": "2.0.3",
+              "quote": "Rubbish app, no question from this app: You will definitely fail if you stick with this app as nothing came from this app and had to retake the test. I studied from yout..."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 1,
+          "share_of_low_pct": 0,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-11-24",
+              "version": "2.8.1",
+              "quote": "Paid \u00a36-App refuses to unlock content. Not acceptable: I paid \u00a36 for this app and the money was deducted from my Apple account, yet the app still blocks access and keeps..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "891379341",
+    "name": "app 891379341",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 500,
+      "date_range": [
+        "2015-06-23",
+        "2026-09-27"
+      ],
+      "stars": {
+        "1": 119,
+        "2": 19,
+        "3": 52,
+        "4": 88,
+        "5": 222
+      },
+      "low_star_count": 138,
+      "low_star_share_pct": 27.6,
+      "unmatched_low": 53,
+      "themes": [
+        {
+          "theme": "ads",
+          "count": 40,
+          "share_of_low_pct": 29,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2019-07-29",
+              "version": "4.0.7",
+              "quote": "Obscured information: The irritating and distracting random fact display needs permanently removing, apart from being both of the above it obscures important information..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2019-03-27",
+              "version": "3.222",
+              "quote": "Limited capability and annoying ads: The title heading above just about says it all, plus it\u2019s expensive (\u00a352/annum). I\u2019ll stick with the functionality rich Live Trains..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2019-02-25",
+              "version": "3.222",
+              "quote": "Disappointing limited: I used to use the great train times app by agant but this seems to have stopped being maintained. Therefore tried this one but it\u2019s rubbish as far..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 33,
+          "share_of_low_pct": 24,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2022-12-26",
+              "version": "5.1.6",
+              "quote": "Expensive app when its free elsewhere: What a waste of time downloading this app only to be requested to upgrade every time you need to search - straight delete"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2022-08-12",
+              "version": "5.1.1",
+              "quote": "Doesn\u2019t work: About 75% of the time it comes up with an error code."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2017-03-04",
+              "version": "3.204",
+              "quote": "Err, no: Gave up on this app after watching a blank loading screen for several minutes then a crash. Totally repeatable. Removed without ever seeing a single train time."
+            }
+          ]
+        },
+        {
+          "theme": "price, trial or paywall",
+          "count": 28,
+          "share_of_low_pct": 20,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-01-18",
+              "version": "5.1.12",
+              "quote": "99p PER WEEK subscription: Be careful. Very expensive"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-10-01",
+              "version": "5.1.7",
+              "quote": "Avoid: This app appears good, EXCEPT when planning ahead. It wants MONEY and no indication how much - it looks like a scam and could charge you \u00a3 thousands as no rates,..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2022-12-26",
+              "version": "5.1.6",
+              "quote": "Expensive app when its free elsewhere: What a waste of time downloading this app only to be requested to upgrade every time you need to search - straight delete"
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 7,
+          "share_of_low_pct": 5,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2023-10-02",
+              "version": "5.1.7",
+              "quote": "On the day only & pushy for paid: This app is constantly pushing you to pay for their pro features and will only let you look at journeys that are on the day in the free..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2019-06-16",
+              "version": "4.0.7",
+              "quote": "Really not useful: I can\u2019t search a journey for tomorrow because the search only works for the next 8 hrs! Am i missing something????"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2018-11-24",
+              "version": "3.218",
+              "quote": "Very suspicious: No indication anywhere of cost to upgrade app. According to other reviews it suckers you into a subscription of 99p per week. That's \u00a352 a year for an a..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 4,
+          "share_of_low_pct": 3,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2019-07-29",
+              "version": "4.0.7",
+              "quote": "Obscured information: The irritating and distracting random fact display needs permanently removing, apart from being both of the above it obscures important information..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2015-10-27",
+              "version": "3.132",
+              "quote": "No longer works - avoid!!: Don't waste your time! Downloaded it about 18 months ago and liked it so much I paid to upgrade to the advert-free version. Worked great but d..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2015-10-23",
+              "version": "3.132",
+              "quote": "Live departure time and platform broken: This is the only useful feature, but broken for a few months now. No attention or support from developer. Waste of money"
+            }
+          ]
+        },
+        {
+          "theme": "accuracy or content",
+          "count": 1,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-11-17",
+              "version": "5.1.12",
+              "quote": "Not accurate: Doesn\u2019t show all trains leaving at particular time, just odd ones, used to be better but has changed."
+            }
+          ]
+        },
+        {
+          "theme": "accessibility",
+          "count": 1,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-05-30",
+              "version": "5.1.9",
+              "quote": "Doesn\u2019t show provisional platforms: Other apps show provision departure platforms which is really useful."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 1,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2021-07-05",
+              "version": "4.0.9",
+              "quote": "Better apps available: I found it annoying that the app requires payment immediately. It is deceptive as it downloads as \u2018free\u2019 but does not even allow to search for a r..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1239779099",
+    "name": "app 1239779099",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 203,
+      "date_range": [
+        "2019-05-20",
+        "2026-09-29"
+      ],
+      "stars": {
+        "1": 86,
+        "2": 9,
+        "3": 16,
+        "4": 33,
+        "5": 59
+      },
+      "low_star_count": 95,
+      "low_star_share_pct": 46.8,
+      "unmatched_low": 56,
+      "themes": [
+        {
+          "theme": "bugs or crashes",
+          "count": 16,
+          "share_of_low_pct": 17,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-01-22",
+              "version": "28.0.0",
+              "quote": "Terrible Agency: Terrible Agency. AI chatbots no human response. No options to negotiate. Worst agency out there. Terrible app - uploading documents etc . Seems like onl..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-10-06",
+              "version": "26.0.0",
+              "quote": "Avoid: Tried to book a shift but got an error, turns out my account is \u201cunder review\u201d for up to 14 days, meaning no work during that time, I had no prior warning. They\u2019v..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-06-22",
+              "version": "24.1.0",
+              "quote": "Good concept, in reality is devaluing locums and destroying the market: I signed up as I thought the app would be really useful but the more I use it the more disappoint..."
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 10,
+          "share_of_low_pct": 11,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-05-30",
+              "version": "29.4.0",
+              "quote": "BOYCOTT LAL!!! NEGOTIATE YOUR RATES. BYPASS AGENCIES.: This app is the most cynical manifestation of overbearing corporate power over individuals. They say \u201cthe stores s..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-01-22",
+              "version": "28.0.0",
+              "quote": "Terrible Agency: Terrible Agency. AI chatbots no human response. No options to negotiate. Worst agency out there. Terrible app - uploading documents etc . Seems like onl..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-06-22",
+              "version": "24.1.0",
+              "quote": "Good concept, in reality is devaluing locums and destroying the market: I signed up as I thought the app would be really useful but the more I use it the more disappoint..."
+            }
+          ]
+        },
+        {
+          "theme": "ads",
+          "count": 9,
+          "share_of_low_pct": 9,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-01-22",
+              "version": "28.0.0",
+              "quote": "Terrible Agency: Terrible Agency. AI chatbots no human response. No options to negotiate. Worst agency out there. Terrible app - uploading documents etc . Seems like onl..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-12-06",
+              "version": "20.2.0",
+              "quote": "Locate your worth: Unfortunately the usefulness of this app has been used to drive rates down. Saw one advertised the other day which was basically minimum wage. Less th..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-11-26",
+              "version": "20.1.1",
+              "quote": "Functional app but not best practice: The app works as advertised, but the rates are poor, and the system makes it easier for employers to drop rates than it does for lo..."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 8,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-02-12",
+              "version": "28.0.1",
+              "quote": "Account gets suspended for two weeks every few months just to verify share code: My account was suspended again, this time in the second week, simply to verify my share..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-10-06",
+              "version": "26.0.0",
+              "quote": "Avoid: Tried to book a shift but got an error, turns out my account is \u201cunder review\u201d for up to 14 days, meaning no work during that time, I had no prior warning. They\u2019v..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-06-22",
+              "version": "24.1.0",
+              "quote": "Good concept, in reality is devaluing locums and destroying the market: I signed up as I thought the app would be really useful but the more I use it the more disappoint..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 7,
+          "share_of_low_pct": 7,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-01-22",
+              "version": "28.0.0",
+              "quote": "Terrible Agency: Terrible Agency. AI chatbots no human response. No options to negotiate. Worst agency out there. Terrible app - uploading documents etc . Seems like onl..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-06-22",
+              "version": "24.1.0",
+              "quote": "Good concept, in reality is devaluing locums and destroying the market: I signed up as I thought the app would be really useful but the more I use it the more disappoint..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-11-27",
+              "version": "20.1.1",
+              "quote": "Just poor service: I completed a shift back in July, and it\u2019s now November with no payment in sight. Despite sending multiple emails and reaching out to the platform to..."
+            }
+          ]
+        },
+        {
+          "theme": "price, trial or paywall",
+          "count": 6,
+          "share_of_low_pct": 6,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-08-02",
+              "version": "29.9.0",
+              "quote": "Useless: Was told I need to upload a new DBS check, did that , then 3 months later told it\u2019s not valid and will have to spend more money to redo!! Call the companies dir..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-05-30",
+              "version": "29.4.0",
+              "quote": "BOYCOTT LAL!!! NEGOTIATE YOUR RATES. BYPASS AGENCIES.: This app is the most cynical manifestation of overbearing corporate power over individuals. They say \u201cthe stores s..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-02-24",
+              "version": "22.1.0",
+              "quote": "They are only interested in helping the big companies, not the locums: Locums beware, this app doesn't allow us to negotiate rates, which in turn forces the rates down,..."
+            }
+          ]
+        },
+        {
+          "theme": "accuracy or content",
+          "count": 1,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2022-08-12",
+              "version": "11.1.1",
+              "quote": "Used to be good, not anymore: I used to use the agency while it was a fair and square system to match up locums with employers, now the agency is giving me feeling of th..."
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
