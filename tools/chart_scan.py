@@ -6,21 +6,32 @@ Scans Apple's public top grossing charts across many App Store categories and
 lists apps that earn well but have a modest number of ratings. These are the
 small, earning apps the Slipstream method starts from.
 
+New: it also looks each app up in other big stores (US, Germany, Canada,
+Australia, France by default) and works out how much of the ratings sit in the
+store you are scanning. A big global app can look small in one store. The UK
+share column catches that. Use --min-share to keep only apps whose ratings are
+mostly in the scanned store, for example --min-share 0.6.
+
 What it uses: only Apple's free public feeds (the top grossing RSS feed and the
 iTunes lookup API). No login, no keys, no extra packages. Python 3.8 or newer.
 
 What it cannot tell you: downloads or revenue. A high top grossing rank with few
-ratings is a hint that an app earns, not proof. Check any app you like in
-Appfigures while the trial lasts, then run review_check.py on it.
+ratings is a hint that an app earns, not proof. Check the best few in
+Appfigures, then run review_check.py on them.
+
+Limits of the share figure: it only compares the stores listed in --compare, so
+an app that is big in a store not on the list can still look more local than it
+is. Apple's feed stops at 100 chart positions per category.
 
 Usage:
-    python3 chart_scan.py                      # UK, all categories except Games
-    python3 chart_scan.py --country us
-    python3 chart_scan.py --min-ratings 500 --max-ratings 30000
-    python3 chart_scan.py --genres 6013,6017   # only some categories
-    python3 chart_scan.py --depth 100          # how far down each chart to look
+    python3 chart_scan.py                                  # UK, all categories except Games
+    python3 chart_scan.py --min-ratings 200 --max-ratings 3000 --min-share 0.6
+    python3 chart_scan.py --country us --compare gb,de,ca,au,fr
+    python3 chart_scan.py --genres 6013,6017               # only some categories
+    python3 chart_scan.py --compare ""                     # skip the share check
+    python3 chart_scan.py --tag uk-niche                   # adds a tag to the file names
 
-Output: chart_scan_<country>_<date>.csv and .md in the current folder.
+Output: chart_scan_<country>_<date>[_<tag>].csv and .md in the current folder.
 """
 
 import argparse
@@ -56,6 +67,8 @@ GENRES = {
     6023: "Food & Drink",
     6024: "Shopping",
 }
+
+DEFAULT_COMPARE = "us,de,ca,au,fr"
 
 FEED_URL = "https://itunes.apple.com/{cc}/rss/topgrossingapplications/limit={n}/genre={g}/json"
 LOOKUP_URL = "https://itunes.apple.com/lookup?id={ids}&country={cc}"
@@ -141,40 +154,89 @@ def build_rows(country, genres, depth, lo, hi, log=print):
     return rows
 
 
-def write_outputs(rows, country, lo, hi, depth, stem):
-    cols = ["genre", "grossing_rank", "name", "seller", "ratings", "avg_rating",
-            "price", "store_id", "bundle_id", "url"]
+def add_shares(rows, compare, log=print):
+    """
+    For every row, look the app up in each comparison store and add:
+      ratings_<cc>  the app's rating count in that store (0 if not sold there)
+      home_share    ratings in the scanned store divided by ratings in the scanned
+                    store plus all the comparison stores that could be read
+    Returns the list of comparison stores that were read successfully.
+    """
+    ids = sorted({r["store_id"] for r in rows})
+    counts = {}
+    for cc in compare:
+        try:
+            info = lookup(cc, ids)
+        except RuntimeError as e:
+            log("  could not read the {} store, leaving it out: {}".format(cc.upper(), e))
+            continue
+        counts[cc] = {i: (info.get(i, {}).get("userRatingCount") or 0) for i in ids}
+        log("  read the {} store".format(cc.upper()))
+    used = list(counts)
+    for r in rows:
+        other = 0
+        for cc in used:
+            n = counts[cc][r["store_id"]]
+            r["ratings_" + cc] = n
+            other += n
+        total = r["ratings"] + other
+        r["home_share"] = round(r["ratings"] / total, 2) if total else 1.0
+    return used
+
+
+def write_outputs(rows, country, lo, hi, depth, stem, used, min_share, top_rank):
+    cols = ["genre", "grossing_rank", "name", "seller", "ratings"]
+    if used:
+        cols += ["home_share"] + ["ratings_" + cc for cc in used]
+    cols += ["avg_rating", "price", "store_id", "bundle_id", "url"]
     with open(stem + ".csv", "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=cols)
+        w = csv.DictWriter(f, fieldnames=cols, extrasaction="ignore")
         w.writeheader()
         w.writerows(rows)
 
+    cc_up = country.upper()
     lines = []
-    lines.append("Chart scan, {} store, {}".format(country.upper(), datetime.date.today()))
+    lines.append("Chart scan, {} store, {}".format(cc_up, datetime.date.today()))
     lines.append("")
-    lines.append("Top {} of each category's top grossing chart, kept only if ratings are {} to {}.".format(
-        depth, lo, hi))
+    lines.append("Top {} of each category's top grossing chart, kept only if {} ratings are {} to {}.".format(
+        depth, cc_up, lo, hi))
+    if used and min_share > 0:
+        lines.append("Also kept only if the {} store holds at least {}% of the ratings across {}.".format(
+            cc_up, int(round(min_share * 100)), ", ".join([cc_up] + [c.upper() for c in used])))
+    elif used:
+        lines.append("Share column: the {} store's part of the ratings across {}.".format(
+            cc_up, ", ".join([cc_up] + [c.upper() for c in used])))
     lines.append("A high rank with few ratings suggests an app that earns for its size. "
                  "It is a hint, not proof.")
     lines.append("")
-    lines.append("Best candidates (rank 40 or better, any category)")
+    lines.append("Best candidates (rank {} or better, any category)".format(top_rank))
     lines.append("")
-    lines.append("| Rank | Category | App | Ratings | Avg | Price |")
-    lines.append("|---|---|---|---|---|---|")
-    best = sorted([r for r in rows if r["grossing_rank"] <= 40],
+    if used:
+        lines.append("| Rank | Category | App | Ratings | {} share | Avg | Price |".format(cc_up))
+        lines.append("|---|---|---|---|---|---|---|")
+    else:
+        lines.append("| Rank | Category | App | Ratings | Avg | Price |")
+        lines.append("|---|---|---|---|---|---|")
+    best = sorted([r for r in rows if r["grossing_rank"] <= top_rank],
                   key=lambda r: (r["grossing_rank"], r["ratings"]))
     for r in best:
-        lines.append("| {} | {} | {} | {} | {} | {} |".format(
-            r["grossing_rank"], r["genre"], r["name"], r["ratings"],
-            r["avg_rating"], r["price"]))
+        if used:
+            lines.append("| {} | {} | {} | {} | {}% | {} | {} |".format(
+                r["grossing_rank"], r["genre"], r["name"], r["ratings"],
+                int(round(r["home_share"] * 100)), r["avg_rating"], r["price"]))
+        else:
+            lines.append("| {} | {} | {} | {} | {} | {} |".format(
+                r["grossing_rank"], r["genre"], r["name"], r["ratings"],
+                r["avg_rating"], r["price"]))
     lines.append("")
-    lines.append("Everything in the band, by category")
+    lines.append("Everything kept, by category")
     for g in sorted({r["genre"] for r in rows}):
         lines.append("")
         lines.append(g)
         for r in sorted([x for x in rows if x["genre"] == g], key=lambda x: x["grossing_rank"]):
-            lines.append("  {:>3}  {}  ({} ratings, {})".format(
-                r["grossing_rank"], r["name"], r["ratings"], r["url"]))
+            share = "  {}% {}".format(int(round(r["home_share"] * 100)), cc_up) if used else ""
+            lines.append("  {:>3}  {}  ({} ratings{}, {})".format(
+                r["grossing_rank"], r["name"], r["ratings"], share, r["url"]))
     with open(stem + ".md", "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
 
@@ -184,19 +246,57 @@ def main(argv=None):
     p.add_argument("--country", default="gb", help="two letter store code, default gb")
     p.add_argument("--min-ratings", type=int, default=1000)
     p.add_argument("--max-ratings", type=int, default=20000)
-    p.add_argument("--depth", type=int, default=100, help="chart positions to read per category (max 100, Apple's feed stops there)")
+    p.add_argument("--depth", type=int, default=100,
+                   help="chart positions to read per category (max 100, Apple's feed stops there)")
     p.add_argument("--genres", default="", help="comma separated genre ids, default all except Games")
+    p.add_argument("--compare", default=DEFAULT_COMPARE,
+                   help="other stores to compare ratings with, default {}. Use \"\" to skip.".format(DEFAULT_COMPARE))
+    p.add_argument("--min-share", type=float, default=0.0,
+                   help="keep only apps where the scanned store holds at least this share of the ratings "
+                        "(0 to 1, for example 0.6). Default 0 keeps everything.")
+    p.add_argument("--top-rank", type=int, default=40,
+                   help="rank cut-off for the candidates table in the .md file, default 40")
+    p.add_argument("--tag", default="", help="text added to the output file names so earlier scans are not overwritten")
     args = p.parse_args(argv)
 
+    if not 0 <= args.min_share <= 1:
+        print("--min-share must be between 0 and 1, for example 0.6")
+        return 2
     genres = [int(g) for g in args.genres.split(",") if g.strip()] or list(GENRES)
     depth = max(1, min(args.depth, 100))
+    compare = []
+    for c in args.compare.split(","):
+        c = c.strip().lower()
+        if c and c != args.country.lower() and c not in compare:
+            compare.append(c)
+
     print("Scanning {} categories in the {} store...".format(len(genres), args.country.upper()))
     rows = build_rows(args.country, genres, depth, args.min_ratings, args.max_ratings)
     if not rows:
         print("Nothing found. If every category was skipped, the network is probably blocked.")
         return 1
+
+    used = []
+    if compare:
+        print("Comparing ratings in other stores ({} apps)...".format(len(rows)))
+        used = add_shares(rows, compare)
+    if args.min_share > 0:
+        if not used:
+            print("--min-share needs at least one comparison store to be readable. Nothing was written.")
+            return 1
+        before = len(rows)
+        rows = [r for r in rows if r["home_share"] >= args.min_share]
+        print("Kept {} of {} apps where the {} store holds at least {}% of the ratings.".format(
+            len(rows), before, args.country.upper(), int(round(args.min_share * 100))))
+        if not rows:
+            print("Nothing left after the share filter. Try a lower --min-share.")
+            return 1
+
     stem = "chart_scan_{}_{}".format(args.country, datetime.date.today().isoformat())
-    write_outputs(rows, args.country, args.min_ratings, args.max_ratings, depth, stem)
+    if args.tag:
+        stem += "_" + args.tag
+    write_outputs(rows, args.country, args.min_ratings, args.max_ratings, depth, stem,
+                  used, args.min_share, args.top_rank)
     print("Wrote {0}.csv and {0}.md with {1} apps.".format(stem, len(rows)))
     return 0
 
