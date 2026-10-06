@@ -1,0 +1,607 @@
+[
+  {
+    "id": "6758992473",
+    "name": "app 6758992473",
+    "countries": [
+      "gb",
+      "us"
+    ],
+    "summary": {
+      "reviews_fetched": 88,
+      "date_range": [
+        "2026-05-05",
+        "2026-09-26"
+      ],
+      "stars": {
+        "1": 27,
+        "2": 9,
+        "3": 7,
+        "4": 8,
+        "5": 37
+      },
+      "low_star_count": 36,
+      "low_star_share_pct": 40.9,
+      "unmatched_low": 9,
+      "themes": [
+        {
+          "theme": "accuracy or content",
+          "count": 12,
+          "share_of_low_pct": 33,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-08-19",
+              "version": "1.10.0",
+              "quote": "Incorrect information: It was incorrect with my travel. I\u2019ve travelled a lot this year Egypt, Kenya, Thailand, uk, Spain, France and Italy. It listed all those as UK."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-08-16",
+              "version": "1.10.0",
+              "quote": "Doesn\u2019t work: Started the set up process, got as far as it checking my photos and the data it collected was totally wrong (it said I have been in a completely different..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-22",
+              "version": "1.7.4",
+              "quote": "Not accurate: In fact not even close!"
+            }
+          ]
+        },
+        {
+          "theme": "price, trial or paywall",
+          "count": 8,
+          "share_of_low_pct": 22,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-21",
+              "version": "2.1.0",
+              "quote": "waste of time & money: I have Location enabled in all my photos. (so don\u2019t reply by saying it\u2019s likely that I don\u2019t have it enabled.) It just doesn\u2019t pick up the correct..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-04",
+              "version": "2.0.0",
+              "quote": "Not worth it: Download the app and tested the 3 day trial. It scanned my location and got most days wrong. I attempted to change and add the correct days but it wouldn\u2019t..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-08-10",
+              "version": "1.9.2",
+              "quote": "\u201cTry bounded free\u201d: Lost me unfortunately - I cannot stand apps that let you get through the entire set up process before telling you there is a mandatory subscription t..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 4,
+          "share_of_low_pct": 11,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-05-29",
+              "version": "1.5.1",
+              "quote": "Completely wrong and a waste of time: Honestly a waste of time, missed 11 countries and was OUT BY OVER 300 DAYS in some cases but typical errors 20-200 days which is in..."
+            },
+            {
+              "stars": 1,
+              "country": "us",
+              "date": "2026-09-05",
+              "version": "2.0.0",
+              "quote": "Doesn't work :/: I was in Germany and Austria in July of this year and it had no idea. It also missed when I was in Mexico in 2021 and Iceland in 2022."
+            },
+            {
+              "stars": 2,
+              "country": "us",
+              "date": "2026-08-30",
+              "version": "2.0.0",
+              "quote": "Bugs, unusable but idea I would invest in: 2 stars for the idea. Clearly made with ai. Unusable. Can\u2019t even fill out the beginning questions and move forward, won\u2019t let..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 3,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-17",
+              "version": "1.7.6",
+              "quote": "No response from customer service: I tried the free trial and then cancelled my subscription. I haven\u2019t received a response from customer service about refunding me for..."
+            },
+            {
+              "stars": 1,
+              "country": "us",
+              "date": "2026-08-12",
+              "version": "1.9.2",
+              "quote": "Doesn\u2019t seem to do what was advertised: The ad for the app implied a level of regulatory validation that doesn\u2019t seem to be available in the app. The actual features are..."
+            },
+            {
+              "stars": 1,
+              "country": "us",
+              "date": "2026-06-27",
+              "version": "1.7.5",
+              "quote": "Data is wrong: Data is not extracting properly. No customer service. Avoid this product"
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 2,
+          "share_of_low_pct": 6,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-09-25",
+              "version": "2.1.0",
+              "quote": "Nice idea but\u2026: Method for calculating residence really needs a rethink"
+            },
+            {
+              "stars": 2,
+              "country": "us",
+              "date": "2026-07-13",
+              "version": "1.7.6",
+              "quote": "Want to like it, but super inaccurate: I wish it would explain where it got the backlogged travel info from so I could correct it. It says that I spent multiple months i..."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 2,
+          "share_of_low_pct": 6,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-08-16",
+              "version": "1.10.0",
+              "quote": "Doesn\u2019t work: Started the set up process, got as far as it checking my photos and the data it collected was totally wrong (it said I have been in a completely different..."
+            },
+            {
+              "stars": 1,
+              "country": "us",
+              "date": "2026-09-03",
+              "version": "2.0.0",
+              "quote": "Doesn\u2019t work for sailors: This doesn\u2019t work for me since I spend half the year working on a ship at sea. On days when I\u2019m in the middle of the ocean it is counted as the..."
+            }
+          ]
+        },
+        {
+          "theme": "ads",
+          "count": 2,
+          "share_of_low_pct": 6,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "us",
+              "date": "2026-09-15",
+              "version": "2.0.1",
+              "quote": "A data harvest op?: your detailed travel history stays local; analytics data doesn\u2019t. That\u2019s a perfectly defensible architecture. But then say exactly that. Don\u2019t advert..."
+            },
+            {
+              "stars": 1,
+              "country": "us",
+              "date": "2026-08-12",
+              "version": "1.9.2",
+              "quote": "Doesn\u2019t seem to do what was advertised: The ad for the app implied a level of regulatory validation that doesn\u2019t seem to be available in the app. The actual features are..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1637045933",
+    "name": "app 1637045933",
+    "countries": [
+      "gb",
+      "us"
+    ],
+    "summary": {
+      "reviews_fetched": 266,
+      "date_range": [
+        "2022-11-17",
+        "2026-10-02"
+      ],
+      "stars": {
+        "1": 7,
+        "2": 2,
+        "3": 1,
+        "4": 7,
+        "5": 249
+      },
+      "low_star_count": 9,
+      "low_star_share_pct": 3.4,
+      "unmatched_low": 2,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 5,
+          "share_of_low_pct": 56,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-04-03",
+              "version": "1.2.1",
+              "quote": "Not free: Expensive and inaccurate"
+            },
+            {
+              "stars": 1,
+              "country": "us",
+              "date": "2026-04-04",
+              "version": "3.2.1",
+              "quote": "\u201cHidden\u201d Low Price: Only after paying FULL $US9.99, plus tax, did site reveal a $SEVEN.99 annual rate. Poor way to start with a new service!"
+            },
+            {
+              "stars": 2,
+              "country": "us",
+              "date": "2026-03-01",
+              "version": "3.2",
+              "quote": "Why is it subscription based?: The app is so nice and beautiful, however, there is no need to make it subscription based, that is just insane There is nothing that requi..."
+            }
+          ]
+        },
+        {
+          "theme": "accuracy or content",
+          "count": 2,
+          "share_of_low_pct": 22,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-06-29",
+              "version": "4.1.5",
+              "quote": "Misleading \u201cAllowance Today\u201d Label: I believe the developers should change the \u201cAllowance today\u201d label to \u201cDays Used\u201d or \u201cAllowance Used\u201d because the current wording is..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-04-03",
+              "version": "1.2.1",
+              "quote": "Not free: Expensive and inaccurate"
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 1,
+          "share_of_low_pct": 11,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-01-23",
+              "version": "3.2",
+              "quote": "Bugs galore: Random trips that I did not take appear in calendar and cannot be deleted"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1635268679",
+    "name": "app 1635268679",
+    "countries": [
+      "gb",
+      "us"
+    ],
+    "summary": {
+      "reviews_fetched": 62,
+      "date_range": [
+        "2023-02-17",
+        "2026-09-25"
+      ],
+      "stars": {
+        "1": 16,
+        "2": 9,
+        "3": 1,
+        "4": 0,
+        "5": 36
+      },
+      "low_star_count": 25,
+      "low_star_share_pct": 40.3,
+      "unmatched_low": 7,
+      "themes": [
+        {
+          "theme": "price, trial or paywall",
+          "count": 15,
+          "share_of_low_pct": 60,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-04-21",
+              "version": "7.3",
+              "quote": "No unsubscribe from paid version: There was no notice until double clicked and accidentally subscribed to a pro paid version. There is also no mention anywhere on how un..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-09-26",
+              "version": "6.7",
+              "quote": "Misleading and unintuitive subscription junkware: Downloaded the app, entered the dates and countries I was in for a few months as I need to keep track of these things f..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-09-10",
+              "version": "6.6",
+              "quote": "Not intuitive: Having been thoroughly confused about the number of days my wife and I spend in France, I decided i needed to have an App! This was the first app out of t..."
+            }
+          ]
+        },
+        {
+          "theme": "ads",
+          "count": 3,
+          "share_of_low_pct": 12,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-02-08",
+              "version": "5.9",
+              "quote": "No features: I saw another review here explaining basically the same issues as I have. The app is advertised as having great features yet when you download it you are in..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-09-04",
+              "version": "5.4",
+              "quote": "The free version doesn\u2019t do anything useful: You don\u2019t get access to the features being advertised. There is no point downloading this app if you don\u2019t intend on purchas..."
+            },
+            {
+              "stars": 2,
+              "country": "us",
+              "date": "2024-01-25",
+              "version": "4.4",
+              "quote": "Come on now: 23 bucks is steep sorry man Charge for the app not for the advertised service. Extremely disappointing that u gotta pay for the only cool thing you advertis..."
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 2,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-10-18",
+              "version": "5.6",
+              "quote": "Good idea but not worth downloading. It\u2019s not a free app.: Don\u2019t download."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-09-04",
+              "version": "5.4",
+              "quote": "The free version doesn\u2019t do anything useful: You don\u2019t get access to the features being advertised. There is no point downloading this app if you don\u2019t intend on purchas..."
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 2,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-09-04",
+              "version": "5.4",
+              "quote": "The free version doesn\u2019t do anything useful: You don\u2019t get access to the features being advertised. There is no point downloading this app if you don\u2019t intend on purchas..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2023-07-11",
+              "version": "3.1",
+              "quote": "Missing country: Unfortunately this app is missing the country of eSwatini (or Swaziland) so is not useful for me - if this can be fixed I would happily use the app"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1054807221",
+    "name": "app 1054807221",
+    "countries": [
+      "gb",
+      "us"
+    ],
+    "summary": {
+      "reviews_fetched": 174,
+      "date_range": [
+        "2015-11-18",
+        "2026-09-22"
+      ],
+      "stars": {
+        "1": 66,
+        "2": 14,
+        "3": 19,
+        "4": 22,
+        "5": 53
+      },
+      "low_star_count": 80,
+      "low_star_share_pct": 46.0,
+      "unmatched_low": 45,
+      "themes": [
+        {
+          "theme": "accuracy or content",
+          "count": 15,
+          "share_of_low_pct": 19,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-09-02",
+              "version": "6.5.1",
+              "quote": "Ireland (Republic): Are your sure Ireland is the Schengen? Because pretty sure it isn\u2019t therefore calculating for anyone travelling in EU is not accurate!"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-03-07",
+              "version": "4.0.3",
+              "quote": "Inaccurate app: I have calculated manually the number of days available for visits to Europe and find I have 33 days available. The app states 55 days available, a figur..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2022-12-22",
+              "version": "3.4",
+              "quote": "Poor: What should be a simple calculation appears incorrect. Initial entry appears fine, then when an additional stay is entered it does not recalculate remaining eligib..."
+            }
+          ]
+        },
+        {
+          "theme": "price, trial or paywall",
+          "count": 10,
+          "share_of_low_pct": 12,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-03-28",
+              "version": "6.2.1",
+              "quote": "Well, it used to be good\u2026: As with everything\u2026eventually they\u2019ll start charging money for something which was free\u2026 Still works as an instant \u2018Calculator\u2019 - but now you..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-10-26",
+              "version": "6.2.1",
+              "quote": "Paywall is ridiculous: App works well but is very basic and can be replaced by an excel sheet. The new paywall is ridiculous and will cause users to fall off. Offer a li..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-10-03",
+              "version": "6.2.1",
+              "quote": "Now not free: Very sad that this is not free after being with this app since brexit"
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 6,
+          "share_of_low_pct": 8,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2022-06-24",
+              "version": "3.3",
+              "quote": "Doesn\u2019t work: I\u2019ve been relying on this to keep me from overstaying. I began to get suspicious after adding a couple of future trips and the total didn\u2019t alter. I though..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2022-06-16",
+              "version": "3.3",
+              "quote": "Not accurate: Needs a spreadsheet to check accurately if making frequent visits to EU. For me lost 20 days somewhere!"
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2022-03-08",
+              "version": "3.3",
+              "quote": "Doesn\u2019t calculate properly: I typed in all my trips for the last 6 months which totalled 84 days. This app said I had 45 days left which was incorrect - it should have s..."
+            }
+          ]
+        },
+        {
+          "theme": "ads",
+          "count": 3,
+          "share_of_low_pct": 4,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-09-21",
+              "version": "6.2",
+              "quote": "Too many ads: Thought I\u2019d finally found a half decent Schengen calculator, but every time you just touch this app a full page ad appears for the paid version. So annoyin..."
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2021-11-29",
+              "version": "3.2.1",
+              "quote": "Doesn\u2019t work: The calculator only adds up 2 trips"
+            },
+            {
+              "stars": 1,
+              "country": "us",
+              "date": "2025-08-22",
+              "version": "6.1",
+              "quote": "False advertising: The App used to be free but now they want to charge!"
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 2,
+          "share_of_low_pct": 2,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-07-25",
+              "version": "6.0.1",
+              "quote": "Ruined by update: This used to be an absolutely brilliant app, so easy to use and fantastically easy to read. Who on earth created the last version and completely wrecke..."
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2021-03-23",
+              "version": "3.2.1",
+              "quote": "STOPPED WORKING: At first this seemed to work OK but, after trying it out for an hour, it just stopped working properly. It was showing days used for each trip but not t..."
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 1,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-12-11",
+              "version": "6.2.1",
+              "quote": "Absolutely shocking changes!: I used this app since way before Covid - it was perfect! What have you done? Pay! I\u2019m not registering or signing up or paying! Absolute ins..."
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 1,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2021-12-30",
+              "version": "3.2.1",
+              "quote": "Nice look but doesn\u2019t work: Every official online calendar says I have 6 days left from my 90 in any 180. This app says I have 37\u2026 I wish it was true but no. The design..."
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
