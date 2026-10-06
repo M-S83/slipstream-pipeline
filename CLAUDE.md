@@ -28,6 +28,7 @@ ideas/
     app/              the Expo project
 tools/
   store_check.py      top 10 App Store results for a keyword
+  review_check.py     counts complaints in recent low-star App Store reviews for an app
 ```
 
 ## Stages
@@ -35,7 +36,7 @@ tools/
 Update `STATUS.md` at the end of every stage: stage name, date, what is done, what is blocked and on whom.
 
 1. Intake. Mike pastes the idea card (Copy the card as text, on the Slipstream Finder page) into `idea-card.md`. Read the verdict. Only "Go" or "Go carefully" continues. "Stop or switch" or "Not finished yet" stops here and says what is missing.
-2. Refresh the store check. Run `python tools/store_check.py "<keyword>"` on Mike's machine and compare with the card. If the top 10 now looks harder than the card says, say so before going further.
+2. Refresh the store check. Run `python tools/store_check.py "<keyword>"` on Mike's machine and compare with the card. If the top 10 now looks harder than the card says, say so before going further. Then run `python tools/review_check.py "<parent app>" "<top competitor>" --country gb,us` and read `review_check.md`. A gap counts only if it repeats across several low-star reviews, and the example quotes must be read, because the counts are keyword matches. Revenue and download estimates still come from a research tool by hand (Appfigures, AppMagic); no free source has them.
 3. Plan. Write `PLAN.md`: the one job in one sentence, at most three features, what is left out, the money model, and a screen-by-screen list. GATE: Mike approves the plan in chat before any code is written.
 4. Build. Create the app in `ideas/<slug>/app/` with Expo and TypeScript (`npx create-expo-app`). Keep to the plan. If a feature is not in `PLAN.md`, do not add it. Subscriptions, if the plan has them, go through RevenueCat (`react-native-purchases`), which needs an EAS development build, not Expo Go. Run the app and check every screen in `PLAN.md` works before moving on.
 5. Listing. Fill `listing.md` using the limits in that file. Generate the icon (1024 by 1024) and screenshots from the real running app. Write a privacy policy that matches what the app actually collects. Host it somewhere Mike controls and put the URL in `listing.md`.
