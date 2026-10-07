@@ -1,0 +1,549 @@
+[
+  {
+    "id": "1530752395",
+    "name": "MyEG",
+    "seller": "DOTGOLF NZ LP",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 478,
+      "date_range": [
+        "2020-11-11",
+        "2026-10-04"
+      ],
+      "stars": {
+        "1": 288,
+        "2": 81,
+        "3": 55,
+        "4": 38,
+        "5": 16
+      },
+      "low_star_count": 369,
+      "low_star_share_pct": 77.2,
+      "unmatched_low": 162,
+      "themes": [
+        {
+          "theme": "bugs or crashes",
+          "count": 127,
+          "share_of_low_pct": 34,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-10-04",
+              "version": "3.0.3",
+              "quote": "Terrible UI: For an app that charges so much money. How can they not develop it to crash every 5 seconds. Constantly unusable and breaking. Absolutely ridiculous sort it out ffs",
+              "also": [
+                "price, trial or paywall"
+              ]
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-10-04",
+              "version": "3.0.3",
+              "quote": "Poor: I need to app for competition and handicap but it\u2019s always freezing or not responding have received 2 penalty scores Due to the app not submitting scores",
+              "also": []
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-09-09",
+              "version": "3.0.3",
+              "quote": "Needs Work: The app would be great for recording scores as you go along, but if there is no data signal, as is frequently a problem on golf courses, it either crashes or doesn\u2019t record the scores. In addition, it regularly does not record the additional stats, such as putts, bunker shots etc.",
+              "also": [
+                "feature request"
+              ]
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 36,
+          "share_of_low_pct": 10,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-07-06",
+              "version": "3.0.1",
+              "quote": "Not fit for outdoor use: I have now twice experienced the same problem - part way through a round the app suddenly wants me to log in again and when I do I find the scores for the most recent few hikes have disappeared. I suspect this is due to poor data signals but this is a common problem on English golf courses. The app needs to keep the scores entered in a temporary location, not in the...",
+              "also": []
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-07-05",
+              "version": "3.0.1",
+              "quote": "Horrific app performance: App performance is terrible. Often can\u2019t login or complete score cards",
+              "also": []
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-27",
+              "version": "3.0.1",
+              "quote": "Very expensive and barely works: Really bad app. Hugely effective at signing up members and collecting payment, but not much else. I have never been able to get this app to find my playing partner and get them to attest my score. I ended up uninstalling and reinstalling the app to see if there was some issue that was stopping it from finding anything it its database. Upon reinstalling and logging...",
+              "also": [
+                "price, trial or paywall",
+                "accuracy or content"
+              ]
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 27,
+          "share_of_low_pct": 7,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-19",
+              "version": "3.0.1",
+              "quote": "Missing courses: Can\u2019t find courses. West Yorkshire doesn\u2019t come up and the ones I play at are not there. Something so simple shouldn\u2019t be this difficult. Needs a huge improvement.",
+              "also": []
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-05",
+              "version": "3.0.1",
+              "quote": "A bad app made worse: Issues logging in, will also log you out , scorecards lost mid round. No way to check your friend has received to attest. Honestly just total garbage.",
+              "also": []
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-07",
+              "version": "3.0.0",
+              "quote": "Lack of ability to search other golfers: The app has lost the ability to search for fellow club golfers and to send friend requests. Pretty poor now",
+              "also": []
+            }
+          ]
+        },
+        {
+          "theme": "price, trial or paywall",
+          "count": 21,
+          "share_of_low_pct": 6,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-19",
+              "version": "3.0.1",
+              "quote": "Issues since the update: Since the latest update, when searching for other players, no results are being found. This is even the case when it\u2019s a player I know is a member at my own club. The big update a month ago had some nice new features with it, but the layout is just too fiddly.",
+              "also": []
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-05-31",
+              "version": "3.0.0",
+              "quote": "Absolutely awful: This is the first and only App Store review I\u2019ve ever written. That\u2019s how spectacularly bad this app has become since the so-called \u201cupgrade\u201d. At first, I was delighted to see that rounds played outside England and Scotland could finally be entered. Unfortunately, that moment of optimism lasted about as long as a three-foot putt. Rounds now seem to exist in a state of quantum...",
+              "also": []
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-05-19",
+              "version": "3.0.0",
+              "quote": "Update is frivolous: This is money wasted for what reason? Money that should be spent on grassroots golf. The previous version served its purpose. Any golfer wishing to keep detailed statistics will have a dedicated app with enhanced feedback. Do the basics and don\u2019t waste our money!",
+              "also": []
+            }
+          ]
+        },
+        {
+          "theme": "accessibility",
+          "count": 16,
+          "share_of_low_pct": 4,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-07-05",
+              "version": "3.0.1",
+              "quote": "New revision: This app has been changed and the changes are horrible",
+              "also": []
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-06-23",
+              "version": "3.0.1",
+              "quote": "A step backwards: This has not been a good rollout of a replacement to an app that seemed to be working just fine. Issues: incorrect stroke indexes versus the official club ones, erroneous messaging (summary said a comment I received was about my round of 77 despite comment being tagged to a round of 83), and mixed up stableford points scoring. The handicap scatter chart is now too small to be of...",
+              "also": [
+                "accuracy or content"
+              ]
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-06-10",
+              "version": "3.0.0",
+              "quote": "Revamped version: This new \u201cimproved\u201d version has a couple of nice new features but is badly let down by some basic UI issues and breakages in functionality that it should never have been released with. Good - Ability to select the handicap allowance - 95%, 90% etc. on the calculator page - Groups. Can add friends(or golfers now) to a group and then see the course or adjusted handicaps for an...",
+              "also": []
+            }
+          ]
+        },
+        {
+          "theme": "ads",
+          "count": 13,
+          "share_of_low_pct": 4,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-21",
+              "version": "3.0.1",
+              "quote": "Ads: We pay to have an England golf handicap why have they now decided to pollute this app with ads.",
+              "also": []
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-05-18",
+              "version": "3.0.0",
+              "quote": "What have they done!: OMG what have they done with this update. You can\u2019t see the scores that are counted to your handicap anymore. This new interface is just so messy. And why do they put adverts so close to interactions other than click bait!",
+              "also": []
+            },
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2023-10-28",
+              "version": "1.0.19",
+              "quote": "October \u201823 update - ads all over table rows!: Well done. Great update. Can\u2019t read some of the various table rows because ads are splashed all over them. Same on iPad and iPhone. Poor effort.",
+              "also": []
+            }
+          ]
+        },
+        {
+          "theme": "support",
+          "count": 10,
+          "share_of_low_pct": 3,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-16",
+              "version": "3.0.1",
+              "quote": "Poor: Not remotely user friendly, no in app support that I can find. Despite having completed the requisite number of holes for a handicap, none is forthcoming. Considering this is a paid for app, it is absolutely appalling.",
+              "also": []
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-07-06",
+              "version": "1.0.28",
+              "quote": "Hopeless: The entering extra scorecards part deserves a 54 handicap app. No support for when things go wrong.",
+              "also": []
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2021-06-01",
+              "version": "1.0.7",
+              "quote": "NotImpressed: I give them myMembership number, tick \u201cI am not a Robot\u201d and wait for a six digit code and NOTHING. I have emailed them and guess what. NOTHING. Not impressed",
+              "also": []
+            }
+          ]
+        },
+        {
+          "theme": "accuracy or content",
+          "count": 6,
+          "share_of_low_pct": 2,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-03-30",
+              "version": "2.0.8",
+              "quote": "Needs work: This app is such a poor effort from England golf. They need to do better! The fact you can\u2019t change the tee box of your playing partner is mind blowing. More often than not the tee box for my playing partners is incorrect and you\u2019re helpless to change it. Totally messing up their scorecards because their playing handicap is shown wrong.",
+              "also": []
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-05-02",
+              "version": "2.0.7",
+              "quote": "Incorrect stableford points calculation: The app used to work perfectly but unfortunately since since the recent update it has been calculating the stableford points wrongly. Very frustrating!",
+              "also": []
+            }
+          ]
+        },
+        {
+          "theme": "sync or integrations",
+          "count": 5,
+          "share_of_low_pct": 1,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-29",
+              "version": "3.0.1",
+              "quote": "Still terrible and unreliable: Never ever rely on it as your scorecard. Today it lost my last four hole scores and logged me out. Fairly typical behaviour. Fortunately I had scored along on my Garmin.",
+              "also": []
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-06",
+              "version": "3.0.0",
+              "quote": "Harder to navigate: What\u2019s happened to the clear visibility of your counting scores? Why do you want to group friends?! Why can\u2019t I see my details first! How do I add stats? Why can it sync with my Garmin? Definitely feels like a backward step.",
+              "also": []
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-08-01",
+              "version": "1.0.17",
+              "quote": "EG app should sync to VPAR and Garmin: When you compare the EG app to VPAR, Garmin Golf Apps and host of other handicap trackers, it is very poor. But I don\u2019t think EG needs to compete with the other better designed/ functional apps. Work out how to sync the EG app to the existing (and much better) golf apps. Benefits: 1. This will save having enter the same score card in twice. 2. The EG app...",
+              "also": []
+            }
+          ]
+        },
+        {
+          "theme": "offline",
+          "count": 1,
+          "share_of_low_pct": 0,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-10-19",
+              "version": "1.0.19",
+              "quote": "Least golf friendly app around: This is the most frustrating app of any kind that I have used. I like the general concept of it but the constant need to get a signal in the middle of the countryside to avoid scrolling through the entire course to add a score for one hole is infuriating. How hard can it be to have an offline mode? Avoid it.",
+              "also": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1360641725",
+    "name": "Golf Handicap + GPS - MOGC",
+    "seller": "MOGC Ltd",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 83,
+      "date_range": [
+        "2018-05-06",
+        "2026-08-22"
+      ],
+      "stars": {
+        "1": 11,
+        "2": 3,
+        "3": 8,
+        "4": 9,
+        "5": 52
+      },
+      "low_star_count": 14,
+      "low_star_share_pct": 16.9,
+      "unmatched_low": 7,
+      "themes": [
+        {
+          "theme": "support",
+          "count": 2,
+          "share_of_low_pct": 14,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2025-07-01",
+              "version": "5.3.1",
+              "quote": "Doesn\u2019t update slope index correctly and poor customer response: My group that use this app has a recurring fault re a couple of courses we play. The handicap conversion based on the slope jndex doesn\u2019t work correctly AND the Stroke Indices are different on the course card from what it says on the app. Both these faults cause an issue in scoring Stableford. I have emailed MOGC but had no reply",
+              "also": []
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2023-06-25",
+              "version": "5.2.11",
+              "quote": "Poor support: Unable to scroll through previous friends and my own scores, no reply from several emails to support.",
+              "also": []
+            }
+          ]
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 2,
+          "share_of_low_pct": 14,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-01-05",
+              "version": "5.2.11",
+              "quote": "No account: Used this app to record my first ever round till now. It logged me out because I hadn\u2019t used it for a while as I hadn\u2019t been playing then couldn\u2019t log back in. Contacted them and they said they hadn\u2019t got an account relating to my email or username. Which can\u2019t be possible. Lost all that info now. Really disappointed. Wouldn\u2019t recommend as it\u2019s not reliable.",
+              "also": []
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2021-12-26",
+              "version": "5.2.6",
+              "quote": "Confusing app: Very inconsistent app. Tried to play a round using this to score with my husband. It won\u2019t share the score card and it gave us very different handicaps. Each time we log in to play it gives us a different handicap and whoever records the round has the course handicap rather than their own. There is no clear explanation or way of changing this.",
+              "also": []
+            }
+          ]
+        },
+        {
+          "theme": "price, trial or paywall",
+          "count": 1,
+          "share_of_low_pct": 7,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2022-04-25",
+              "version": "5.2.6",
+              "quote": "Waste of money: Whilst this keeps log of your scores the \u2018handicap\u2019 you pay for means zero in relation to World golf handicap. They\u2019ve taken a money from me when I\u2019ve repeatedly told them I wasn\u2019t renewing my membership. I\u2019ve contacted them numerous times via email to recover my money but they deflect away from issue. TOTAL WASTE !",
+              "also": []
+            }
+          ]
+        },
+        {
+          "theme": "bugs or crashes",
+          "count": 1,
+          "share_of_low_pct": 7,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2019-12-28",
+              "version": "2.1.2",
+              "quote": "Just crashes: Having downloaded this app I started to use it and now it has logged me out , I have tried to open on several occasions with no avail. Tried the forgot my password route it said it would send me a new password to my e-mail address within 2 minutes , still waiting 2 days later ,",
+              "also": []
+            }
+          ]
+        },
+        {
+          "theme": "accuracy or content",
+          "count": 1,
+          "share_of_low_pct": 7,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2019-09-01",
+              "version": "1.29.6",
+              "quote": "Poor, hard to use: I found this app very poor and unreliable. It was very inaccurate and told me my handicap was lower than it actually was",
+              "also": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "6469409786",
+    "name": "Seru mock test, MCQ, Theory",
+    "seller": "Nilam patel",
+    "countries": [
+      "gb"
+    ],
+    "summary": {
+      "reviews_fetched": 37,
+      "date_range": [
+        "2023-12-27",
+        "2026-07-09"
+      ],
+      "stars": {
+        "1": 26,
+        "2": 1,
+        "3": 2,
+        "4": 1,
+        "5": 7
+      },
+      "low_star_count": 27,
+      "low_star_share_pct": 73.0,
+      "unmatched_low": 12,
+      "themes": [
+        {
+          "theme": "bugs or crashes",
+          "count": 9,
+          "share_of_low_pct": 33,
+          "examples": [
+            {
+              "stars": 2,
+              "country": "gb",
+              "date": "2026-07-09",
+              "version": "1.2.1",
+              "quote": "Not working: Fill the blanks questions not working",
+              "also": []
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-06-03",
+              "version": "1.2.1",
+              "quote": "App not working perfect.: Questions page can't scroll down.",
+              "also": []
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2026-03-18",
+              "version": "1.2.1",
+              "quote": "MCQ not working after 2 questions not going forward: Not worth buying it",
+              "also": []
+            }
+          ]
+        },
+        {
+          "theme": "price, trial or paywall",
+          "count": 8,
+          "share_of_low_pct": 30,
+          "examples": [
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-12-15",
+              "version": "1.2.1",
+              "quote": "Fill in the blank dissent work: I just purchase the app and fill in the blank doesn\u2019t work at all . Such a waste of of money and time .",
+              "also": []
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2025-02-12",
+              "version": "1.2.0",
+              "quote": "Scam app: Questions and asnwers are wrong silly questions which will never be asked And cancelling the subscription is not easy",
+              "also": []
+            },
+            {
+              "stars": 1,
+              "country": "gb",
+              "date": "2024-08-26",
+              "version": "1.1.2",
+              "quote": "Scam: Scamming people fro taking money. I did not have auto renewal , but it renewed anyway.",
+              "also": []
+            }
+          ]
+        },
+        {
+          "theme": "feature request",
+          "count": 1,
+          "share_of_low_pct": 4,
+          "examples": []
+        },
+        {
+          "theme": "accuracy or content",
+          "count": 1,
+          "share_of_low_pct": 4,
+          "examples": []
+        },
+        {
+          "theme": "sign-up or onboarding",
+          "count": 1,
+          "share_of_low_pct": 4,
+          "examples": []
+        }
+      ]
+    }
+  }
+]
