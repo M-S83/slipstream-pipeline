@@ -71,6 +71,12 @@ THEMES = {
         r"not working", r"doesn'?t work", r"stopped working", r"error",
         r"slow", r"loading",
     ],
+    "out of date or abandoned": [
+        r"not (been )?updated", r"no (more )?updates", r"never updated", r"abandon",
+        r"out ?of ?date", r"outdated", r"no longer (works?|working|supported|maintained)",
+        r"(since|after) (the )?(latest |last |new |recent )?ios", r"\bios ?\d{2}\b",
+        r"old (rules|questions|version|data|info)", r"dead app", r"developer (has )?(gone|vanished|disappeared)",
+    ],
     "ads": [r"\bads?\b", r"\badds\b", r"advert"],
     "sync or integrations": [
         r"\bsync", r"apple health", r"apple watch", r"garmin", r"strava",

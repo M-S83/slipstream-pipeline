@@ -23,6 +23,14 @@ Limits of the share figure: it only compares the stores listed in --compare, so
 an app that is big in a store not on the list can still look more local than it
 is. Apple's feed stops at 100 chart positions per category.
 
+Stale earners: every row also shows when the app was last updated. An app that
+is still on a top grossing chart but has not been updated for a year or more may
+be abandoned, and its paying users may soon need a replacement. Use
+--stale-days 365 to keep only those. The .md file lists them in their own
+section either way. A stale app is a lead, not a finding: run review_check.py on
+it with --since and read whether recent low-star reviews say it has broken or
+fallen out of date.
+
 Usage:
     python3 chart_scan.py                                  # UK, all categories except Games
     python3 chart_scan.py --min-ratings 200 --max-ratings 3000 --min-share 0.6
@@ -30,6 +38,7 @@ Usage:
     python3 chart_scan.py --genres 6013,6017               # only some categories
     python3 chart_scan.py --compare ""                     # skip the share check
     python3 chart_scan.py --tag uk-niche                   # adds a tag to the file names
+    python3 chart_scan.py --min-ratings 100 --max-ratings 100000 --stale-days 365 --tag stale
 
 Output: chart_scan_<country>_<date>[_<tag>].csv and .md in the current folder.
 """
@@ -89,6 +98,15 @@ def fetch_json(url, retries=3):
     raise RuntimeError("could not fetch {}: {}".format(url, last))
 
 
+def days_since(iso, today):
+    """Whole days from one of Apple's dates (2024-05-01T07:00:00Z) to today. None if missing."""
+    try:
+        then = datetime.datetime.fromisoformat(iso.replace("Z", "+00:00"))
+        return (today - then).days
+    except (ValueError, AttributeError, TypeError):
+        return None
+
+
 def chart_ids(country, genre, depth):
     """Return a list of (rank, app_id) for one category's top grossing chart."""
     data = fetch_json(FEED_URL.format(cc=country, n=depth, g=genre))
@@ -118,7 +136,7 @@ def lookup(country, ids):
     return found
 
 
-def build_rows(country, genres, depth, lo, hi, log=print):
+def build_rows(country, genres, depth, lo, hi, today, log=print):
     rows = []
     for gid in genres:
         gname = GENRES.get(gid, str(gid))
@@ -144,6 +162,9 @@ def build_rows(country, genres, depth, lo, hi, log=print):
                 "ratings": count,
                 "avg_rating": round(r.get("averageUserRating") or 0, 2),
                 "price": r.get("formattedPrice", ""),
+                "last_update": (r.get("currentVersionReleaseDate") or "")[:10],
+                "days_since_update": days_since(r.get("currentVersionReleaseDate", ""), today),
+                "version": r.get("version", ""),
                 "store_id": app_id,
                 "bundle_id": r.get("bundleId", ""),
                 "url": r.get("trackViewUrl", "").split("?")[0],
@@ -184,11 +205,19 @@ def add_shares(rows, compare, log=print):
     return used
 
 
-def write_outputs(rows, country, lo, hi, depth, stem, used, min_share, top_rank):
+def updated_words(r):
+    """'2025-03-14, 572 days ago' or '?' when Apple gave no date."""
+    if r.get("days_since_update") is None:
+        return "?"
+    return "{}, {} days ago".format(r["last_update"], r["days_since_update"])
+
+
+def write_outputs(rows, country, lo, hi, depth, stem, used, min_share, top_rank, stale_days):
     cols = ["genre", "grossing_rank", "name", "seller", "ratings"]
     if used:
         cols += ["home_share"] + ["ratings_" + cc for cc in used]
-    cols += ["avg_rating", "price", "store_id", "bundle_id", "url"]
+    cols += ["avg_rating", "price", "last_update", "days_since_update", "version",
+             "store_id", "bundle_id", "url"]
     with open(stem + ".csv", "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=cols, extrasaction="ignore")
         w.writeheader()
@@ -206,28 +235,58 @@ def write_outputs(rows, country, lo, hi, depth, stem, used, min_share, top_rank)
     elif used:
         lines.append("Share column: the {} store's part of the ratings across {}.".format(
             cc_up, ", ".join([cc_up] + [c.upper() for c in used])))
+    if stale_days > 0:
+        lines.append("Also kept only if the app has not been updated for at least {} days.".format(stale_days))
     lines.append("A high rank with few ratings suggests an app that earns for its size. "
                  "It is a hint, not proof.")
     lines.append("")
     lines.append("Best candidates (rank {} or better, any category)".format(top_rank))
     lines.append("")
     if used:
-        lines.append("| Rank | Category | App | Ratings | {} share | Avg | Price |".format(cc_up))
-        lines.append("|---|---|---|---|---|---|---|")
+        lines.append("| Rank | Category | App | Ratings | {} share | Avg | Price | Last update |".format(cc_up))
+        lines.append("|---|---|---|---|---|---|---|---|")
     else:
-        lines.append("| Rank | Category | App | Ratings | Avg | Price |")
-        lines.append("|---|---|---|---|---|---|")
+        lines.append("| Rank | Category | App | Ratings | Avg | Price | Last update |")
+        lines.append("|---|---|---|---|---|---|---|")
     best = sorted([r for r in rows if r["grossing_rank"] <= top_rank],
                   key=lambda r: (r["grossing_rank"], r["ratings"]))
     for r in best:
         if used:
-            lines.append("| {} | {} | {} | {} | {}% | {} | {} |".format(
+            lines.append("| {} | {} | {} | {} | {}% | {} | {} | {} |".format(
                 r["grossing_rank"], r["genre"], r["name"], r["ratings"],
-                int(round(r["home_share"] * 100)), r["avg_rating"], r["price"]))
+                int(round(r["home_share"] * 100)), r["avg_rating"], r["price"],
+                r["last_update"] or "?"))
         else:
-            lines.append("| {} | {} | {} | {} | {} | {} |".format(
+            lines.append("| {} | {} | {} | {} | {} | {} | {} |".format(
                 r["grossing_rank"], r["genre"], r["name"], r["ratings"],
-                r["avg_rating"], r["price"]))
+                r["avg_rating"], r["price"], r["last_update"] or "?"))
+
+    # Stale earners: still on a grossing chart, no update for a year (or --stale-days).
+    cut = stale_days if stale_days > 0 else 365
+    stale = sorted([r for r in rows if r["days_since_update"] is not None and r["days_since_update"] >= cut],
+                   key=lambda r: (r["grossing_rank"], -r["ratings"]))
+    unknown = sum(1 for r in rows if r["days_since_update"] is None)
+    lines.append("")
+    lines.append("Still earning, not updated for {} days or more ({} {}, any rank)".format(
+        cut, len(stale), "app" if len(stale) == 1 else "apps"))
+    lines.append("")
+    if stale:
+        lines.append("Leads only. Run review_check.py on the best few with --since and read whether recent "
+                     "low-star reviews say the app has broken or fallen out of date.")
+        lines.append("")
+        lines.append("| Rank | Category | App | Ratings | Avg | Price | Last update | Days |")
+        lines.append("|---|---|---|---|---|---|---|---|")
+        for r in stale:
+            lines.append("| {} | {} | {} | {} | {} | {} | {} | {} |".format(
+                r["grossing_rank"], r["genre"], r["name"], r["ratings"], r["avg_rating"],
+                r["price"], r["last_update"], r["days_since_update"]))
+    else:
+        lines.append("None in this scan.")
+    if unknown:
+        lines.append("")
+        lines.append("{} {} no update date from Apple and {} left out of this list.".format(
+            unknown, "app had" if unknown == 1 else "apps had", "is" if unknown == 1 else "are"))
+
     lines.append("")
     lines.append("Everything kept, by category")
     for g in sorted({r["genre"] for r in rows}):
@@ -235,8 +294,8 @@ def write_outputs(rows, country, lo, hi, depth, stem, used, min_share, top_rank)
         lines.append(g)
         for r in sorted([x for x in rows if x["genre"] == g], key=lambda x: x["grossing_rank"]):
             share = "  {}% {}".format(int(round(r["home_share"] * 100)), cc_up) if used else ""
-            lines.append("  {:>3}  {}  ({} ratings{}, {})".format(
-                r["grossing_rank"], r["name"], r["ratings"], share, r["url"]))
+            lines.append("  {:>3}  {}  ({} ratings{}, updated {}, {})".format(
+                r["grossing_rank"], r["name"], r["ratings"], share, updated_words(r), r["url"]))
     with open(stem + ".md", "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
 
@@ -256,11 +315,17 @@ def main(argv=None):
                         "(0 to 1, for example 0.6). Default 0 keeps everything.")
     p.add_argument("--top-rank", type=int, default=40,
                    help="rank cut-off for the candidates table in the .md file, default 40")
+    p.add_argument("--stale-days", type=int, default=0,
+                   help="keep only apps not updated for at least this many days, for example 365. "
+                        "Default 0 keeps everything.")
     p.add_argument("--tag", default="", help="text added to the output file names so earlier scans are not overwritten")
     args = p.parse_args(argv)
 
     if not 0 <= args.min_share <= 1:
         print("--min-share must be between 0 and 1, for example 0.6")
+        return 2
+    if args.stale_days < 0:
+        print("--stale-days must be 0 or more, for example 365")
         return 2
     genres = [int(g) for g in args.genres.split(",") if g.strip()] or list(GENRES)
     depth = max(1, min(args.depth, 100))
@@ -270,11 +335,21 @@ def main(argv=None):
         if c and c != args.country.lower() and c not in compare:
             compare.append(c)
 
+    today = datetime.datetime.now(datetime.timezone.utc)
     print("Scanning {} categories in the {} store...".format(len(genres), args.country.upper()))
-    rows = build_rows(args.country, genres, depth, args.min_ratings, args.max_ratings)
+    rows = build_rows(args.country, genres, depth, args.min_ratings, args.max_ratings, today)
     if not rows:
         print("Nothing found. If every category was skipped, the network is probably blocked.")
         return 1
+
+    if args.stale_days > 0:
+        # Done before the share check so the other stores are only asked about the apps that are left.
+        before = len(rows)
+        rows = [r for r in rows if r["days_since_update"] is not None and r["days_since_update"] >= args.stale_days]
+        print("Kept {} of {} apps not updated for at least {} days.".format(len(rows), before, args.stale_days))
+        if not rows:
+            print("Nothing left after the stale filter. Try a wider ratings band or a lower --stale-days.")
+            return 1
 
     used = []
     if compare:
@@ -296,7 +371,7 @@ def main(argv=None):
     if args.tag:
         stem += "_" + args.tag
     write_outputs(rows, args.country, args.min_ratings, args.max_ratings, depth, stem,
-                  used, args.min_share, args.top_rank)
+                  used, args.min_share, args.top_rank, args.stale_days)
     print("Wrote {0}.csv and {0}.md with {1} apps.".format(stem, len(rows)))
     return 0
 

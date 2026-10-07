@@ -27,7 +27,8 @@ ideas/
     measure.md        figures at day 30, 60, 90
     app/              the Expo project
 tools/
-  chart_scan.py       top grossing apps per category with a modest number of ratings
+  chart_scan.py       top grossing apps per category with a modest number of ratings and their last update
+                      (--stale-days 365 keeps only earning apps that may be abandoned)
   keyword_sweep.py    many keywords at once: are small, stale or new apps near the top
   store_check.py      top 10 App Store results for a keyword
   review_check.py     counts complaints in recent low-star App Store reviews for an app
