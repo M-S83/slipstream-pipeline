@@ -1,0 +1,733 @@
+keyword,group,rank,name,seller,ratings,avg_rating,price,genre,days_since_update,days_since_release,store_id,url
+darts scoreboard,sports tools,1,DartCounter,DartCounter,37125,4.85,Free,Sports,1,4128,999533915,https://apps.apple.com/gb/app/dartcounter/id999533915
+darts scoreboard,sports tools,2,DARTS Scoreboard 2026,HIG Studio Ltd.,344,4.81,Free,Sports,7,2380,1504732492,https://apps.apple.com/gb/app/darts-scoreboard-2026/id1504732492
+darts scoreboard,sports tools,3,Darts Score,Ravish Kumar,15,4.8,Free,Sports,1762,2293,1495254157,https://apps.apple.com/gb/app/darts-score/id1495254157
+darts scoreboard,sports tools,4,Dart Scores: Darts Scoreboard,Dart Scores,5056,4.75,Free,Sports,7,4262,961357368,https://apps.apple.com/gb/app/dart-scores-darts-scoreboard/id961357368
+darts scoreboard,sports tools,5,Easy Darts Score,Pulsecode SRL,22,2.95,Free,Utilities,7,3683,1141830439,https://apps.apple.com/gb/app/easy-darts-score/id1141830439
+darts scoreboard,sports tools,6,Darts Scorer App Score Counter,Yosyp Hameliak,787,4.84,Free,Sports,234,2347,1511427031,https://apps.apple.com/gb/app/darts-scorer-app-score-counter/id1511427031
+darts scoreboard,sports tools,7,Russ Bray Darts Scorer Pro,TIG Apps Limited,16685,4.8,Free,Sports,225,3298,1269100714,https://apps.apple.com/gb/app/russ-bray-darts-scorer-pro/id1269100714
+darts scoreboard,sports tools,8,Darts Scoreboard: Darts Scorer,Footy Amigo Limited,0,0,Free,Entertainment,238,245,6758208820,https://apps.apple.com/gb/app/darts-scoreboard-darts-scorer/id6758208820
+darts scoreboard,sports tools,9,Score Darts Scorer,Stuart Cooper,2727,4.8,Free,Sports,36,5038,587868848,https://apps.apple.com/gb/app/score-darts-scorer/id587868848
+darts practice,sports tools,1,My Dart Training,Manfred Buettner,44,3.84,Free,Sports,8,2174,1529123323,https://apps.apple.com/gb/app/my-dart-training/id1529123323
+darts practice,sports tools,2,DartCounter,DartCounter,37117,4.85,Free,Sports,1,4128,999533915,https://apps.apple.com/gb/app/dartcounter/id999533915
+darts practice,sports tools,3,MyDartCoach,Micha Wattenberg,29,4.86,Free,Sports,703,2250,1525120073,https://apps.apple.com/gb/app/mydartcoach/id1525120073
+darts practice,sports tools,4,Russ Bray Darts Scorer Pro,TIG Apps Limited,16683,4.8,Free,Sports,225,3298,1269100714,https://apps.apple.com/gb/app/russ-bray-darts-scorer-pro/id1269100714
+darts practice,sports tools,5,"All-Round: Darts Coach, Scorer",Thomas Achtelstetter,1,5,Free,Sports,23,667,6739191378,https://apps.apple.com/gb/app/all-round-darts-coach-scorer/id6739191378
+darts practice,sports tools,6,Dart Bot,Aaron Rockett,108,4.69,Free,Sports,41,1466,1645049130,https://apps.apple.com/gb/app/dart-bot/id1645049130
+darts practice,sports tools,7,Pro Darts 2026,iWare Designs Ltd.,15812,4.73,Free,Games,1,4726,708971715,https://apps.apple.com/gb/app/pro-darts-2026/id708971715
+darts practice,sports tools,8,Score Darts Scorer,Stuart Cooper,2727,4.8,Free,Sports,36,5038,587868848,https://apps.apple.com/gb/app/score-darts-scorer/id587868848
+darts practice,sports tools,9,Dartsmind,Zaglab Limited,974,4.74,Free,Sports,3,4094,1018594473,https://apps.apple.com/gb/app/dartsmind/id1018594473
+darts practice,sports tools,10,Dart Scores: Darts Scoreboard,Dart Scores,5055,4.75,Free,Sports,7,4262,961357368,https://apps.apple.com/gb/app/dart-scores-darts-scoreboard/id961357368
+darts checkout,sports tools,1,DartCounter,DartCounter,37125,4.85,Free,Sports,1,4128,999533915,https://apps.apple.com/gb/app/dartcounter/id999533915
+darts checkout,sports tools,2,Darts Checkout Trainer,Alex Goulder,1,5,Free,Sports,846,848,6504090669,https://apps.apple.com/gb/app/darts-checkout-trainer/id6504090669
+darts checkout,sports tools,3,Darts Checkout Scorer,Zoltan Vinkler,9,4.67,Free,Sports,17,3110,1160504503,https://apps.apple.com/gb/app/darts-checkout-scorer/id1160504503
+darts checkout,sports tools,4,Checkout Coach: Darts,Alyco Invest AS,1,5,Free,Sports,72,73,6789139045,https://apps.apple.com/gb/app/checkout-coach-darts/id6789139045
+darts checkout,sports tools,5,DartsOn: Darts Scoreboard,RSApps Nordics OU,339,4.69,Free,Sports,8,381,6749278824,https://apps.apple.com/gb/app/dartson-darts-scoreboard/id6749278824
+darts checkout,sports tools,6,Dart Scores: Darts Scoreboard,Dart Scores,5056,4.75,Free,Sports,7,4262,961357368,https://apps.apple.com/gb/app/dart-scores-darts-scoreboard/id961357368
+darts checkout,sports tools,7,Score Darts Scorer,Stuart Cooper,2727,4.8,Free,Sports,36,5038,587868848,https://apps.apple.com/gb/app/score-darts-scorer/id587868848
+darts checkout,sports tools,8,Russ Bray Darts Scorer Pro,TIG Apps Limited,16685,4.8,Free,Sports,225,3298,1269100714,https://apps.apple.com/gb/app/russ-bray-darts-scorer-pro/id1269100714
+darts checkout,sports tools,9,Darts Match Live!,Motionlab Interactive Ltd,7079,4.52,Free,Games,33,3740,922853976,https://apps.apple.com/gb/app/darts-match-live/id922853976
+darts checkout,sports tools,10,Pro Darts 2026,iWare Designs Ltd.,15814,4.73,Free,Games,1,4726,708971715,https://apps.apple.com/gb/app/pro-darts-2026/id708971715
+football referee,sports tools,1,Referee Simulator 2026,J LABS TEKNOLOJI ANONIM SIRKETI,7356,4.64,Free,Games,33,560,6742241805,https://apps.apple.com/gb/app/referee-simulator-2026/id6742241805
+football referee,sports tools,2,Referee Simulator 2026,Efecan DEMIR,131,4.44,Free,Games,9,306,6756081015,https://apps.apple.com/gb/app/referee-simulator-2026/id6756081015
+football referee,sports tools,3,VAR Assistant Referee Game dls,Haris Shabbir,372,3.48,Free,Games,35,104,6761053945,https://apps.apple.com/gb/app/var-assistant-referee-game-dls/id6761053945
+football referee,sports tools,4,Football Referee Lite,Vladimir Pliashkun,192,4.48,Free,Games,250,1023,6474272700,https://apps.apple.com/gb/app/football-referee-lite/id6474272700
+football referee,sports tools,5,REFSIX - Football Referee app,REFSIX Ltd,277,4.56,Free,Sports,64,3398,1235649461,https://apps.apple.com/gb/app/refsix-football-referee-app/id1235649461
+football referee,sports tools,6,Football Referee Simulator,Vladimir Pliashkun,75,4.12,£0.99,Games,258,1849,1581640677,https://apps.apple.com/gb/app/football-referee-simulator/id1581640677
+football referee,sports tools,7,Football Security Game 2026,Funjitsu Oyun ve Teknoloji Anonim Sirketi,6905,4.6,Free,Games,7,867,6502436178,https://apps.apple.com/gb/app/football-security-game-2026/id6502436178
+football referee,sports tools,8,Centre Circle - Football App,RA Technological Solutions Ltd,518,4.72,Free,Sports,0,2596,1465147177,https://apps.apple.com/gb/app/centre-circle-football-app/id1465147177
+football referee,sports tools,9,football referee simulator 26,Hakan Eren,2,1,Free,Games,129,148,6768230758,https://apps.apple.com/gb/app/football-referee-simulator-26/id6768230758
+football referee,sports tools,10,Regra18: Football Referee,Tiago Soares,0,0,Free,Sports,68,148,6767283292,https://apps.apple.com/gb/app/regra18-football-referee/id6767283292
+rugby referee,sports tools,1,RefereeWatch - Match Timer,Sebastin Michael,1,1,Free,Sports,299,300,6756371786,https://apps.apple.com/gb/app/refereewatch-match-timer/id6756371786
+rugby referee,sports tools,2,Rugby Referee Watch,Bart Vullings,0,0,£0.99,Sports,141,147,6766930262,https://apps.apple.com/gb/app/rugby-referee-watch/id6766930262
+rugby referee,sports tools,3,World Rugby Laws of Rugby,World Rugby Limited,14,4.21,Free,Sports,504,5804,403213587,https://apps.apple.com/gb/app/world-rugby-laws-of-rugby/id403213587
+rugby referee,sports tools,4,Referee Simulator 2026,Efecan DEMIR,131,4.44,Free,Games,9,306,6756081015,https://apps.apple.com/gb/app/referee-simulator-2026/id6756081015
+rugby referee,sports tools,5,RugbyREF,SketchNZ,2,2,Free,Sports,57,2509,1488060220,https://apps.apple.com/gb/app/rugbyref/id1488060220
+rugby referee,sports tools,6,Rugby Goal Rush Adventure,文晖 游,0,0,Free,Games,201,240,6758644773,https://apps.apple.com/gb/app/rugby-goal-rush-adventure/id6758644773
+rugby referee,sports tools,7,Referee Simulator 2026,J LABS TEKNOLOJI ANONIM SIRKETI,7356,4.64,Free,Games,33,560,6742241805,https://apps.apple.com/gb/app/referee-simulator-2026/id6742241805
+rugby referee,sports tools,8,football referee simulator 26,Hakan Eren,2,1,Free,Games,129,148,6768230758,https://apps.apple.com/gb/app/football-referee-simulator-26/id6768230758
+rugby referee,sports tools,9,REFSIX - Football Referee app,REFSIX Ltd,277,4.56,Free,Sports,64,3398,1235649461,https://apps.apple.com/gb/app/refsix-football-referee-app/id1235649461
+rugby referee,sports tools,10,Better Rugby Ref V2,Jeffrey Mark Shapiro,1,2,£4.99,Sports,201,202,6754040067,https://apps.apple.com/gb/app/better-rugby-ref-v2/id6754040067
+cricket umpire,sports tools,1,Cricket LBW - Umpire's Call,Impact Unified AB,1938,4.56,Free,Games,1102,2602,1459498778,https://apps.apple.com/gb/app/cricket-lbw-umpires-call/id1459498778
+cricket umpire,sports tools,2,Cricket Umpire Scorer,SYNTEC SOLUTIONS LTD,0,0,Free,Sports,49,159,6762162005,https://apps.apple.com/gb/app/cricket-umpire-scorer/id6762162005
+cricket umpire,sports tools,3,Cricket Umpire Ball Tracker,Ramesh Batra,1,4,Free,Utilities,2643,2643,1469350298,https://apps.apple.com/gb/app/cricket-umpire-ball-tracker/id1469350298
+cricket umpire,sports tools,4,Fulltrack AI,AI MAIDEN INC,203,4.67,Free,Sports,1,1924,1568524044,https://apps.apple.com/gb/app/fulltrack-ai/id1568524044
+cricket umpire,sports tools,5,New Star Cricket,New Star Games,3457,4.66,Free,Games,918,3618,974625290,https://apps.apple.com/gb/app/new-star-cricket/id974625290
+cricket umpire,sports tools,6,Cricket Umpires Counter,Callum Mansfield,0,0,Free,Sports,264,558,6743697073,https://apps.apple.com/gb/app/cricket-umpires-counter/id6743697073
+cricket umpire,sports tools,7,Cricket Umpiring Counter,Kavinda Kottege,0,0,Free,Sports,132,414,6749366228,https://apps.apple.com/gb/app/cricket-umpiring-counter/id6749366228
+cricket umpire,sports tools,8,Stick Cricket Classic,Stick Sports Ltd,7091,4.73,Free,Games,83,5775,406781620,https://apps.apple.com/gb/app/stick-cricket-classic/id406781620
+cricket umpire,sports tools,9,England Cricket,England and Wales Cricket Board Ltd,6469,4.64,Free,Sports,20,6356,314954199,https://apps.apple.com/gb/app/england-cricket/id314954199
+cricket umpire,sports tools,10,Play-Cricket Scorer,England and Wales Cricket Board Ltd,6373,4.54,Free,Sports,29,3493,1213190783,https://apps.apple.com/gb/app/play-cricket-scorer/id1213190783
+cricket scoring,sports tools,1,Play-Cricket Scorer,England and Wales Cricket Board Ltd,6373,4.54,Free,Sports,29,3493,1213190783,https://apps.apple.com/gb/app/play-cricket-scorer/id1213190783
+cricket scoring,sports tools,2,Stumps - The Cricket Scorer,Diyas Coders Private Limited,20,4.65,Free,Sports,39,2516,1487782108,https://apps.apple.com/gb/app/stumps-the-cricket-scorer/id1487782108
+cricket scoring,sports tools,3,CricketScorer,Vijay Marri,6,4,Free,Sports,64,3499,1212056464,https://apps.apple.com/gb/app/cricketscorer/id1212056464
+cricket scoring,sports tools,4,Countdown Cricket,England and Wales Cricket Board Ltd,1185,4.76,Free,Sports,784,1990,1505679707,https://apps.apple.com/gb/app/countdown-cricket/id1505679707
+cricket scoring,sports tools,5,Gully Cricket Scorer,Nivedita Ekka,1,5,Free,Sports,385,520,6744754285,https://apps.apple.com/gb/app/gully-cricket-scorer/id6744754285
+cricket scoring,sports tools,6,Cricket Umpire Scorer,SYNTEC SOLUTIONS LTD,0,0,Free,Sports,49,159,6762162005,https://apps.apple.com/gb/app/cricket-umpire-scorer/id6762162005
+cricket scoring,sports tools,7,CricHeroes-Cricket Scoring App,CRICHEROES PRIVATE LIMITED,217,4.72,Free,Sports,22,3355,1222844050,https://apps.apple.com/gb/app/cricheroes-cricket-scoring-app/id1222844050
+cricket scoring,sports tools,8,Cricinfo - Live Cricket Scores,JIOSTAR INDIA PRIVATE LIMITED,21252,4.68,Free,Sports,26,5725,417408017,https://apps.apple.com/gb/app/cricinfo-live-cricket-scores/id417408017
+cricket scoring,sports tools,9,CricÓ: Cricket Scoring App,eHeuristic Solutions,10,4.9,Free,Utilities,71,870,6476875920,https://apps.apple.com/gb/app/cric%C3%B3-cricket-scoring-app/id6476875920
+cricket scoring,sports tools,10,Cricbuzz Live Cricket Scores,Cricbuzz Platforms Limited,12830,4.5,Free,Sports,5,6047,360466413,https://apps.apple.com/gb/app/cricbuzz-live-cricket-scores/id360466413
+cricket scorer,sports tools,1,CREX - Just Cricket,Parthtech Developers LLP,2275,4.66,Free,Sports,3,3090,1370408703,https://apps.apple.com/gb/app/crex-just-cricket/id1370408703
+cricket scorer,sports tools,2,CricketScorer,Vijay Marri,6,4,Free,Sports,64,3499,1212056464,https://apps.apple.com/gb/app/cricketscorer/id1212056464
+cricket scorer,sports tools,3,Play-Cricket Scorer,England and Wales Cricket Board Ltd,6373,4.54,Free,Sports,29,3493,1213190783,https://apps.apple.com/gb/app/play-cricket-scorer/id1213190783
+cricket scorer,sports tools,4,Stumps - The Cricket Scorer,Diyas Coders Private Limited,20,4.65,Free,Sports,39,2516,1487782108,https://apps.apple.com/gb/app/stumps-the-cricket-scorer/id1487782108
+cricket scorer,sports tools,5,CrickMatch - Live Scorer,Meetanshi Technologies LLP,1,4,Free,Sports,13,330,6755029198,https://apps.apple.com/gb/app/crickmatch-live-scorer/id6755029198
+cricket scorer,sports tools,6,Cricket Umpire Scorer,SYNTEC SOLUTIONS LTD,0,0,Free,Sports,49,159,6762162005,https://apps.apple.com/gb/app/cricket-umpire-scorer/id6762162005
+cricket scorer,sports tools,7,Cricbuzz Live Cricket Scores,Cricbuzz Platforms Limited,12830,4.5,Free,Sports,5,6047,360466413,https://apps.apple.com/gb/app/cricbuzz-live-cricket-scores/id360466413
+cricket scorer,sports tools,8,Gully Cricket Scorer,Nivedita Ekka,1,5,Free,Sports,385,520,6744754285,https://apps.apple.com/gb/app/gully-cricket-scorer/id6744754285
+cricket scorer,sports tools,9,Cricket 21 Scorer,KADAMBA TECHNOLOGIES PRIVATE LIMITED,1,1,Free,Sports,1064,1105,6467911537,https://apps.apple.com/gb/app/cricket-21-scorer/id6467911537
+cricket scorer,sports tools,10,Countdown Cricket,England and Wales Cricket Board Ltd,1185,4.76,Free,Sports,784,1990,1505679707,https://apps.apple.com/gb/app/countdown-cricket/id1505679707
+padel,sports tools,1,Playtomic - Play padel,Playtomic S.L.,36202,4.84,Free,Sports,2,3261,1242321076,https://apps.apple.com/gb/app/playtomic-play-padel/id1242321076
+padel,sports tools,2,Red Bull Padel: Court Legends,Red Bull Media House GmbH,105,4.5,Free,Games,49,133,6747110230,https://apps.apple.com/gb/app/red-bull-padel-court-legends/id6747110230
+padel,sports tools,3,Padel Mates,Padel Mates International AB,1337,4.49,Free,Sports,2,2199,1531797995,https://apps.apple.com/gb/app/padel-mates/id1531797995
+padel,sports tools,4,Padel Tracker PadelTick,Philipp Schmid,85,4.82,Free,Health & Fitness,26,402,6744892176,https://apps.apple.com/gb/app/padel-tracker-padeltick/id6744892176
+padel,sports tools,5,Heroes of Padel,JAVIER MELUS CARRUEZ,10,3.1,Free,Games,1003,3927,1069637003,https://apps.apple.com/gb/app/heroes-of-padel/id1069637003
+padel,sports tools,6,Padel Scoreboard: Bandeja,Denis Kulkov,1,5,Free,Sports,37,267,6757689859,https://apps.apple.com/gb/app/padel-scoreboard-bandeja/id6757689859
+padel,sports tools,7,Nettla,Topptech Limited,890,4.79,Free,Sports,6,526,6743342856,https://apps.apple.com/gb/app/nettla/id6743342856
+padel,sports tools,8,Padel Watch: Padel Scorekeeper,GARCIA DE PALAU ROCA PABLO,8,3.88,Free,Sports,100,1473,6443518532,https://apps.apple.com/gb/app/padel-watch-padel-scorekeeper/id6443518532
+padel,sports tools,9,Premier Padel,Yellow Panther Ltd,81,4.78,Free,Sports,42,838,6504236153,https://apps.apple.com/gb/app/premier-padel/id6504236153
+padel,sports tools,10,Padelio: Track Padel Activity,Marcos Sabaris,207,4.62,Free,Sports,51,801,6502829514,https://apps.apple.com/gb/app/padelio-track-padel-activity/id6502829514
+padel scoring,sports tools,1,Padel Score Tracker - PadelPro,MIKAPPS LIMITED,23,4.61,Free,Sports,2,238,6758962753,https://apps.apple.com/gb/app/padel-score-tracker-padelpro/id6758962753
+padel scoring,sports tools,2,Padel Pointer: Score Tracker,Alexander Dernie,20,4.45,Free,Sports,25,251,6757132333,https://apps.apple.com/gb/app/padel-pointer-score-tracker/id6757132333
+padel scoring,sports tools,3,Padel Tracker PadelTick,Philipp Schmid,85,4.82,Free,Health & Fitness,26,402,6744892176,https://apps.apple.com/gb/app/padel-tracker-padeltick/id6744892176
+padel scoring,sports tools,4,Padel Scoreboard: Bandeja,Denis Kulkov,1,5,Free,Sports,37,267,6757689859,https://apps.apple.com/gb/app/padel-scoreboard-bandeja/id6757689859
+padel scoring,sports tools,5,Padel Watch: Padel Scorekeeper,GARCIA DE PALAU ROCA PABLO,8,3.88,Free,Sports,100,1473,6443518532,https://apps.apple.com/gb/app/padel-watch-padel-scorekeeper/id6443518532
+padel scoring,sports tools,6,Playtomic - Play padel,Playtomic S.L.,36202,4.84,Free,Sports,2,3261,1242321076,https://apps.apple.com/gb/app/playtomic-play-padel/id1242321076
+padel scoring,sports tools,7,Padelio: Track Padel Activity,Marcos Sabaris,207,4.62,Free,Sports,51,801,6502829514,https://apps.apple.com/gb/app/padelio-track-padel-activity/id6502829514
+padel scoring,sports tools,8,Padel Score Tracker - PadelMax,RSApps Nordics OU,44,4.45,Free,Sports,26,537,6742737363,https://apps.apple.com/gb/app/padel-score-tracker-padelmax/id6742737363
+padel scoring,sports tools,9,Americano Padel - PadelMix,RSApps Nordics OU,77,4.83,Free,Sports,9,804,6505054587,https://apps.apple.com/gb/app/americano-padel-padelmix/id6505054587
+padel scoring,sports tools,10,Padel Fit,IVAN LEVIN,5,4.8,Free,Sports,8,652,6739751807,https://apps.apple.com/gb/app/padel-fit/id6739751807
+pickleball,sports tools,1,PickleBall 3d,Haroon Ahmad,0,0,Free,Games,169,458,6745810923,https://apps.apple.com/gb/app/pickleball-3d/id6745810923
+pickleball,sports tools,2,Pickleheads - Play Pickleball,"Dink Technologies, Inc.",118,4.77,Free,Sports,13,694,6448714446,https://apps.apple.com/gb/app/pickleheads-play-pickleball/id6448714446
+pickleball,sports tools,3,DUPR,DUPR LLC,122,4.03,Free,Sports,2,1646,1567932355,https://apps.apple.com/gb/app/dupr/id1567932355
+pickleball,sports tools,4,Pickleball Stars,YUDIZ SOLUTIONS PRIVATE LIMITED,2,1.5,Free,Games,77,597,6740270726,https://apps.apple.com/gb/app/pickleball-stars/id6740270726
+pickleball,sports tools,5,Pickleball Scorecard App,Michael Falco,3,4.67,Free,Sports,10,868,6479333132,https://apps.apple.com/gb/app/pickleball-scorecard-app/id6479333132
+pickleball,sports tools,6,Ultimate PickleBall,"Samurai Dog Software, LLC",0,0,Free,Games,1478,1478,6443438884,https://apps.apple.com/gb/app/ultimate-pickleball/id6443438884
+pickleball,sports tools,7,Pickleball Pro,Andrew Rotert,23,4.43,Free,Sports,11,780,6639597603,https://apps.apple.com/gb/app/pickleball-pro/id6639597603
+pickleball,sports tools,8,Pickleball Drills,Pickleball Playbook LLC,6,5,Free,Sports,35,1101,6445845357,https://apps.apple.com/gb/app/pickleball-drills/id6445845357
+pickleball,sports tools,9,Pickleball Strategy 3.5+ Guide,SMALLBIZBI LLC,0,0,Free,Sports,0,187,6760790505,https://apps.apple.com/gb/app/pickleball-strategy-3-5-guide/id6760790505
+pickleball,sports tools,10,PickleWatch: Track Pickleball,George Yameen,2,5,Free,Sports,0,556,6743818899,https://apps.apple.com/gb/app/picklewatch-track-pickleball/id6743818899
+tennis scoring,sports tools,1,Tennis Scorecard App,Michael Falco,26,4.23,Free,Sports,26,1133,6451323049,https://apps.apple.com/gb/app/tennis-scorecard-app/id6451323049
+tennis scoring,sports tools,2,Simple Tennis Scoreboard,NAOYA ONO,2,4.5,Free,Sports,210,1896,1571678713,https://apps.apple.com/gb/app/simple-tennis-scoreboard/id1571678713
+tennis scoring,sports tools,3,MatchTrack Tennis Score Keeper,Halyard Strategies LLC,3,4.33,Free,Sports,9,4167,977481057,https://apps.apple.com/gb/app/matchtrack-tennis-score-keeper/id977481057
+tennis scoring,sports tools,4,ScoreIQ: Tennis,Christopher Caldwell,0,0,Free,Sports,540,544,6744295396,https://apps.apple.com/gb/app/scoreiq-tennis/id6744295396
+tennis scoring,sports tools,5,IN: Tennis Score Master,Salah Selim,6,4.5,Free,Sports,506,841,6504159752,https://apps.apple.com/gb/app/in-tennis-score-master/id6504159752
+tennis scoring,sports tools,6,Padel & Tennis Score: ScoreBot,Graeme Pyle,30,4.83,Free,Sports,1,343,6754282617,https://apps.apple.com/gb/app/padel-tennis-score-scorebot/id6754282617
+tennis scoring,sports tools,7,Tennis Score App,Cristian Bulat,1,5,Free,Sports,0,192,6760890692,https://apps.apple.com/gb/app/tennis-score-app/id6760890692
+tennis scoring,sports tools,8,Tennis Umpire App,Maxim Alexeyev,1,1,Free,Sports,1089,3181,1316338557,https://apps.apple.com/gb/app/tennis-umpire-app/id1316338557
+tennis scoring,sports tools,9,Smashpoint Tennis Tracker,Juergen Altziebler,51,4.55,Free,Sports,7,3777,1098174650,https://apps.apple.com/gb/app/smashpoint-tennis-tracker/id1098174650
+tennis scoring,sports tools,10,Tennboard - Keep Tennis Scores,MADARINA D.O.O.,0,0,Free,Sports,389,3337,1246157377,https://apps.apple.com/gb/app/tennboard-keep-tennis-scores/id1246157377
+squash,sports tools,1,Squash - Keep Rallying,Chuanming Chang,0,0,Free,Games,1668,3946,1065789187,https://apps.apple.com/gb/app/squash-keep-rallying/id1065789187
+squash,sports tools,2,SquashLevels,SQUASHLEVELS LTD,8,3.25,Free,Sports,169,384,6743806671,https://apps.apple.com/gb/app/squashlevels/id6743806671
+squash,sports tools,3,SquashSkills Training,LEARN FROM A LEGEND LIMITED,6,4.67,Free,Health & Fitness,19,1567,1630714137,https://apps.apple.com/gb/app/squashskills-training/id1630714137
+squash,sports tools,4,SQUASHTV,Professional Squash Association,299,4.38,Free,Sports,1,1097,1629358131,https://apps.apple.com/gb/app/squashtv/id1629358131
+squash,sports tools,5,PSA Squash Tour,Professional Squash Association,7,4.71,Free,Sports,106,1508,1620847044,https://apps.apple.com/gb/app/psa-squash-tour/id1620847044
+squash,sports tools,6,Tennis Clash：Sports Stars Game,"Wildlife Studios, Inc",95563,4.59,Free,Games,0,2541,1346179411,https://apps.apple.com/gb/app/tennis-clash-sports-stars-game/id1346179411
+squash,sports tools,7,SquashSkills Ghosting,iMakeStuff,6,4.5,Free,Sports,1282,2174,1531715160,https://apps.apple.com/gb/app/squashskills-ghosting/id1531715160
+squash,sports tools,8,RacketPal by Sportega,RacketPal LTD,1407,4.7,Free,Sports,100,2745,1453817491,https://apps.apple.com/gb/app/racketpal-by-sportega/id1453817491
+squash,sports tools,9,Squash Score Referee,Fluid Pixel Limited,70,4.73,Free,Sports,184,3802,1093833787,https://apps.apple.com/gb/app/squash-score-referee/id1093833787
+squash,sports tools,10,Squash Ghosting,NICHOLAS E POLLARD,4,4.25,Free,Sports,379,379,6749813943,https://apps.apple.com/gb/app/squash-ghosting/id6749813943
+badminton,sports tools,1,SMASH Badminton,Smash Interactive,3598,4.69,Free,Games,26,846,6503363375,https://apps.apple.com/gb/app/smash-badminton/id6503363375
+badminton,sports tools,2,Badminton League,"Shenzhen Yifanshikong Technology Co.,Ltd",442,4.1,Free,Games,622,3274,1230352595,https://apps.apple.com/gb/app/badminton-league/id1230352595
+badminton,sports tools,3,Badminton 3Ｄ,Cross Field Inc.,20,4.05,Free,Games,261,2692,1463745227,https://apps.apple.com/gb/app/badminton-3%EF%BD%84/id1463745227
+badminton,sports tools,4,Badminton World Champion Sim,海龙 王,50,3.14,Free,Games,1203,2936,1436690732,https://apps.apple.com/gb/app/badminton-world-champion-sim/id1436690732
+badminton,sports tools,5,Badminton Clash 3D,Miniclip SA,616,4.63,Free,Games,378,1234,6444045683,https://apps.apple.com/gb/app/badminton-clash-3d/id6444045683
+badminton,sports tools,6,Badminton4U,Badminton World Federation,20,3.35,Free,Sports,71,1841,1573552810,https://apps.apple.com/gb/app/badminton4u/id1573552810
+badminton,sports tools,7,Badminton 3D Champion,Giraffe Games Limited,225,4.17,Free,Games,3078,4458,898848119,https://apps.apple.com/gb/app/badminton-3d-champion/id898848119
+badminton,sports tools,8,RacketPal by Sportega,RacketPal LTD,1407,4.7,Free,Sports,100,2745,1453817491,https://apps.apple.com/gb/app/racketpal-by-sportega/id1453817491
+badminton,sports tools,9,Superhuman Badminton,Kai Li,0,0,Free,Sports,6,74,6790638610,https://apps.apple.com/gb/app/superhuman-badminton/id6790638610
+badminton,sports tools,10,Tennis Clash：Sports Stars Game,"Wildlife Studios, Inc",95563,4.59,Free,Games,0,2541,1346179411,https://apps.apple.com/gb/app/tennis-clash-sports-stars-game/id1346179411
+snooker scoring,sports tools,1,Snooker Scoreboard 147,Brad Evans,6,5,Free,Entertainment,287,667,6738664633,https://apps.apple.com/gb/app/snooker-scoreboard-147/id6738664633
+snooker scoring,sports tools,2,Snooker Score,Aero Notion Limited,12,4.75,Free,Utilities,1311,2254,1526271912,https://apps.apple.com/gb/app/snooker-score/id1526271912
+snooker scoring,sports tools,3,Snooker Scoreboard₊,Panda Taps LLC,0,0,Free,Sports,37,62,6794941097,https://apps.apple.com/gb/app/snooker-scoreboard/id6794941097
+snooker scoring,sports tools,4,SnookerSync Snooker Scoreboard,STEVEN CHARLES TOZER,3,5,Free,Sports,18,397,6749335057,https://apps.apple.com/gb/app/snookersync-snooker-scoreboard/id6749335057
+snooker scoring,sports tools,5,Snooker Scoreboard Counter,Hamid Sher agha,3,3.67,Free,Entertainment,11,225,6759530558,https://apps.apple.com/gb/app/snooker-scoreboard-counter/id6759530558
+snooker scoring,sports tools,6,Snooker Score & Scoreboard,zhenyu song,0,0,Free,Sports,26,189,6761400792,https://apps.apple.com/gb/app/snooker-score-scoreboard/id6761400792
+snooker scoring,sports tools,7,Snooker World,"Beijing Tiantian Innovation Technology Co ,Ltd",15,3.33,Free,Games,2708,5187,543478615,https://apps.apple.com/gb/app/snooker-world/id543478615
+snooker scoring,sports tools,8,Pro Snooker 2026,iWare Designs Ltd.,10939,4.66,Free,Games,1,5132,556429085,https://apps.apple.com/gb/app/pro-snooker-2026/id556429085
+snooker scoring,sports tools,9,Snooker Stars,Giraffe Games Limited,2905,3.98,Free,Games,2540,3387,1137235888,https://apps.apple.com/gb/app/snooker-stars/id1137235888
+snooker scoring,sports tools,10,SnookerMate Snooker Scoreboard,Lidbit Ltd,1,5,£0.99,Sports,134,518,6745492966,https://apps.apple.com/gb/app/snookermate-snooker-scoreboard/id6745492966
+bowls scoring,sports tools,1,BowlsLink Scoring,DBL Solutions Pty Ltd,0,0,Free,Sports,713,1969,1564205800,https://apps.apple.com/gb/app/bowlslink-scoring/id1564205800
+bowls scoring,sports tools,2,Bowls Score Pro,Gear Shadow Games Ltd,1,5,Free,Sports,2,192,6761004095,https://apps.apple.com/gb/app/bowls-score-pro/id6761004095
+bowls scoring,sports tools,3,Bowlometer,MATOLE,192,4.64,Free,Sports,1205,2797,1451920427,https://apps.apple.com/gb/app/bowlometer/id1451920427
+bowls scoring,sports tools,4,Virtual Lawn Bowls,Raiden Limited,1319,4.59,Free,Games,562,5353,465592916,https://apps.apple.com/gb/app/virtual-lawn-bowls/id465592916
+bowls scoring,sports tools,5,Perfect Game: Bowling Scores,Alexander Abramov,2,5,£8.99,Sports,287,5990,371699473,https://apps.apple.com/gb/app/perfect-game-bowling-scores/id371699473
+bowls scoring,sports tools,6,BRS Golf Live Scoring,GolfNow,247,4.09,Free,Sports,14,2128,1538749527,https://apps.apple.com/gb/app/brs-golf-live-scoring/id1538749527
+bowls scoring,sports tools,7,Bowling Crew — 3D Sport Game,KITOMY LIMITED,5709,4.81,Free,Games,15,2401,1490240246,https://apps.apple.com/gb/app/bowling-crew-3d-sport-game/id1490240246
+bowls scoring,sports tools,8,Bowl Tracker,Gene Backlin,0,0,Free,Sports,0,2869,1441069458,https://apps.apple.com/gb/app/bowl-tracker/id1441069458
+bowls scoring,sports tools,9,Bowls Hub,Dave Potts,4,4,Free,Sports,23,224,6759156219,https://apps.apple.com/gb/app/bowls-hub/id6759156219
+golf handicap,sports tools,1,MyEG,DOTGOLF NZ LP,980,2.41,Free,Sports,36,2159,1530752395,https://apps.apple.com/gb/app/myeg/id1530752395
+golf handicap,sports tools,2,Golf Handicap + GPS - MOGC,MOGC Ltd,3672,4.76,Free,Sports,869,3079,1360641725,https://apps.apple.com/gb/app/golf-handicap-gps-mogc/id1360641725
+golf handicap,sports tools,3,Simple Handicap,Nicholas Breetz,58,4.33,Free,Sports,29,2289,1521336140,https://apps.apple.com/gb/app/simple-handicap/id1521336140
+golf handicap,sports tools,4,18Birdies Golf GPS Tracker,18Birdies LLC,15314,4.91,Free,Sports,15,4476,892700751,https://apps.apple.com/gb/app/18birdies-golf-gps-tracker/id892700751
+golf handicap,sports tools,5,Golf Handicap Tracker & Scores,InfoTalk LLC,473,4.57,Free,Sports,12,4848,663477958,https://apps.apple.com/gb/app/golf-handicap-tracker-scores/id663477958
+golf handicap,sports tools,6,TheGrint: Golf Handicap,GRINT LLC,1200,4.75,Free,Sports,5,5152,532085262,https://apps.apple.com/gb/app/thegrint-golf-handicap/id532085262
+golf handicap,sports tools,7,Golf Handicap Tracker: Cap18,Arda Sen,4,4.75,Free,Sports,77,468,6747700757,https://apps.apple.com/gb/app/golf-handicap-tracker-cap18/id6747700757
+golf handicap,sports tools,8,SwingU Golf GPS by Golf Genius,"Swing By Swing Golf, LLC",18313,4.71,Free,Sports,22,6199,332116103,https://apps.apple.com/gb/app/swingu-golf-gps-by-golf-genius/id332116103
+golf handicap,sports tools,9,Golfshot Golf GPS Range Finder,"Golf Genius Mobile, LLC",25894,4.74,Free,Sports,2,4870,622851626,https://apps.apple.com/gb/app/golfshot-golf-gps-range-finder/id622851626
+golf society,sports tools,1,ParClub: Golf Society App,Greg Morris,3,5,Free,Sports,54,124,6772982648,https://apps.apple.com/gb/app/parclub-golf-society-app/id6772982648
+golf society,sports tools,2,Golf Society,Treshna Enterprises Ltd,0,0,Free,Health & Fitness,1222,1222,6449663141,https://apps.apple.com/gb/app/golf-society/id6449663141
+golf society,sports tools,3,My Society Golf,Harrison Lievesley,6,3.67,Free,Sports,64,1583,1628177806,https://apps.apple.com/gb/app/my-society-golf/id1628177806
+golf society,sports tools,4,RiddyGolf,Riddy Golf Limited,5,5,Free,Sports,85,630,6736896294,https://apps.apple.com/gb/app/riddygolf/id6736896294
+golf society,sports tools,5,Squabbit - Golf Tournament App,Orrie Shannon,1148,4.89,Free,Sports,6,1998,1556538444,https://apps.apple.com/gb/app/squabbit-golf-tournament-app/id1556538444
+golf society,sports tools,6,MyGS,Fox IT SM Limited,0,0,Free,Sports,3,239,6744665376,https://apps.apple.com/gb/app/mygs/id6744665376
+golf society,sports tools,7,NewClub Golf Society,The New Club LLC,0,0,Free,Sports,28,2729,1459297500,https://apps.apple.com/gb/app/newclub-golf-society/id1459297500
+golf society,sports tools,8,Burn Up Golf,Cybertime Technology Ltd,7,5,Free,Sports,11,1196,1644817215,https://apps.apple.com/gb/app/burn-up-golf/id1644817215
+golf society,sports tools,9,Golf Rival - Multiplayer Game,Zynga Inc.,18001,4.52,Free,Games,7,3088,1354796403,https://apps.apple.com/gb/app/golf-rival-multiplayer-game/id1354796403
+golf scorecard uk,sports tools,1,mScorecard - Golf Scorecard,Velocor Oy,863,4.83,Free,Sports,3,4912,636983375,https://apps.apple.com/gb/app/mscorecard-golf-scorecard/id636983375
+golf scorecard uk,sports tools,2,SwingU Golf GPS by Golf Genius,"Swing By Swing Golf, LLC",18313,4.71,Free,Sports,22,6199,332116103,https://apps.apple.com/gb/app/swingu-golf-gps-by-golf-genius/id332116103
+golf scorecard uk,sports tools,3,Golfshot Golf GPS Range Finder,"Golf Genius Mobile, LLC",25894,4.74,Free,Sports,2,4870,622851626,https://apps.apple.com/gb/app/golfshot-golf-gps-range-finder/id622851626
+golf scorecard uk,sports tools,4,Golf Handicap + GPS - MOGC,MOGC Ltd,3672,4.76,Free,Sports,869,3079,1360641725,https://apps.apple.com/gb/app/golf-handicap-gps-mogc/id1360641725
+golf scorecard uk,sports tools,5,BEEZER GOLF - Golf Scorecard,Beezer Golf LLC,121,4.65,Free,Sports,82,2246,1474924288,https://apps.apple.com/gb/app/beezer-golf-golf-scorecard/id1474924288
+golf scorecard uk,sports tools,6,Hole19: Golf GPS Range Finder,"Stat Track Technologies - Servicos Tecnologicos para o Desporto, Lda.",13849,4.77,Free,Sports,1,4563,794462227,https://apps.apple.com/gb/app/hole19-golf-gps-range-finder/id794462227
+golf scorecard uk,sports tools,7,Golf Pad GPS Range Finder,Contorra LLC,2332,4.74,Free,Sports,2,5578,446320556,https://apps.apple.com/gb/app/golf-pad-gps-range-finder/id446320556
+golf scorecard uk,sports tools,8,Golf GameBook: Scorecard & GPS,GameBook Oy,1692,4.71,Free,Sports,9,5745,409307935,https://apps.apple.com/gb/app/golf-gamebook-scorecard-gps/id409307935
+golf scorecard uk,sports tools,9,Garmin Golf,Garmin International,3111,4.6,Free,Sports,0,3416,1192480582,https://apps.apple.com/gb/app/garmin-golf/id1192480582
+golf scorecard uk,sports tools,10,"VPAR Golf GPS, Scoring & Stats",VPAR Limited,355,3.98,Free,Sports,2,5643,432332692,https://apps.apple.com/gb/app/vpar-golf-gps-scoring-stats/id432332692
+coarse fishing log,sports tools,1,finScribe: Fishing Logbook,Finscribe Ltd,1,5,Free,Sports,106,1555,1614459075,https://apps.apple.com/gb/app/finscribe-fishing-logbook/id1614459075
+coarse fishing log,sports tools,2,Swimmapper: Fishing Log & Map,Matt Done,1,5,Free,Sports,177,178,6759331668,https://apps.apple.com/gb/app/swimmapper-fishing-log-map/id6759331668
+coarse fishing log,sports tools,3,MyFishSpace: Fishing Log,Georgi Georgiev,0,0,Free,Sports,54,182,6761440166,https://apps.apple.com/gb/app/myfishspace-fishing-log/id6761440166
+coarse fishing log,sports tools,4,Fish Deeper - Fishing App,Deeper UAB,1093,4.65,Free,Sports,7,2485,1483380086,https://apps.apple.com/gb/app/fish-deeper-fishing-app/id1483380086
+coarse fishing log,sports tools,5,Piscaro: Fishing Log & Diary,Marcus Starnes,7,5,Free,Sports,15,138,6761313378,https://apps.apple.com/gb/app/piscaro-fishing-log-diary/id6761313378
+coarse fishing log,sports tools,6,Anglers' Log - Fishing Journal,Cohen Adair,63,4.76,Free,Sports,11,4157,959989008,https://apps.apple.com/gb/app/anglers-log-fishing-journal/id959989008
+coarse fishing log,sports tools,7,Carpy,John Lyon,204,4.44,£2.99,Sports,2859,3824,1082676339,https://apps.apple.com/gb/app/carpy/id1082676339
+coarse fishing log,sports tools,8,Angler: The Fishing App,Grzegorz Kipa,259,4.63,Free,Sports,265,2245,1494865951,https://apps.apple.com/gb/app/angler-the-fishing-app/id1494865951
+coarse fishing log,sports tools,9,Fishbuddy: Fishing Maps+Spots,FiskHer as,23,4.65,Free,Sports,5,1224,1666853528,https://apps.apple.com/gb/app/fishbuddy-fishing-maps-spots/id1666853528
+fishing log,sports tools,1,Fishing Log & Journal - LogIT,Gniechwitz & Walterbusch GbR,10,4.8,Free,Reference,19,703,6667102943,https://apps.apple.com/gb/app/fishing-log-journal-logit/id6667102943
+fishing log,sports tools,2,Anglers' Log - Fishing Journal,Cohen Adair,63,4.76,Free,Sports,11,4157,959989008,https://apps.apple.com/gb/app/anglers-log-fishing-journal/id959989008
+fishing log,sports tools,3,Fish AI - AI Fishing App,Liftoff Labs Inc.,5516,4.69,Free,Sports,87,618,6740141927,https://apps.apple.com/gb/app/fish-ai-ai-fishing-app/id6740141927
+fishing log,sports tools,4,Fishing Catch Log,Burak Ulak,0,0,Free,Utilities,357,358,6753169446,https://apps.apple.com/gb/app/fishing-catch-log/id6753169446
+fishing log,sports tools,5,finScribe: Fishing Logbook,Finscribe Ltd,1,5,Free,Sports,106,1555,1614459075,https://apps.apple.com/gb/app/finscribe-fishing-logbook/id1614459075
+fishing log,sports tools,6,Piscaro: Fishing Log & Diary,Marcus Starnes,7,5,Free,Sports,15,138,6761313378,https://apps.apple.com/gb/app/piscaro-fishing-log-diary/id6761313378
+fishing log,sports tools,7,MyCatch Fishing App,Goldstream Publishing Inc.,1,5,Free,Sports,64,3090,1361831677,https://apps.apple.com/gb/app/mycatch-fishing-app/id1361831677
+fishing log,sports tools,8,Fishbrain - Fishing App,FishBrain AB,914,4.65,Free,Sports,2,4975,477967747,https://apps.apple.com/gb/app/fishbrain-fishing-app/id477967747
+fishing log,sports tools,9,Carpy,John Lyon,204,4.44,£2.99,Sports,2859,3824,1082676339,https://apps.apple.com/gb/app/carpy/id1082676339
+fishing log,sports tools,10,Catch - Fish Log for Anglers,"Technomagination, LLC",7,4.14,Free,Sports,2114,4454,899392064,https://apps.apple.com/gb/app/catch-fish-log-for-anglers/id899392064
+running plan 10k,sports tools,1,Runna: Running Plans & Coach,Strava Inc.,25170,4.83,Free,Health & Fitness,8,1761,1594204443,https://apps.apple.com/gb/app/runna-running-plans-coach/id1594204443
+running plan 10k,sports tools,2,adidas Running: GPS tracker,Adidas International Marketing B.V.,23010,4.73,Free,Health & Fitness,1,6162,336599882,https://apps.apple.com/gb/app/adidas-running-gps-tracker/id336599882
+running plan 10k,sports tools,3,"10K Runner, Couch to 10K Run",FITNESS22 LTD,21435,4.85,Free,Health & Fitness,42,5528,456591673,https://apps.apple.com/gb/app/10k-runner-couch-to-10k-run/id456591673
+running plan 10k,sports tools,4,Watch to 5K: Couch to 5km plan,Spaceman Digital Ltd,874,4.76,£3.99,Health & Fitness,24,2290,1517914828,https://apps.apple.com/gb/app/watch-to-5k-couch-to-5km-plan/id1517914828
+running plan 10k,sports tools,5,Running Trainer: Tracker&Coach,FITNESS22 LTD,5543,4.86,Free,Health & Fitness,1440,3518,1205237896,https://apps.apple.com/gb/app/running-trainer-tracker-coach/id1205237896
+running plan 10k,sports tools,6,ASICS Runkeeper - Running App,"ASICS Runner App, Inc.",68545,4.77,Free,Health & Fitness,0,6475,300235330,https://apps.apple.com/gb/app/asics-runkeeper-running-app/id300235330
+running plan 10k,sports tools,7,Nike Run Club: Running Coach,"Nike, Inc",82312,4.73,Free,Health & Fitness,35,5875,387771637,https://apps.apple.com/gb/app/nike-run-club-running-coach/id387771637
+running plan 10k,sports tools,8,NHS Couch to 5K,Department of Health and Social Care (Digital),402024,4.81,Free,Health & Fitness,15,3867,1082307672,https://apps.apple.com/gb/app/nhs-couch-to-5k/id1082307672
+running plan 10k,sports tools,9,10K Trainer by C25K®,Zen Labs LLC (CA),5499,4.62,Free,Health & Fitness,42,5257,511600311,https://apps.apple.com/gb/app/10k-trainer-by-c25k/id511600311
+running plan 10k,sports tools,10,Couch to 5K Runner,FITNESS22 LTD,47887,4.86,Free,Health & Fitness,36,5563,448357306,https://apps.apple.com/gb/app/couch-to-5k-runner/id448357306
+couch to 5k,sports tools,1,NHS Couch to 5K,Department of Health and Social Care (Digital),402024,4.81,Free,Health & Fitness,15,3867,1082307672,https://apps.apple.com/gb/app/nhs-couch-to-5k/id1082307672
+couch to 5k,sports tools,2,Couch to 5K Runner,FITNESS22 LTD,47887,4.86,Free,Health & Fitness,36,5563,448357306,https://apps.apple.com/gb/app/couch-to-5k-runner/id448357306
+couch to 5k,sports tools,3,C25K® 5K Running Coach & Map,Zen Labs LLC (CA),10119,4.67,Free,Health & Fitness,5,5404,485971733,https://apps.apple.com/gb/app/c25k-5k-running-coach-map/id485971733
+couch to 5k,sports tools,4,Runna: Running Plans & Coach,Strava Inc.,25170,4.83,Free,Health & Fitness,8,1761,1594204443,https://apps.apple.com/gb/app/runna-running-plans-coach/id1594204443
+couch to 5k,sports tools,5,"10K Runner, Couch to 10K Run",FITNESS22 LTD,21435,4.85,Free,Health & Fitness,42,5528,456591673,https://apps.apple.com/gb/app/10k-runner-couch-to-10k-run/id456591673
+couch to 5k,sports tools,6,"Strava: Run, Bike, Walk",Strava Inc.,128715,4.75,Free,Health & Fitness,7,5676,426826309,https://apps.apple.com/gb/app/strava-run-bike-walk/id426826309
+couch to 5k,sports tools,7,Nike Run Club: Running Coach,"Nike, Inc",82312,4.73,Free,Health & Fitness,35,5875,387771637,https://apps.apple.com/gb/app/nike-run-club-running-coach/id387771637
+couch to 5k,sports tools,8,Couch to 5K® - Run training,"Active Network, LLC",254,4.2,£4.99,Health & Fitness,287,5537,448474423,https://apps.apple.com/gb/app/couch-to-5k-run-training/id448474423
+parkrun,sports tools,1,parkrun Official,parkrun Global Limited,41261,4.9,Free,Health & Fitness,28,2537,1481416790,https://apps.apple.com/gb/app/parkrun-official/id1481416790
+parkrun,sports tools,2,parkrun Virtual Volunteer,parkrun Global Limited,61,4.07,Free,Health & Fitness,575,3250,1309438300,https://apps.apple.com/gb/app/parkrun-virtual-volunteer/id1309438300
+parkrun,sports tools,3,parkrunner: 5K parkrun results,Apps for London Ltd,3356,4.85,Free,Health & Fitness,36,1833,1422416889,https://apps.apple.com/gb/app/parkrunner-5k-parkrun-results/id1422416889
+parkrun,sports tools,4,"Strava: Run, Bike, Walk",Strava Inc.,128715,4.75,Free,Health & Fitness,7,5676,426826309,https://apps.apple.com/gb/app/strava-run-bike-walk/id426826309
+parkrun,sports tools,5,parkrunner,C Hopkin,4,4.5,Free,Health & Fitness,26,376,6499103077,https://apps.apple.com/gb/app/parkrunner/id6499103077
+parkrun,sports tools,6,Parkrace,Alexander Cahill,35,4.71,Free,Health & Fitness,22,344,6754516721,https://apps.apple.com/gb/app/parkrace/id6754516721
+parkrun,sports tools,7,"AllTrails: Hike, Run & Walk","AllTrails, Inc.",65415,4.84,Free,Health & Fitness,6,5770,405075943,https://apps.apple.com/gb/app/alltrails-hike-run-walk/id405075943
+parkrun,sports tools,8,Running Achievements (Smadges),Ford Hollett,70,4.2,Free,Health & Fitness,144,2597,1478043600,https://apps.apple.com/gb/app/running-achievements-smadges/id1478043600
+triathlon training,sports tools,1,Stamina: Triathlon Training,Stamina Technologies Limited,43,4.77,Free,Health & Fitness,9,350,6737915514,https://apps.apple.com/gb/app/stamina-triathlon-training/id6737915514
+triathlon training,sports tools,2,TrainingPeaks: Plan Train Lift,"Peaksware, LLC",3770,4.68,Free,Health & Fitness,2,5775,408047715,https://apps.apple.com/gb/app/trainingpeaks-plan-train-lift/id408047715
+triathlon training,sports tools,3,TriDot: Triathlon Training,"Predictive Fitness, Inc.",2,5,Free,Health & Fitness,5,191,6754208848,https://apps.apple.com/gb/app/tridot-triathlon-training/id6754208848
+triathlon training,sports tools,4,Transition: Triathlon Training,Storybooks LLC,35,4.89,Free,Health & Fitness,34,489,6670714598,https://apps.apple.com/gb/app/transition-triathlon-training/id6670714598
+triathlon training,sports tools,5,Triathlete - Triathlon Trainer,David Gundana,0,0,Free,Sports,31,64,6762530213,https://apps.apple.com/gb/app/triathlete-triathlon-trainer/id6762530213
+triathlon training,sports tools,6,Triathlon Training Planner,Javier Quintero,0,0,Free,Health & Fitness,57,526,6745198286,https://apps.apple.com/gb/app/triathlon-training-planner/id6745198286
+triathlon training,sports tools,7,奇山物联,亮 张,0,0,Free,Utilities,168,625,6740763147,https://apps.apple.com/gb/app/%E5%A5%87%E5%B1%B1%E7%89%A9%E8%81%94/id6740763147
+triathlon training,sports tools,8,Runna: Running Plans & Coach,Strava Inc.,25170,4.83,Free,Health & Fitness,8,1761,1594204443,https://apps.apple.com/gb/app/runna-running-plans-coach/id1594204443
+triathlon training,sports tools,9,MOTTIV: 5K - Marathon Training,MOTTIV Technologies Inc.,13,4.69,Free,Health & Fitness,805,1969,1561001166,https://apps.apple.com/gb/app/mottiv-5k-marathon-training/id1561001166
+triathlon training,sports tools,10,Irontri: Triathlon Training,dean finnimore,0,0,Free,Health & Fitness,106,156,6762278379,https://apps.apple.com/gb/app/irontri-triathlon-training/id6762278379
+swim training,sports tools,1,Swim.com: Swim Tracker,Spiraledge,255,4.27,Free,Health & Fitness,13,4240,956030704,https://apps.apple.com/gb/app/swim-com-swim-tracker/id956030704
+swim training,sports tools,2,Catch - Swim Coach & Training,Catch Swim Ltd,134,4.72,Free,Health & Fitness,1,372,6749487721,https://apps.apple.com/gb/app/catch-swim-coach-training/id6749487721
+swim training,sports tools,3,SwimTraining,Vasiliy Andryushkin,1,5,Free,Health & Fitness,96,1614,1421010609,https://apps.apple.com/gb/app/swimtraining/id1421010609
+swim training,sports tools,4,MySwimPro: #1 Swim Workout App,"MySwimPro, Inc.",908,4.14,Free,Health & Fitness,2,4136,994386450,https://apps.apple.com/gb/app/myswimpro-1-swim-workout-app/id994386450
+swim training,sports tools,5,Swim Coach - Swim & Triathlon,Thomas Kaul,29,4.9,Free,Sports,7,3198,1329360219,https://apps.apple.com/gb/app/swim-coach-swim-triathlon/id1329360219
+swim training,sports tools,6,DuoSwim: Swim Workout App,Spinning Falcon Ltd,53,4.62,Free,Health & Fitness,10,1988,1548487050,https://apps.apple.com/gb/app/duoswim-swim-workout-app/id1548487050
+swim training,sports tools,7,SwimUp・Swim Training & Tracker,SwimUP Oy,23,4.35,Free,Health & Fitness,14,2429,1477061412,https://apps.apple.com/gb/app/swimup-swim-training-tracker/id1477061412
+swim training,sports tools,8,TrainingPeaks: Plan Train Lift,"Peaksware, LLC",3770,4.68,Free,Health & Fitness,2,5775,408047715,https://apps.apple.com/gb/app/trainingpeaks-plan-train-lift/id408047715
+swim training,sports tools,9,SwimtoFly | Learn Swimming,SWIMTOFLY PTE. LTD.,23,4.83,Free,Health & Fitness,1279,3266,1267746080,https://apps.apple.com/gb/app/swimtofly-learn-swimming/id1267746080
+swim training,sports tools,10,FORM Swim,Form Athletica Inc.,707,4.73,Free,Health & Fitness,22,2623,1321117442,https://apps.apple.com/gb/app/form-swim/id1321117442
+climbing log,sports tools,1,Rock Climbing Log & Tracker,MEHMET CANKER (TR),0,0,Free,Sports,69,69,6791779540,https://apps.apple.com/gb/app/rock-climbing-log-tracker/id6791779540
+climbing log,sports tools,2,Climbing Log: Boulder Tracker,Adattenger Korlatolt Felelossegu Tarsasag,0,0,Free,Health & Fitness,7,82,6790204764,https://apps.apple.com/gb/app/climbing-log-boulder-tracker/id6790204764
+climbing log,sports tools,3,Climbing Log - Beta,Karol Jaworski,0,0,Free,Sports,11,157,6759574146,https://apps.apple.com/gb/app/climbing-log-beta/id6759574146
+climbing log,sports tools,4,Pinnacle Climb Log,Nick Romano,22,4.82,£3.99,Health & Fitness,9,3307,1271954104,https://apps.apple.com/gb/app/pinnacle-climb-log/id1271954104
+climbing log,sports tools,5,Climb Log,CAN PACACIOGLU,0,0,Free,Sports,1587,3678,1148318551,https://apps.apple.com/gb/app/climb-log/id1148318551
+climbing log,sports tools,6,Boulder Log: Climb Tracker,MAXWELL WILLIAM LEMASTERS,0,0,Free,Health & Fitness,92,127,6773972549,https://apps.apple.com/gb/app/boulder-log-climb-tracker/id6773972549
+climbing log,sports tools,7,ClimbTime – Climbing Gym App,ClimbTime LLC,7,3.29,Free,Sports,192,1898,1571861196,https://apps.apple.com/gb/app/climbtime-climbing-gym-app/id1571861196
+climbing log,sports tools,8,ClimbingNote+: Climbing Log,xu zhangxuan,0,0,Free,Sports,34,1052,6471394121,https://apps.apple.com/gb/app/climbingnote-climbing-log/id6471394121
+climbing log,sports tools,9,Wallog — Climbing Log,Andr Frdric Rouge,0,0,Free,Health & Fitness,189,196,6760867349,https://apps.apple.com/gb/app/wallog-climbing-log/id6760867349
+bouldering,sports tools,1,Griptonite,cascom ltd,123,3.52,Free,Sports,5,2623,1462815353,https://apps.apple.com/gb/app/griptonite/id1462815353
+bouldering,sports tools,2,Crimpd,Crimpd Inc,55,4.84,Free,Health & Fitness,17,2991,1252333138,https://apps.apple.com/gb/app/crimpd/id1252333138
+bouldering,sports tools,3,BoulderMap,Avario Babushka,0,0,Free,Sports,1792,2211,1529771408,https://apps.apple.com/gb/app/bouldermap/id1529771408
+bouldering,sports tools,4,KAYA: THE CLIMBER’S APP,"Project 9a Labs, inc.",24,4.46,Free,Health & Fitness,13,2563,1481413749,https://apps.apple.com/gb/app/kaya-the-climbers-app/id1481413749
+bouldering,sports tools,5,TopLogger,Koen Swinkels,40,4.5,Free,Sports,299,3295,1289479862,https://apps.apple.com/gb/app/toplogger/id1289479862
+bouldering,sports tools,6,Indoor Bouldering,Gil Osborne,8,4.62,Free,Sports,151,2172,1535750808,https://apps.apple.com/gb/app/indoor-bouldering/id1535750808
+bouldering,sports tools,7,Stōkt Climbing,Stokt LLC,492,4.78,Free,Health & Fitness,0,2927,1436843282,https://apps.apple.com/gb/app/st%C5%8Dkt-climbing/id1436843282
+bouldering,sports tools,8,"Redpoint: Bouldering, Climbing",riedel.wtf apps S.L.,150,4.33,Free,Sports,125,3162,1324072645,https://apps.apple.com/gb/app/redpoint-bouldering-climbing/id1324072645
+bouldering,sports tools,9,Boolder,"Ivann, Pascal, Nikola MORICE",84,4.96,Free,Sports,32,2221,1506614493,https://apps.apple.com/gb/app/boolder/id1506614493
+bouldering,sports tools,10,Boulder Puzzel,Patryk Niedzwiecki,0,0,Free,Games,114,119,6777148918,https://apps.apple.com/gb/app/boulder-puzzel/id6777148918
+boxing training,sports tools,1,Boxing Training: Bag Workouts,Solid Solutions OU,113,4.9,Free,Health & Fitness,7,2139,1523407500,https://apps.apple.com/gb/app/boxing-training-bag-workouts/id1523407500
+boxing training,sports tools,2,Shadow Boxing Workout App,Marc Gauthier,653,4.85,Free,Health & Fitness,7,2327,1510911574,https://apps.apple.com/gb/app/shadow-boxing-workout-app/id1510911574
+boxing training,sports tools,3,Boxing Workout AI: SparPad Pro,FIRAT YILDIZHAN,28,4.71,Free,Health & Fitness,4,347,6752692974,https://apps.apple.com/gb/app/boxing-workout-ai-sparpad-pro/id6752692974
+boxing training,sports tools,4,PRO BOXING: Training & Workout,Sweet Science Boxing LLC,28,4.61,Free,Health & Fitness,4,964,6475266812,https://apps.apple.com/gb/app/pro-boxing-training-workout/id6475266812
+boxing training,sports tools,5,FightCamp Home Boxing Workouts,Hykso Inc.,153,4.59,Free,Health & Fitness,26,3179,1328562100,https://apps.apple.com/gb/app/fightcamp-home-boxing-workouts/id1328562100
+boxing training,sports tools,6,Boxing Workout & Training Pro,TIMUR MEZHETDINOV,17,4.59,Free,Health & Fitness,330,653,6738701776,https://apps.apple.com/gb/app/boxing-workout-training-pro/id6738701776
+boxing training,sports tools,7,Skillr Boxing Training,Sweet Science Boxing LLC,12,5,Free,Health & Fitness,4,179,6760382318,https://apps.apple.com/gb/app/skillr-boxing-training/id6760382318
+boxing training,sports tools,8,PunchLab: Boxing Training,PUNCHLAB DI RACO VALERIO,225,4.68,Free,Health & Fitness,15,2937,1402134277,https://apps.apple.com/gb/app/punchlab-boxing-training/id1402134277
+boxing training,sports tools,9,BOXR Boxing Workout & Training,D1N LLC,5,5,Free,Health & Fitness,767,821,6499032327,https://apps.apple.com/gb/app/boxr-boxing-workout-training/id6499032327
+boxing training,sports tools,10,Boxing Interval Timer,Thang Nguyen,3892,4.73,Free,Health & Fitness,3,3213,1318795527,https://apps.apple.com/gb/app/boxing-interval-timer/id1318795527
+martial arts,sports tools,1,Taekwondo Warrior,TAKALOGY LIMITED,343,4.58,Free,Health & Fitness,3,2755,1454194198,https://apps.apple.com/gb/app/taekwondo-warrior/id1454194198
+martial arts,sports tools,2,Martial Arts | Martial Profile,MARTIAL PROFILE INC.,13,4.62,Free,Health & Fitness,49,1101,6466397787,https://apps.apple.com/gb/app/martial-arts-martial-profile/id6466397787
+martial arts,sports tools,3,Muay Thai and Kickboxing,Ekaterina Rodionova,23,4.78,Free,Health & Fitness,9,1482,1624463429,https://apps.apple.com/gb/app/muay-thai-and-kickboxing/id1624463429
+martial arts,sports tools,4,Martial Arts Trainer at home,Son Phi,2,3.5,Free,Health & Fitness,86,1494,1636318501,https://apps.apple.com/gb/app/martial-arts-trainer-at-home/id1636318501
+martial arts,sports tools,5,Martial Arts Fight Games 26,Little Play,410,4.45,Free,Games,15,1764,1565507349,https://apps.apple.com/gb/app/martial-arts-fight-games-26/id1565507349
+martial arts,sports tools,6,Kickboxing Fitness Training,TAKALOGY LIMITED,365,4.66,Free,Health & Fitness,38,2991,1412506875,https://apps.apple.com/gb/app/kickboxing-fitness-training/id1412506875
+martial arts,sports tools,7,Maxed Martial Arts,Leali App Development LLC,0,0,Free,Sports,28,701,6692609615,https://apps.apple.com/gb/app/maxed-martial-arts/id6692609615
+martial arts,sports tools,8,Kung Fu Fight: Karate Fighter,hamza khalid,1516,4.65,Free,Games,26,1994,1540533943,https://apps.apple.com/gb/app/kung-fu-fight-karate-fighter/id1540533943
+martial arts,sports tools,9,Martial Arts Brutality,Cold Beam Games Ltd,27,4.59,Free,Games,8,3332,975487304,https://apps.apple.com/gb/app/martial-arts-brutality/id975487304
+martial arts,sports tools,10,Mortal Kombat,Warner Bros. Entertainment,15255,4.45,Free,Games,77,4200,949701151,https://apps.apple.com/gb/app/mortal-kombat/id949701151
+horse riding,sports tools,1,Horse Riding Tales: Wild World,AppForge Inc.,18778,4.58,Free,Games,0,2813,1442304261,https://apps.apple.com/gb/app/horse-riding-tales-wild-world/id1442304261
+horse riding,sports tools,2,Equestriad World Tour 26,EQUUSPORTS INC.,15747,4.6,Free,Games,89,2163,1532186208,https://apps.apple.com/gb/app/equestriad-world-tour-26/id1532186208
+horse riding,sports tools,3,Wild Horse Survival Game 26,Saqib Ali Shah,3,2.67,Free,Games,105,337,6754893538,https://apps.apple.com/gb/app/wild-horse-survival-game-26/id6754893538
+horse riding,sports tools,4,Rival Stars Horse Racing,Prodigy Design Limited T/A Sidhe Interactive,32193,4.76,Free,Games,7,2723,1215477266,https://apps.apple.com/gb/app/rival-stars-horse-racing/id1215477266
+horse riding,sports tools,5,Equestrian the Game,Kavalri Games AB,5752,4.11,Free,Games,41,1659,1468871996,https://apps.apple.com/gb/app/equestrian-the-game/id1468871996
+horse riding,sports tools,6,My Horse,"MunkyFun, Inc.",1139,3.8,Free,Games,2190,5501,421167112,https://apps.apple.com/gb/app/my-horse/id421167112
+horse riding,sports tools,7,My Wild Horse Riding Stories,Gaming OPS,1217,4.28,Free,Games,169,1592,1597450572,https://apps.apple.com/gb/app/my-wild-horse-riding-stories/id1597450572
+horse riding,sports tools,8,Star Equestrian - Horse Ranch,Foxie Ventures LLC,3944,4.26,Free,Games,16,1304,1635888697,https://apps.apple.com/gb/app/star-equestrian-horse-ranch/id1635888697
+horse riding,sports tools,9,Equilab: Horse Riding App,Equestrian Insights AB,5032,4.86,Free,Sports,6,3730,1133163586,https://apps.apple.com/gb/app/equilab-horse-riding-app/id1133163586
+horse riding,sports tools,10,Horse Riding Tracker,Rozga Wojciech,737,4.8,Free,Sports,15,3390,1245716679,https://apps.apple.com/gb/app/horse-riding-tracker/id1245716679
+dressage test,sports tools,1,BD British Dressage TestPro,LION DOG APPS LIMITED,286,4.63,Free,Sports,8,2937,1418062551,https://apps.apple.com/gb/app/bd-british-dressage-testpro/id1418062551
+dressage test,sports tools,2,Learn A Dressage Test Board,HayGrazer Limited,13,3,Free,Sports,3094,3171,1340477734,https://apps.apple.com/gb/app/learn-a-dressage-test-board/id1340477734
+dressage test,sports tools,3,TestPro Sampler,LION DOG APPS LIMITED,11,4.91,Free,Sports,1694,3133,1349858517,https://apps.apple.com/gb/app/testpro-sampler/id1349858517
+dressage test,sports tools,4,The Pony Club Dressage TestPro,LION DOG APPS LIMITED,2,1.5,Free,Sports,160,586,6740241021,https://apps.apple.com/gb/app/the-pony-club-dressage-testpro/id6740241021
+dressage test,sports tools,5,Dressage Hero Horse Riding,Elaine Heney,5,3.6,Free,Sports,879,1804,1589059127,https://apps.apple.com/gb/app/dressage-hero-horse-riding/id1589059127
+dressage test,sports tools,6,USDF Dressage TestPro,LION DOG APPS LIMITED,0,0,Free,Sports,7,2880,1438427912,https://apps.apple.com/gb/app/usdf-dressage-testpro/id1438427912
+dressage test,sports tools,7,BE British Eventing TestPro,LION DOG APPS LIMITED,3,4.33,Free,Sports,7,2409,1491478660,https://apps.apple.com/gb/app/be-british-eventing-testpro/id1491478660
+dressage test,sports tools,8,TestPro USEA and USEF Eventing,LION DOG APPS LIMITED,0,0,Free,Sports,7,2178,1496499584,https://apps.apple.com/gb/app/testpro-usea-and-usef-eventing/id1496499584
+dressage test,sports tools,9,Dressage To Go,Crystal Forsell Dressage LLC,0,0,Free,Sports,548,1408,6444655412,https://apps.apple.com/gb/app/dressage-to-go/id6444655412
+showjumping,sports tools,1,Horse World -  Show Jumping,Trophy Games Development A/S,420,3.92,Free,Games,149,3401,1162693632,https://apps.apple.com/gb/app/horse-world-show-jumping/id1162693632
+showjumping,sports tools,2,Jumping Horses Champions 3,Lucas Ferreira Franca,2181,3.95,Free,Games,1607,3588,1180636312,https://apps.apple.com/gb/app/jumping-horses-champions-3/id1180636312
+showjumping,sports tools,3,Equestriad World Tour 26,EQUUSPORTS INC.,15747,4.6,Free,Games,89,2163,1532186208,https://apps.apple.com/gb/app/equestriad-world-tour-26/id1532186208
+showjumping,sports tools,4,Equestrian the Game,Kavalri Games AB,5752,4.11,Free,Games,41,1659,1468871996,https://apps.apple.com/gb/app/equestrian-the-game/id1468871996
+showjumping,sports tools,5,Horse Show Jumping Challenge,"Tap2Play, LLC",171,3.92,Free,Games,3330,3330,1264458933,https://apps.apple.com/gb/app/horse-show-jumping-challenge/id1264458933
+showjumping,sports tools,6,Jumpy Horse Show Jumping,Internet Reshenia LLC,215,3.44,£9.99,Games,239,4632,794884903,https://apps.apple.com/gb/app/jumpy-horse-show-jumping/id794884903
+showjumping,sports tools,7,Rival Stars Horse Racing,Prodigy Design Limited T/A Sidhe Interactive,32193,4.76,Free,Games,7,2723,1215477266,https://apps.apple.com/gb/app/rival-stars-horse-racing/id1215477266
+showjumping,sports tools,8,Horse Riding Tales: Wild World,AppForge Inc.,18778,4.58,Free,Games,0,2813,1442304261,https://apps.apple.com/gb/app/horse-riding-tales-wild-world/id1442304261
+showjumping,sports tools,9,Jumpr,"Equdigital, Inc.",4,4,Free,Sports,185,1893,1557103881,https://apps.apple.com/gb/app/jumpr/id1557103881
+cycling training,sports tools,1,TrainingPeaks: Plan Train Lift,"Peaksware, LLC",3770,4.68,Free,Health & Fitness,2,5775,408047715,https://apps.apple.com/gb/app/trainingpeaks-plan-train-lift/id408047715
+cycling training,sports tools,2,TrainerRoad,"Trainer Road, LLC",7999,4.83,Free,Health & Fitness,2,4342,934224107,https://apps.apple.com/gb/app/trainerroad/id934224107
+cycling training,sports tools,3,Tacx Training™,Garmin International,18093,4.46,Free,Health & Fitness,4,4476,892366151,https://apps.apple.com/gb/app/tacx-training/id892366151
+cycling training,sports tools,4,Cycling Coach AI: Bike Plan,Liftoff S.R.L.,0,0,Free,Sports,9,218,6758742887,https://apps.apple.com/gb/app/cycling-coach-ai-bike-plan/id6758742887
+cycling training,sports tools,5,Zwift: Indoor Cycling Fitness,"Zwift, Inc",16512,4.75,Free,Health & Fitness,0,3588,1134655040,https://apps.apple.com/gb/app/zwift-indoor-cycling-fitness/id1134655040
+cycling training,sports tools,6,"Strava: Run, Bike, Walk",Strava Inc.,128715,4.75,Free,Health & Fitness,7,5676,426826309,https://apps.apple.com/gb/app/strava-run-bike-walk/id426826309
+cycling training,sports tools,7,Wahoo SYSTM,Wahoo Fitness L.L.C.,2329,4.75,Free,Health & Fitness,54,2352,1501733842,https://apps.apple.com/gb/app/wahoo-systm/id1501733842
+cycling training,sports tools,8,JOIN Cycling Fitness Planner,JOIN Sports B.V.,244,4.55,Free,Health & Fitness,1,3611,1167933055,https://apps.apple.com/gb/app/join-cycling-fitness-planner/id1167933055
+cycling training,sports tools,9,Wattbike Hub,WATTBIKE Ltd.,4340,4.5,Free,Health & Fitness,253,4240,961711342,https://apps.apple.com/gb/app/wattbike-hub/id961711342
+cycling training,sports tools,10,ROUVY: Real Indoor Cycling App,"SportSoft, spol. s r.o.",292,3.91,Free,Sports,37,2577,1478239111,https://apps.apple.com/gb/app/rouvy-real-indoor-cycling-app/id1478239111
+sportive,sports tools,1,Spotify: Music and Podcasts,Spotify,6993389,4.74,Free,Music,6,6239,324684580,https://apps.apple.com/gb/app/spotify-music-and-podcasts/id324684580
+sportive,sports tools,2,sportive – sport together,Christopher Adelmann,0,0,Free,Health & Fitness,913,1650,1561481293,https://apps.apple.com/gb/app/sportive-sport-together/id1561481293
+sportive,sports tools,3,الملاعب - Sportive,GRAND Limited,0,0,Free,Sports,738,1031,6451216624,https://apps.apple.com/gb/app/%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%B9%D8%A8-sportive/id6451216624
+sportive,sports tools,4,Sneaks Up,SAHA MAGAZACILIK ANONIM SIRKETI,7,5,Free,Shopping,34,1225,6446118684,https://apps.apple.com/gb/app/sneaks-up/id6446118684
+sportive,sports tools,5,bet365 - Sports Betting,Hillside Technology Limited,451982,4.74,Free,Sports,2,5195,519684662,https://apps.apple.com/gb/app/bet365-sports-betting/id519684662
+sportive,sports tools,6,Barçın,BARCIN SPOR,1,5,Free,Shopping,2,3178,1097499859,https://apps.apple.com/gb/app/bar%C3%A7%C4%B1n/id1097499859
+sportive,sports tools,7,Betfair Sports Betting,Betfair LTD,111132,4.66,Free,Sports,9,5151,552024276,https://apps.apple.com/gb/app/betfair-sports-betting/id552024276
+sportive,sports tools,8,Racing Post Newspaper,SPOTLIGHT SPORTS GROUP LIMITED,75,3.07,Free,Sports,330,5174,540334383,https://apps.apple.com/gb/app/racing-post-newspaper/id540334383
+sportive,sports tools,9,Instreet,FLO MAGAZACILIK VE PAZARLAMA ANONIM SIRKETI,7,4.86,Free,Shopping,12,2937,1436146422,https://apps.apple.com/gb/app/instreet/id1436146422
+sailing logbook,logbooks,1,SailTies: Logbook & Sailing CV,Sail Ties Ltd,305,4.83,Free,Travel,37,1721,1507376381,https://apps.apple.com/gb/app/sailties-logbook-sailing-cv/id1507376381
+sailing logbook,logbooks,2,LogBook — Digital Yacht Log,Mathias Matejcik,0,0,Free,Travel,0,162,6762569859,https://apps.apple.com/gb/app/logbook-digital-yacht-log/id6762569859
+sailing logbook,logbooks,3,Skipper: Ship’s Logbook,Axel Le Pennec,11,4.64,Free,Navigation,1,4801,671764434,https://apps.apple.com/gb/app/skipper-ships-logbook/id671764434
+sailing logbook,logbooks,4,Sailing Logbook & Boat Tracker,Florian Kriesche,11,4.82,Free,Productivity,0,5227,533244045,https://apps.apple.com/gb/app/sailing-logbook-boat-tracker/id533244045
+sailing logbook,logbooks,5,SeaPeople: Boat Tracker,"SeaPeople, Inc.",152,4.9,Free,Travel,41,741,6447652420,https://apps.apple.com/gb/app/seapeople-boat-tracker/id6447652420
+sailing logbook,logbooks,6,HelmLog — Sailing Logbook,Elmo Asmussen,0,0,Free,Utilities,39,217,6759254008,https://apps.apple.com/gb/app/helmlog-sailing-logbook/id6759254008
+sailing logbook,logbooks,7,Pocket Sailing Logbook,Bojan Belovic,0,0,Free,Sports,2,156,6759182794,https://apps.apple.com/gb/app/pocket-sailing-logbook/id6759182794
+sailing logbook,logbooks,8,Savvy Navvy: Boat Navigation,SAVVY NAVVY LTD,2133,4.55,Free,Navigation,1,2569,1479182650,https://apps.apple.com/gb/app/savvy-navvy-boat-navigation/id1479182650
+sailing logbook,logbooks,9,iNavX: Marine Navigation,NavX Studios LLC,843,4.51,Free,Navigation,50,2794,286616280,https://apps.apple.com/gb/app/inavx-marine-navigation/id286616280
+sailing logbook,logbooks,10,Log – Simple Ship Logbook,Kyle Pickering,1,4,Free,Utilities,4,524,6744907602,https://apps.apple.com/gb/app/log-simple-ship-logbook/id6744907602
+yachtmaster sea miles,logbooks,1,YachtWorld - Yachts for Sale,Boats Group LLC,2262,4.59,Free,Shopping,9,2644,1457089220,https://apps.apple.com/gb/app/yachtworld-yachts-for-sale/id1457089220
+yachtmaster sea miles,logbooks,2,Yachting World Magazine UK,Future Publishing Ltd.,145,4.32,Free,Lifestyle,429,5326,498470566,https://apps.apple.com/gb/app/yachting-world-magazine-uk/id498470566
+yachtmaster sea miles,logbooks,3,Boat Watch - Ship Tracking,Pocket Mariner Ltd.,4119,4.58,Free,Travel,12,4817,669023760,https://apps.apple.com/gb/app/boat-watch-ship-tracking/id669023760
+yachtmaster sea miles,logbooks,4,OceanCrew - Job at sea,Oleg Prochanov,0,0,Free,Business,20,867,6499222052,https://apps.apple.com/gb/app/oceancrew-job-at-sea/id6499222052
+yachtmaster sea miles,logbooks,5,Yachting Monthly Magazine UK,Future Publishing Ltd.,247,4.28,Free,Lifestyle,429,5201,530107169,https://apps.apple.com/gb/app/yachting-monthly-magazine-uk/id530107169
+yachtmaster sea miles,logbooks,6,Practical Boat Owner Magazine,Future Publishing Ltd.,217,4.46,Free,Lifestyle,485,5227,521062536,https://apps.apple.com/gb/app/practical-boat-owner-magazine/id521062536
+yachtmaster sea miles,logbooks,7,Yachtmaster Theory Prep,MD Shahariar Nazim Joy,0,0,Free,Education,64,64,6793379825,https://apps.apple.com/gb/app/yachtmaster-theory-prep/id6793379825
+yachtmaster sea miles,logbooks,8,Boat24 - Boats for Sale,Marine Classified Media AG,71,4.37,Free,Business,347,5500,462701411,https://apps.apple.com/gb/app/boat24-boats-for-sale/id462701411
+yachtmaster sea miles,logbooks,9,SailTies: Logbook & Sailing CV,Sail Ties Ltd,305,4.83,Free,Travel,37,1721,1507376381,https://apps.apple.com/gb/app/sailties-logbook-sailing-cv/id1507376381
+rya logbook,logbooks,1,SailTies: Logbook & Sailing CV,Sail Ties Ltd,305,4.83,Free,Travel,37,1721,1507376381,https://apps.apple.com/gb/app/sailties-logbook-sailing-cv/id1507376381
+rya logbook,logbooks,2,RYA Books,Royal Yachting Association,27,2,Free,Book,54,5554,451481707,https://apps.apple.com/gb/app/rya-books/id451481707
+rya logbook,logbooks,3,LogTen Pilot Logbook,Coradine Aviation Systems,878,4.42,Free,Utilities,2,4374,837274884,https://apps.apple.com/gb/app/logten-pilot-logbook/id837274884
+rya logbook,logbooks,4,Logbook Pro Flight Logbook,"NC Software, Inc.",8,4.62,Free,Utilities,82,5768,410773111,https://apps.apple.com/gb/app/logbook-pro-flight-logbook/id410773111
+rya logbook,logbooks,5,Logbook.aero - Pilot Logbook,Logbook.aero Limited,3,5,Free,Productivity,3,4515,879530289,https://apps.apple.com/gb/app/logbook-aero-pilot-logbook/id879530289
+rya logbook,logbooks,6,Smart Logbook,"Kviation, Inc.",6,5,Free,Productivity,218,2413,1265793520,https://apps.apple.com/gb/app/smart-logbook/id1265793520
+rya logbook,logbooks,7,FLYLOG.io - For Pilots,Breele s.r.o.,112,4.72,Free,Navigation,0,3898,1048742145,https://apps.apple.com/gb/app/flylog-io-for-pilots/id1048742145
+rya logbook,logbooks,8,SeaTime Tracker: Crew Logbook,Foreland Marine Consultancy Ltd,2,5,Free,Productivity,24,209,6758010893,https://apps.apple.com/gb/app/seatime-tracker-crew-logbook/id6758010893
+rya logbook,logbooks,9,Log4AS - Anaesthetic Logbook,Wenxin Zhang,46,4.46,Free,Medical,22,4159,987244449,https://apps.apple.com/gb/app/log4as-anaesthetic-logbook/id987244449
+rya logbook,logbooks,10,Wader Pilot Logbook,Wader Aviation Corp,10,4.6,Free,Utilities,26,1840,1582209980,https://apps.apple.com/gb/app/wader-pilot-logbook/id1582209980
+scuba dive log,logbooks,1,PADI,"PADI Americas, Inc.",13309,4.83,Free,Business,32,2389,1490797188,https://apps.apple.com/gb/app/padi/id1490797188
+scuba dive log,logbooks,2,Divog: Scuba Diver Log Book,Akio Yamashita,7,4.57,Free,Sports,1222,2375,1470763516,https://apps.apple.com/gb/app/divog-scuba-diver-log-book/id1470763516
+scuba dive log,logbooks,3,Breathe - Smart Scuba Dive Log,EPIC APPS UK,76,4.32,Free,Sports,1750,3090,1351691642,https://apps.apple.com/gb/app/breathe-smart-scuba-dive-log/id1351691642
+scuba dive log,logbooks,4,Dive Log,Greg Mclaughlin,28,4.68,£14.99,Sports,20,6486,301049600,https://apps.apple.com/gb/app/dive-log/id301049600
+scuba dive log,logbooks,5,SSI App - Education and Fun,HEAD Watersports GmbH,993,4.81,Free,Sports,6,3264,1249389209,https://apps.apple.com/gb/app/ssi-app-education-and-fun/id1249389209
+scuba dive log,logbooks,6,Diving Log - Scuba Logbook,TAIKI HIRATA,0,0,Free,Sports,1357,4573,829482048,https://apps.apple.com/gb/app/diving-log-scuba-logbook/id829482048
+scuba dive log,logbooks,7,Scuba Dive Log by Zentacle,"Zentacle, Inc",1,5,Free,Travel,1183,1612,1611242564,https://apps.apple.com/gb/app/scuba-dive-log-by-zentacle/id1611242564
+scuba dive log,logbooks,8,Narwhal: Scuba Dive Log,Hubert Ka,2,5,Free,Sports,284,546,6743419780,https://apps.apple.com/gb/app/narwhal-scuba-dive-log/id6743419780
+scuba dive log,logbooks,9,Scuba Diving Computer Oceanic+,"Huish Outdoors, LLC",702,4.18,Free,Sports,12,1409,1610517133,https://apps.apple.com/gb/app/scuba-diving-computer-oceanic/id1610517133
+scuba dive log,logbooks,10,Garmin Dive™,Garmin International,75,4.72,Free,Sports,70,2339,1461262794,https://apps.apple.com/gb/app/garmin-dive/id1461262794
+pilot logbook,logbooks,1,LogTen Pilot Logbook,Coradine Aviation Systems,878,4.42,Free,Utilities,2,4374,837274884,https://apps.apple.com/gb/app/logten-pilot-logbook/id837274884
+pilot logbook,logbooks,2,Pilot Logbook,JAMES PEACEFULL WAKELEY,3,3.67,Free,Utilities,2,944,1638473282,https://apps.apple.com/gb/app/pilot-logbook/id1638473282
+pilot logbook,logbooks,3,PPL Pilot Logbook,Ademar Gomes,23,4.87,Free,Utilities,2102,2104,1547017858,https://apps.apple.com/gb/app/ppl-pilot-logbook/id1547017858
+pilot logbook,logbooks,4,PILOTLOG - CrewLounge AERO,Aviovision N.V.,110,3.85,Free,Travel,1,2527,1478619388,https://apps.apple.com/gb/app/pilotlog-crewlounge-aero/id1478619388
+pilot logbook,logbooks,5,Swift Pilot Logbook,Aero Notion Limited,74,4.81,Free,Productivity,4,2025,1557611500,https://apps.apple.com/gb/app/swift-pilot-logbook/id1557611500
+pilot logbook,logbooks,6,Pilot Logbook - Airlog,AIRLOG LTD,11,5,Free,Productivity,30,388,6503171890,https://apps.apple.com/gb/app/pilot-logbook-airlog/id6503171890
+pilot logbook,logbooks,7,Pilot Logbook - Logger,737 PUBLISHING S.R.O.,23,4.83,Free,Travel,2,947,6470538989,https://apps.apple.com/gb/app/pilot-logbook-logger/id6470538989
+pilot logbook,logbooks,8,Wader Pilot Logbook,Wader Aviation Corp,10,4.6,Free,Utilities,26,1840,1582209980,https://apps.apple.com/gb/app/wader-pilot-logbook/id1582209980
+pilot logbook,logbooks,9,Pilot Logbook - Flight Tracker,Flygo-Aviation Ltd,59,4.49,Free,Productivity,64,5022,590352539,https://apps.apple.com/gb/app/pilot-logbook-flight-tracker/id590352539
+pilot logbook,logbooks,10,Logbook.aero - Pilot Logbook,Logbook.aero Limited,3,5,Free,Productivity,3,4515,879530289,https://apps.apple.com/gb/app/logbook-aero-pilot-logbook/id879530289
+mountain leader log,logbooks,1,Mountain-Forecast.com,Meteo365 Ltd.,382,4.87,Free,Weather,147,1135,6446204098,https://apps.apple.com/gb/app/mountain-forecast-com/id6446204098
+mountain leader log,logbooks,2,Hiking and Skiing - PeakVisor,Routes Software SRL,1053,4.6,Free,Sports,1,3577,1187259191,https://apps.apple.com/gb/app/hiking-and-skiing-peakvisor/id1187259191
+mountain leader log,logbooks,3,PeakFinder,PeakFinder GmbH,1412,4.77,£4.99,Travel,0,6053,357421934,https://apps.apple.com/gb/app/peakfinder/id357421934
+mountain leader log,logbooks,4,Outdooractive. Hike and Ride,Outdooractive AG,2703,3.78,Free,Travel,2,2973,1364846172,https://apps.apple.com/gb/app/outdooractive-hike-and-ride/id1364846172
+mountain leader log,logbooks,5,Trailforks: Offline Bike Maps,"Outside Interactive Canada, Inc",883,4.54,Free,Navigation,55,4086,987986743,https://apps.apple.com/gb/app/trailforks-offline-bike-maps/id987986743
+mountain leader log,logbooks,6,My Epic: Skiing & Snowboarding,The Vail Corporation,845,4.47,Free,Sports,27,5734,395375487,https://apps.apple.com/gb/app/my-epic-skiing-snowboarding/id395375487
+mountain leader log,logbooks,7,Climb the mountain,MTAG PUBLISHING LTD,55,4.27,Free,Games,341,1326,1670385044,https://apps.apple.com/gb/app/climb-the-mountain/id1670385044
+mountain leader log,logbooks,8,"Summit, Hiking Log Peakhunter",Peakhunter AG,10,5,Free,Navigation,468,5733,410851293,https://apps.apple.com/gb/app/summit-hiking-log-peakhunter/id410851293
+mountain leader log,logbooks,9,Mountain Weather UK & Ireland,Silkweb Commerce Ltd,23,4.22,Free,Weather,7,3991,1045212621,https://apps.apple.com/gb/app/mountain-weather-uk-ireland/id1045212621
+mountain leader log,logbooks,10,Trigs: peak-bagging tracker,James Robinson,18,4.94,Free,Health & Fitness,96,597,6741741274,https://apps.apple.com/gb/app/trigs-peak-bagging-tracker/id6741741274
+coaching log,logbooks,1,Coaching Log (ICF Coaches),Clarivia Inc.,0,0,Free,Business,209,1440,1633810473,https://apps.apple.com/gb/app/coaching-log-icf-coaches/id1633810473
+coaching log,logbooks,2,Nike Run Club: Running Coach,"Nike, Inc",82312,4.73,Free,Health & Fitness,35,5875,387771637,https://apps.apple.com/gb/app/nike-run-club-running-coach/id387771637
+coaching log,logbooks,3,Keep Trainer: Workout Log,Calorie Tech Ltd.,1449,4.77,Free,Health & Fitness,100,3225,1287964023,https://apps.apple.com/gb/app/keep-trainer-workout-log/id1287964023
+coaching log,logbooks,4,GymLog AI: Fitness Coach,Portionscore UG (haftungsbeschrankt),4,4.75,Free,Health & Fitness,2,108,6762492039,https://apps.apple.com/gb/app/gymlog-ai-fitness-coach/id6762492039
+coaching log,logbooks,5,AteMate Food Diary & Coach,Piqniq Inc.,821,4.75,Free,Health & Fitness,8,3520,1164976477,https://apps.apple.com/gb/app/atemate-food-diary-coach/id1164976477
+coaching log,logbooks,6,The Coach: gym workout log,Andrii Cherniakhov,0,0,Free,Health & Fitness,450,911,6478934534,https://apps.apple.com/gb/app/the-coach-gym-workout-log/id6478934534
+coaching log,logbooks,7,CoachLog: Personal Trainer App,COACHLOG LTD,12,5,Free,Health & Fitness,8,177,6759895871,https://apps.apple.com/gb/app/coachlog-personal-trainer-app/id6759895871
+coaching log,logbooks,8,MyFitCoach - Workout Planner,MyFitCoach GmbH,2624,4.55,Free,Health & Fitness,12,2044,1484612659,https://apps.apple.com/gb/app/myfitcoach-workout-planner/id1484612659
+coaching log,logbooks,9,Skillest: #1 Sports Coaching,2BA PTY LTD,4249,4.92,Free,Sports,7,3740,1054851741,https://apps.apple.com/gb/app/skillest-1-sports-coaching/id1054851741
+coaching log,logbooks,10,CoachApp: The Coaching Masters,The Coaching Masters Limited,196,4.92,Free,Education,41,1756,1597452243,https://apps.apple.com/gb/app/coachapp-the-coaching-masters/id1597452243
+kayak log,logbooks,1,KayakLog: River Logbook,Kilian Ivelic Astorga,0,0,Free,Sports,41,120,6776247913,https://apps.apple.com/gb/app/kayaklog-river-logbook/id6776247913
+kayak log,logbooks,2,Paddle Logger: SUP & Kayaking,Paddle Logger Ltd.,1185,4.71,Free,Health & Fitness,25,4233,955311911,https://apps.apple.com/gb/app/paddle-logger-sup-kayaking/id955311911
+kayak log,logbooks,3,PaddlePal: SUP & Kayak Tracker,Sailr Solutions Ltd,7,4.29,Free,Health & Fitness,1,752,6502943774,https://apps.apple.com/gb/app/paddlepal-sup-kayak-tracker/id6502943774
+kayak log,logbooks,4,PaddleLog: Kayak & Canoe,9547-8715 QUEBEC INC.,0,0,Free,Sports,65,82,6790203046,https://apps.apple.com/gb/app/paddlelog-kayak-canoe/id6790203046
+kayak log,logbooks,5,Paddle Log,Paddle Australia Limited,0,0,Free,Lifestyle,142,3022,1390397838,https://apps.apple.com/gb/app/paddle-log/id1390397838
+kayak log,logbooks,6,Paddle Log,Darren Glanville,0,0,Free,Productivity,134,135,6767311745,https://apps.apple.com/gb/app/paddle-log/id6767311745
+kayak log,logbooks,7,Tight Lines: Fishing log,Labrax Technologies Limited,12,4.83,Free,Sports,156,605,6741376511,https://apps.apple.com/gb/app/tight-lines-fishing-log/id6741376511
+kayak log,logbooks,8,Go Paddling,VerticalScope Inc.,38,3.84,Free,Lifestyle,8,5326,505471592,https://apps.apple.com/gb/app/go-paddling/id505471592
+kayak log,logbooks,9,Row Row,Part Time Monkey Oy,1025,4.31,Free,Games,2770,2813,1437780466,https://apps.apple.com/gb/app/row-row/id1437780466
+kayak log,logbooks,10,Memory-Map,"Memory-Map, Inc.",988,4.44,Free,Navigation,1854,6082,354675923,https://apps.apple.com/gb/app/memory-map/id354675923
+climbing logbook,logbooks,1,"Redpoint: Bouldering, Climbing",riedel.wtf apps S.L.,150,4.33,Free,Sports,125,3162,1324072645,https://apps.apple.com/gb/app/redpoint-bouldering-climbing/id1324072645
+climbing logbook,logbooks,2,SENDAGE: Climbing Logbook,JAMIE CHRISTOPHER CHONG,0,0,Free,Sports,53,66,6760001098,https://apps.apple.com/gb/app/sendage-climbing-logbook/id6760001098
+climbing logbook,logbooks,3,Rockfax Climbing Guidebooks,UKClimbing Limited,108,4.18,Free,Sports,594,4014,786215304,https://apps.apple.com/gb/app/rockfax-climbing-guidebooks/id786215304
+climbing logbook,logbooks,4,GoClimbr Climbing & Bouldering,Stefano Barbato,1,5,Free,Health & Fitness,34,319,6754591014,https://apps.apple.com/gb/app/goclimbr-climbing-bouldering/id6754591014
+climbing logbook,logbooks,5,Rankd: Climbing Logbook,andres gonzalez,0,0,Free,Health & Fitness,60,141,6761348989,https://apps.apple.com/gb/app/rankd-climbing-logbook/id6761348989
+climbing logbook,logbooks,6,iClimb,ICLIMB LTD,9,4.22,Free,Health & Fitness,244,1457,1603419169,https://apps.apple.com/gb/app/iclimb/id1603419169
+climbing logbook,logbooks,7,Crux Logs: Climbing Journal,Crux Labs LLC,0,0,Free,Health & Fitness,88,166,6763126377,https://apps.apple.com/gb/app/crux-logs-climbing-journal/id6763126377
+climbing logbook,logbooks,8,Vertical-Life Climbing,Vertical-Life srl,63,4.4,Free,Sports,392,4687,710386774,https://apps.apple.com/gb/app/vertical-life-climbing/id710386774
+climbing logbook,logbooks,9,"Chalk: Climb, Crags, Community",Stephen Brown,11,4.64,Free,Sports,1,3397,1249836877,https://apps.apple.com/gb/app/chalk-climb-crags-community/id1249836877
+cscs card test,work and rules,1,UK Construction Test,MastrAPI Ltd,733,4.53,Free,Education,285,1847,1584530852,https://apps.apple.com/gb/app/uk-construction-test/id1584530852
+cscs card test,work and rules,2,CITB Op/Spec HS&E test,CITB-ConstructionSkills,5779,4.86,£7.29,Education,28,2701,1456274821,https://apps.apple.com/gb/app/citb-op-spec-hs-e-test/id1456274821
+cscs card test,work and rules,3,CSCS Test Revision 2026 (CITB),Adnan Sheikh,17,4.06,Free,Education,49,455,6748338262,https://apps.apple.com/gb/app/cscs-test-revision-2026-citb/id6748338262
+cscs card test,work and rules,4,CSCS Card Op/Spec Test,Eknath Kadam,413,4.48,Free,Education,44,3756,1127443006,https://apps.apple.com/gb/app/cscs-card-op-spec-test/id1127443006
+cscs card test,work and rules,5,CS card test Prep,INVOICE MAKER Ltd.,1,1,Free,Education,294,715,6736891292,https://apps.apple.com/gb/app/cs-card-test-prep/id6736891292
+cscs card test,work and rules,6,CS Card Test Prep 2025,"Water eject , Ltd",210,4.42,Free,Education,681,1029,6472037618,https://apps.apple.com/gb/app/cs-card-test-prep-2025/id6472037618
+cscs card test,work and rules,7,CS Card test 2026,"Chengdu CloudLedger Technology Co., Ltd",190,4.23,Free,Education,329,1630,1618718297,https://apps.apple.com/gb/app/cs-card-test-2026/id1618718297
+cscs card test,work and rules,8,My CSCS - Official CSCS App,Construction Skills Certification Scheme Limited,73,1.99,Free,Business,2,2123,1536605181,https://apps.apple.com/gb/app/my-cscs-official-cscs-app/id1536605181
+cscs card test,work and rules,9,CSCS Mock Test 2026 - CITB,ERTUGRUL HADZHAOGLU,371,4.56,Free,Education,4,190,6760347148,https://apps.apple.com/gb/app/cscs-mock-test-2026-citb/id6760347148
+cscs health and safety test,work and rules,1,UK Construction Test,MastrAPI Ltd,733,4.53,Free,Education,285,1847,1584530852,https://apps.apple.com/gb/app/uk-construction-test/id1584530852
+cscs health and safety test,work and rules,2,CSCS Test Revision 2026 (CITB),Adnan Sheikh,17,4.06,Free,Education,49,455,6748338262,https://apps.apple.com/gb/app/cscs-test-revision-2026-citb/id6748338262
+cscs health and safety test,work and rules,3,CSCS Card Op/Spec Test,Eknath Kadam,413,4.48,Free,Education,44,3756,1127443006,https://apps.apple.com/gb/app/cscs-card-op-spec-test/id1127443006
+cscs health and safety test,work and rules,4,CSCS Test Prep 2026 Kit,Think Apps AI Ltd,3,3.67,Free,Education,0,181,6760965206,https://apps.apple.com/gb/app/cscs-test-prep-2026-kit/id6760965206
+cscs health and safety test,work and rules,5,CITB Op/Spec HS&E test,CITB-ConstructionSkills,5779,4.86,£7.29,Education,28,2701,1456274821,https://apps.apple.com/gb/app/citb-op-spec-hs-e-test/id1456274821
+cscs health and safety test,work and rules,6,CSCS Test Prep (HS&E),MD Shahariar Nazim Joy,0,0,Free,Education,76,77,6791221663,https://apps.apple.com/gb/app/cscs-test-prep-hs-e/id6791221663
+cscs health and safety test,work and rules,7,CITB CSCS Card Op/Spec HS&E,Nebular LTD,6,4.33,Free,Education,61,183,6760859336,https://apps.apple.com/gb/app/citb-cscs-card-op-spec-hs-e/id6760859336
+cscs health and safety test,work and rules,8,CSCS Card MAP Test,Eknath Kadam,115,4.67,Free,Education,44,3537,1200186252,https://apps.apple.com/gb/app/cscs-card-map-test/id1200186252
+cscs health and safety test,work and rules,9,CITB My CSCS Card HS&E Op/Spec,Ilia Chernikov,70,4.07,Free,Education,0,325,6755036001,https://apps.apple.com/gb/app/citb-my-cscs-card-hs-e-op-spec/id6755036001
+cscs health and safety test,work and rules,10,CITB MAP HS&E test V11,CITB-ConstructionSkills,931,4.59,£7.29,Education,28,1254,6445915563,https://apps.apple.com/gb/app/citb-map-hs-e-test-v11/id6445915563
+driver cpc,work and rules,1,Driver CPC Case Studies Test,Imagitech LTD,547,4.39,£14.99,Education,23,3526,1181449615,https://apps.apple.com/gb/app/driver-cpc-case-studies-test/id1181449615
+driver cpc,work and rules,2,Driver CPC Case Studies Prep,Alaeddine Messaoudi,2,5,Free,Education,85,85,6790245919,https://apps.apple.com/gb/app/driver-cpc-case-studies-prep/id6790245919
+driver cpc,work and rules,3,Driver CPC Case Studies LGV,Logistics Training (UK) Ltd,35,4,Free,Education,7,1556,1599076138,https://apps.apple.com/gb/app/driver-cpc-case-studies-lgv/id1599076138
+driver cpc,work and rules,4,Driver CPC Prep: LGV PCV,MD Shahariar Nazim Joy,0,0,Free,Education,77,77,6791192465,https://apps.apple.com/gb/app/driver-cpc-prep-lgv-pcv/id6791192465
+driver cpc,work and rules,5,Driver Codes - driver toolkit,RSMT Limited,1523,4.75,Free,Navigation,54,2560,1481993571,https://apps.apple.com/gb/app/driver-codes-driver-toolkit/id1481993571
+driver cpc,work and rules,6,HGV Theory Test Kit,Deep River Development Ltd,6532,4.75,Free,Education,2,5403,490449948,https://apps.apple.com/gb/app/hgv-theory-test-kit/id490449948
+driver cpc,work and rules,7,Driver CPC Case Study Test UK,Adnan Sheikh,2,3,Free,Education,86,426,6749360565,https://apps.apple.com/gb/app/driver-cpc-case-study-test-uk/id6749360565
+driver cpc,work and rules,8,HGV & LGV Theory Test Kit 2026,Quantech Ltd,402,4.75,Free,Education,57,3390,1220474198,https://apps.apple.com/gb/app/hgv-lgv-theory-test-kit-2026/id1220474198
+driver cpc,work and rules,9,CMS Driver App's,Cab Management System Ltd,9,3.78,Free,Travel,567,2527,1283055108,https://apps.apple.com/gb/app/cms-driver-apps/id1283055108
+taxi knowledge,work and rules,1,Taxi Knowledge,MARCIN KLICH,0,0,Free,Education,16,51,6787505073,https://apps.apple.com/gb/app/taxi-knowledge/id6787505073
+taxi knowledge,work and rules,2,info4taxidrivers,NOUS Knowledge Management,0,0,Free,Business,912,2947,1415832840,https://apps.apple.com/gb/app/info4taxidrivers/id1415832840
+taxi knowledge,work and rules,3,Skyline Taxis,STPH SERVICES LIMITED,29097,4.84,Free,Travel,5,5538,452614435,https://apps.apple.com/gb/app/skyline-taxis/id452614435
+taxi knowledge,work and rules,4,Best Taxi Meter,Muhammad Saeed,583,4.37,Free,Navigation,832,3928,1061329817,https://apps.apple.com/gb/app/best-taxi-meter/id1061329817
+taxi knowledge,work and rules,5,Licensed Taxi,Licensed Taxi Limited,4,5,Free,Travel,37,2108,1544818626,https://apps.apple.com/gb/app/licensed-taxi/id1544818626
+taxi knowledge,work and rules,6,Radar Taxi,Radar Taxis Ltd,556,4.85,Free,Travel,404,2239,1526292733,https://apps.apple.com/gb/app/radar-taxi/id1526292733
+taxi knowledge,work and rules,7,TAXA 4x35 - Easy taxi booking,Sammenslutningen Koebenhavns Taxa,997,4.85,Free,Travel,121,5607,440665078,https://apps.apple.com/gb/app/taxa-4x35-easy-taxi-booking/id440665078
+taxi knowledge,work and rules,8,Boro Taxis,MBCSI LTD,2345,4.72,Free,Travel,124,5025,580530860,https://apps.apple.com/gb/app/boro-taxis/id580530860
+taxi knowledge,work and rules,9,United Taxis Ltd,United Taxis Ltd,6557,4.88,Free,Travel,404,2185,1528013708,https://apps.apple.com/gb/app/united-taxis-ltd/id1528013708
+taxi knowledge,work and rules,10,500 Cars Reading Taxi,500 CARS LIMITED,17,2.59,Free,Travel,182,5049,582669795,https://apps.apple.com/gb/app/500-cars-reading-taxi/id582669795
+private hire test,work and rules,1,Taxi & Private Hire Prep UK,MD Shahariar Nazim Joy,0,0,Free,Education,71,71,6791190922,https://apps.apple.com/gb/app/taxi-private-hire-prep-uk/id6791190922
+private hire test,work and rules,2,Driving Test Routes App,Route-Led Group Limited,8836,4.43,Free,Education,28,2046,1552362495,https://apps.apple.com/gb/app/driving-test-routes-app/id1552362495
+private hire test,work and rules,3,"Seru mock test, MCQ, Theory",Nilam patel,1454,4.62,Free,Education,563,1078,6469409786,https://apps.apple.com/gb/app/seru-mock-test-mcq-theory/id6469409786
+private hire test,work and rules,4,PHV Prep UK: Taxi Badge Test,John Akhis Moreno,24,4.92,Free,Education,1,111,6776364932,https://apps.apple.com/gb/app/phv-prep-uk-taxi-badge-test/id6776364932
+private hire test,work and rules,5,UserTesting,UserTesting Inc.,612,3.29,Free,Lifestyle,7,2501,1485452102,https://apps.apple.com/gb/app/usertesting/id1485452102
+private hire test,work and rules,6,Test'em All: Test & Get Paid,justDice GmbH,2866,4.45,Free,Finance,46,1049,6463206519,https://apps.apple.com/gb/app/testem-all-test-get-paid/id6463206519
+private hire test,work and rules,7,Test Routes: App for L Drivers,Virendra Patel,205,4.8,Free,Education,35,2248,1520170627,https://apps.apple.com/gb/app/test-routes-app-for-l-drivers/id1520170627
+sia door supervisor,work and rules,1,SIA Door Supervisor Licence,Adnan Sheikh,1,1,£9.99,Education,962,2194,1534479321,https://apps.apple.com/gb/app/sia-door-supervisor-licence/id1534479321
+sia door supervisor,work and rules,2,SIA Licence Door Supervisor,Alaeddine Messaoudi,1,5,Free,Education,70,104,6783818314,https://apps.apple.com/gb/app/sia-licence-door-supervisor/id6783818314
+sia door supervisor,work and rules,3,SIA Door Supervisor Revision,James Kelly,0,0,£2.99,Education,610,630,6740488948,https://apps.apple.com/gb/app/sia-door-supervisor-revision/id6740488948
+sia door supervisor,work and rules,4,SIA Door Supervisor Exam prep,Ilia Chernikov,3,3.67,Free,Education,361,476,6746714136,https://apps.apple.com/gb/app/sia-door-supervisor-exam-prep/id6746714136
+sia door supervisor,work and rules,5,SIA Mock Test: Door Supervisor,Alpha Beat Limited,2,4.5,Free,Education,62,78,6790173010,https://apps.apple.com/gb/app/sia-mock-test-door-supervisor/id6790173010
+sia door supervisor,work and rules,6,GuardPass by Get Licensed,Get Licensed Limited,11978,4.86,Free,Education,9,154,1562863073,https://apps.apple.com/gb/app/guardpass-by-get-licensed/id1562863073
+sia door supervisor,work and rules,7,DOOR: Smart Access & Control,"Latchable, Inc.",90,4.59,Free,Lifestyle,1,825,6499252863,https://apps.apple.com/gb/app/door-smart-access-control/id6499252863
+personal licence,work and rules,1,The Personal Licence App,Get Licensed Limited,85,4.82,Free,Education,7,1388,6444831784,https://apps.apple.com/gb/app/the-personal-licence-app/id6444831784
+personal licence,work and rules,2,Personal Licence Prep APLH,MD Shahariar Nazim Joy,0,0,Free,Education,77,77,6791426106,https://apps.apple.com/gb/app/personal-licence-prep-aplh/id6791426106
+personal licence,work and rules,3,GOV.UK One Login,Government Digital Service,188941,4.21,Free,Utilities,7,485,6737119425,https://apps.apple.com/gb/app/gov-uk-one-login/id6737119425
+personal licence,work and rules,4,Driver Codes - driver toolkit,RSMT Limited,1523,4.75,Free,Navigation,54,2560,1481993571,https://apps.apple.com/gb/app/driver-codes-driver-toolkit/id1481993571
+personal licence,work and rules,5,MOI UAE,Ministry of Interior UAE,1271,4.65,Free,Productivity,20,4689,768665731,https://apps.apple.com/gb/app/moi-uae/id768665731
+personal licence,work and rules,6,LICENSE DXB APP,LICENSE DXB LTD,0,0,Free,Lifestyle,7,1239,6448973319,https://apps.apple.com/gb/app/license-dxb-app/id6448973319
+personal licence,work and rules,7,Service NSW,Service NSW,309,4.43,Free,Utilities,8,4097,577283433,https://apps.apple.com/gb/app/service-nsw/id577283433
+personal licence,work and rules,8,Queensland Digital Licence,Department of Transport and Main Roads,0,0,Free,Productivity,55,93,6456264316,https://apps.apple.com/gb/app/queensland-digital-licence/id6456264316
+personal licence,work and rules,9,Zutobi: Driving Theory Test,Zutobi AB,9666,4.62,Free,Education,1,2987,1394069110,https://apps.apple.com/gb/app/zutobi-driving-theory-test/id1394069110
+personal licence,work and rules,10,Learner Driver Starter Kit UK,Driving Test Success Limited,2727,4.69,Free,Education,1273,2900,1385072358,https://apps.apple.com/gb/app/learner-driver-starter-kit-uk/id1385072358
+food hygiene level 2,work and rules,1,Food Hygiene Level 2 Prep,MD Shahariar Nazim Joy,0,0,Free,Education,77,77,6791432105,https://apps.apple.com/gb/app/food-hygiene-level-2-prep/id6791432105
+food hygiene level 2,work and rules,2,Food Hygiene L2 Practice,ommar alquisi,1,5,Free,Education,79,233,6758780542,https://apps.apple.com/gb/app/food-hygiene-l2-practice/id6758780542
+food hygiene level 2,work and rules,3,Food Hygiene,Antonio Tanzola,113,4.53,Free,Food & Drink,3180,3410,1219700366,https://apps.apple.com/gb/app/food-hygiene/id1219700366
+food hygiene level 2,work and rules,4,UK Food Hygiene Ratings,John Benson,985,4.54,Free,Food & Drink,210,4053,1017702924,https://apps.apple.com/gb/app/uk-food-hygiene-ratings/id1017702924
+food hygiene level 2,work and rules,5,Food Hygiene: UK Ratings,Christopher Hefferman,16,4.25,Free,Food & Drink,43,391,6751810537,https://apps.apple.com/gb/app/food-hygiene-uk-ratings/id6751810537
+food hygiene level 2,work and rules,6,Bear: Holistic Food Scanner,JP VIRAL VENTURES LTD,474,4.67,Free,Health & Fitness,8,219,6759631411,https://apps.apple.com/gb/app/bear-holistic-food-scanner/id6759631411
+food hygiene level 2,work and rules,7,Hygienic - the food hygiene ratings app,Hookshot Ltd,15,4.4,Free,Food & Drink,3520,4028,1033273680,https://apps.apple.com/gb/app/hygienic-the-food-hygiene-ratings-app/id1033273680
+food hygiene level 2,work and rules,8,The UK Food Safety App,Robert Pugh,16,4.69,Free,Food & Drink,2,1468,1633063615,https://apps.apple.com/gb/app/the-uk-food-safety-app/id1633063615
+fire marshal,work and rules,1,Fire Marshal Warden Prep,MD Shahariar Nazim Joy,0,0,Free,Education,64,64,6793795435,https://apps.apple.com/gb/app/fire-marshal-warden-prep/id6793795435
+fire marshal,work and rules,2,FIREFIGHTER - Fire Engine Game,ozi technology limited,1,5,Free,Games,328,4423,910422638,https://apps.apple.com/gb/app/firefighter-fire-engine-game/id910422638
+fire marshal,work and rules,3,Fireman Games Fire-Truck Games,Nancy Mossman,2341,4.18,Free,Games,355,3974,1050540999,https://apps.apple.com/gb/app/fireman-games-fire-truck-games/id1050540999
+fire marshal,work and rules,4,My Town: Firefighter Games,MY TOWN GAMES LTD,2785,4.37,Free,Games,105,1777,1577906874,https://apps.apple.com/gb/app/my-town-firefighter-games/id1577906874
+fire marshal,work and rules,5,Fire Truck Game 911 Emergency,GameShark Studios LTD,1514,4.59,Free,Games,807,2806,1447518030,https://apps.apple.com/gb/app/fire-truck-game-911-emergency/id1447518030
+fire marshal,work and rules,6,Idle Firefighter Tycoon,Kolibri Games GmbH,4627,4.72,Free,Games,30,2017,1560178364,https://apps.apple.com/gb/app/idle-firefighter-tycoon/id1560178364
+fire marshal,work and rules,7,Marshal Eye,Think EQ Ltd,6,5,Free,Business,161,1066,6467977882,https://apps.apple.com/gb/app/marshal-eye/id6467977882
+fire marshal,work and rules,8,Fire Engine Simulator,SkisoSoft OU,1773,4.65,Free,Games,997,3226,1275873869,https://apps.apple.com/gb/app/fire-engine-simulator/id1275873869
+fire marshal,work and rules,9,Fire Fighter Hero: Rescue City,Muhammad Amir Nadeem,5,3.4,Free,Games,85,523,6744527905,https://apps.apple.com/gb/app/fire-fighter-hero-rescue-city/id6744527905
+fire marshal,work and rules,10,FDNY Calendar Fire & EMS,Rachels Solutions Inc,1,4,Free,Productivity,246,4249,953473045,https://apps.apple.com/gb/app/fdny-calendar-fire-ems/id953473045
+first aid at work,work and rules,1,UK First Aid at Work,FLY SKY PTY LTD,0,0,Free,Education,92,132,6774047099,https://apps.apple.com/gb/app/uk-first-aid-at-work/id6774047099
+first aid at work,work and rules,2,SJA First Aid Fast,Class Publishing Ltd,12,3.58,Free,Medical,22,1660,1609616897,https://apps.apple.com/gb/app/sja-first-aid-fast/id1609616897
+first aid at work,work and rules,3,First aid by British Red Cross,British Red Cross Society,301,4.61,Free,Health & Fitness,414,5423,483408666,https://apps.apple.com/gb/app/first-aid-by-british-red-cross/id483408666
+first aid at work,work and rules,4,WorkSafe Training Systems,WorkSafe Training Systems Ltd,12,5,Free,Health & Fitness,233,2385,1504688269,https://apps.apple.com/gb/app/worksafe-training-systems/id1504688269
+first aid at work,work and rules,5,St Andrew's First Aid Now,Class Publishing Ltd,0,0,Free,Education,155,155,6755781920,https://apps.apple.com/gb/app/st-andrews-first-aid-now/id6755781920
+first aid at work,work and rules,6,FirstAid for all Emergency,Swapna Puramsetty,10,4.9,Free,Health & Fitness,1029,3171,1340987248,https://apps.apple.com/gb/app/firstaid-for-all-emergency/id1340987248
+first aid at work,work and rules,7,iFirstAid,Survival Emergency Products,10,3.8,Free,Health & Fitness,0,6523,295238909,https://apps.apple.com/gb/app/ifirstaid/id295238909
+first aid at work,work and rules,8,Baby and child first aid,British Red Cross Society,70,4.74,Free,Medical,414,4886,646471621,https://apps.apple.com/gb/app/baby-and-child-first-aid/id646471621
+first aid at work,work and rules,9,Baby Panda's First Aid Tips,SINGAPORE BABYBUS PTE. LTD.,9,4.44,Free,Education,9,1697,1609201417,https://apps.apple.com/gb/app/baby-pandas-first-aid-tips/id1609201417
+first aid at work,work and rules,10,First Aid Emergency Assistant,LEARNING GAME APPS PRIVATE LIMITED,20,4.75,Free,Medical,2020,2860,1446011675,https://apps.apple.com/gb/app/first-aid-emergency-assistant/id1446011675
+manual handling,work and rules,1,GMOS Manual Handling,SHEQ Portal Limited,0,0,Free,Business,34,937,6479247051,https://apps.apple.com/gb/app/gmos-manual-handling/id6479247051
+manual handling,work and rules,2,Manual Handling COSHH Prep,MD Shahariar Nazim Joy,0,0,Free,Education,64,64,6793801158,https://apps.apple.com/gb/app/manual-handling-coshh-prep/id6793801158
+manual handling,work and rules,3,Best Built Plans,Sigma Games LLC,0,0,Free,Education,2691,2691,1457992967,https://apps.apple.com/gb/app/best-built-plans/id1457992967
+manual handling,work and rules,4,Scania Manual,Scania CV AB,2,1,Free,Utilities,16,2415,1497541309,https://apps.apple.com/gb/app/scania-manual/id1497541309
+manual handling,work and rules,5,Car User Manual & Service Log,Munnan Sabir,0,0,Free,Education,917,922,6480110116,https://apps.apple.com/gb/app/car-user-manual-service-log/id6480110116
+manual handling,work and rules,6,The Repair Manual,THE BOOK COMPANY LIMITED,0,0,Free,Utilities,595,595,6742143010,https://apps.apple.com/gb/app/the-repair-manual/id6742143010
+manual handling,work and rules,7,ServiceManual_eng,Gilyong Jang,0,0,Free,Book,1164,3220,1324017605,https://apps.apple.com/gb/app/servicemanual-eng/id1324017605
+forklift test,work and rules,1,Forklift Practice Test,Ben Wallenberg,1,5,Free,Education,118,385,6752556937,https://apps.apple.com/gb/app/forklift-practice-test/id6752556937
+forklift test,work and rules,2,Forklift Theory Essentials,Deep River Development Ltd,18,4.83,Free,Reference,49,491,6504173725,https://apps.apple.com/gb/app/forklift-theory-essentials/id6504173725
+forklift test,work and rules,3,Forklift Licence Test AU,FLY SKY PTY LTD,0,0,Free,Education,99,127,6773680921,https://apps.apple.com/gb/app/forklift-licence-test-au/id6773680921
+forklift test,work and rules,4,Forklift Exam Prep 2026,Deeun Inc.,0,0,Free,Education,135,253,6758368960,https://apps.apple.com/gb/app/forklift-exam-prep-2026/id6758368960
+forklift test,work and rules,5,Forklift Theory Test,James Kelly,0,0,£3.99,Education,557,558,6743938563,https://apps.apple.com/gb/app/forklift-theory-test/id6743938563
+forklift test,work and rules,6,Forklift Extreme Simulator,Jozef Debecki,233,4.52,Free,Games,92,1771,1595661765,https://apps.apple.com/gb/app/forklift-extreme-simulator/id1595661765
+forklift test,work and rules,7,Forklift simulator – Grand forklifter simulation,Muhammad Rafique Saleem,0,0,Free,Games,3526,3526,1190905693,https://apps.apple.com/gb/app/forklift-simulator-grand-forklifter-simulation/id1190905693
+forklift test,work and rules,8,Forklift Cargo Tycoon,Manzoor Ahmad,0,0,Free,Games,655,3685,1140542164,https://apps.apple.com/gb/app/forklift-cargo-tycoon/id1140542164
+forklift test,work and rules,9,Hangcha Forklift,"Zhejiang Hangcha Imp. & Exp. Co., Ltd.",0,0,Free,Business,1578,2636,1470010927,https://apps.apple.com/gb/app/hangcha-forklift/id1470010927
+forklift test,work and rules,10,Forklift Truck Simulator 2024,Frigate Games Private Limited,36,4.36,Free,Games,244,1669,1613292029,https://apps.apple.com/gb/app/forklift-truck-simulator-2024/id1613292029
+track safety rail,work and rules,1,Rail Track Safety Prep PTS,MD Shahariar Nazim Joy,0,0,Free,Education,64,64,6793793638,https://apps.apple.com/gb/app/rail-track-safety-prep-pts/id6793793638
+track safety rail,work and rules,2,RSSB – Rule Book,Rail Safety and Standards Board Limited,168,4.6,Free,Business,244,3478,1218415166,https://apps.apple.com/gb/app/rssb-rule-book/id1218415166
+track safety rail,work and rules,3,Interrail Rail Planner,Interrail B.V.,891,3.02,Free,Travel,9,4990,579547877,https://apps.apple.com/gb/app/interrail-rail-planner/id579547877
+track safety rail,work and rules,4,Modern Railways Magazine,Key Publishing Limited,117,4.44,Free,Business,901,5263,519049406,https://apps.apple.com/gb/app/modern-railways-magazine/id519049406
+track safety rail,work and rules,5,Rail Locator,Atkinson Bowes,102,4.12,Free,Utilities,8,1133,6462006029,https://apps.apple.com/gb/app/rail-locator/id6462006029
+track safety rail,work and rules,6,TrainsFYI: Train Map & Tracker,Radical Sloth Inc.,7,3.86,Free,Navigation,0,611,6741248139,https://apps.apple.com/gb/app/trainsfyi-train-map-tracker/id6741248139
+track safety rail,work and rules,7,Model Rail: Railway modelling,H. Bauer Publishing,925,4.64,Free,Magazines & Newspapers,379,5083,561959863,https://apps.apple.com/gb/app/model-rail-railway-modelling/id561959863
+track safety rail,work and rules,8,Railboard - National Rail,Railboard Ltd,5054,4.69,Free,Travel,19,3073,1278747705,https://apps.apple.com/gb/app/railboard-national-rail/id1278747705
+track safety rail,work and rules,9,MTinfo 3000,Dual Inventive Holding BV,0,0,Free,Business,90,3399,1245230419,https://apps.apple.com/gb/app/mtinfo-3000/id1245230419
+track safety rail,work and rules,10,RAIL Magazine,H. Bauer Publishing,878,4.49,Free,Magazines & Newspapers,379,4981,592764235,https://apps.apple.com/gb/app/rail-magazine/id592764235
+adi part 1,work and rules,1,ADI Theory Test 2026 UK Kit,Anastasiya Gordiychuk,1707,4.84,Free,Education,54,3830,1097951553,https://apps.apple.com/gb/app/adi-theory-test-2026-uk-kit/id1097951553
+adi part 1,work and rules,2,UK PDI/ADI Theory Test 2026,Teaching Driving Ltd,7,4.86,Free,Education,0,211,6759380461,https://apps.apple.com/gb/app/uk-pdi-adi-theory-test-2026/id6759380461
+adi part 1,work and rules,3,ADI PDI Theory Test & Tool kit,Webrich Software Limited,423,4.71,Free,Education,49,6247,328078323,https://apps.apple.com/gb/app/adi-pdi-theory-test-tool-kit/id328078323
+adi part 1,work and rules,4,ADI Theory Test Kit DriveSwift,DEALFUSION TECH LABS LTD,11,5,Free,Reference,180,363,6753119731,https://apps.apple.com/gb/app/adi-theory-test-kit-driveswift/id6753119731
+adi part 1,work and rules,5,ADI Theory Test UK KIT,Jayesh Vagadiya,81,4.75,Free,Education,685,988,6475640770,https://apps.apple.com/gb/app/adi-theory-test-uk-kit/id6475640770
+adi part 1,work and rules,6,ADI Driving Theory Test 2019,Theory Training Solutions Ltd,2,1,Free,Education,2541,4572,840355264,https://apps.apple.com/gb/app/adi-driving-theory-test-2019/id840355264
+adi part 1,work and rules,7,VNeID,Research And Application Center For Residents Data,37,2.46,Free,Productivity,20,1864,1582750372,https://apps.apple.com/gb/app/vneid/id1582750372
+adi part 1,work and rules,8,Elite Gears,ELITE GEARS DRIVING SCHOOL LTD,6,5,Free,Education,104,152,6760842305,https://apps.apple.com/gb/app/elite-gears/id6760842305
+adi part 1,work and rules,9,Adinkra,Justyn Adusei - Prempeh,0,0,Free,Education,825,825,6505055360,https://apps.apple.com/gb/app/adinkra/id6505055360
+motorcycle theory test,work and rules,1,Motorcycle Theory Test UK Kit,Deep River Development Ltd,6342,4.74,Free,Education,2,5403,490440404,https://apps.apple.com/gb/app/motorcycle-theory-test-uk-kit/id490440404
+motorcycle theory test,work and rules,2,Official DVSA Theory Test Kit,The Stationery Office Limited,15480,4.52,£5.49,Education,50,5496,463295925,https://apps.apple.com/gb/app/official-dvsa-theory-test-kit/id463295925
+motorcycle theory test,work and rules,3,UK Motorcycle Theory Test Kit,RAC Motoring Services,7564,4.78,Free,Reference,272,2403,1484639454,https://apps.apple.com/gb/app/uk-motorcycle-theory-test-kit/id1484639454
+motorcycle theory test,work and rules,4,Motorcycle Theory Test UK Kit,Igor Gordiychuk,1869,4.82,Free,Education,23,3836,1097524721,https://apps.apple.com/gb/app/motorcycle-theory-test-uk-kit/id1097524721
+motorcycle theory test,work and rules,5,Motorcycle Theory Test UK,Iteration Mobile S.L,2277,4.64,Free,Education,486,4688,755472900,https://apps.apple.com/gb/app/motorcycle-theory-test-uk/id755472900
+motorcycle theory test,work and rules,6,Driving Theory Test 4 in 1 Kit,Driving Test Success Limited,391572,4.82,£5.99,Education,9,4432,829581836,https://apps.apple.com/gb/app/driving-theory-test-4-in-1-kit/id829581836
+motorcycle theory test,work and rules,7,Motorcycle Theory Test Kit UK,Quantech Ltd,321,4.83,Free,Education,49,3589,1182933914,https://apps.apple.com/gb/app/motorcycle-theory-test-kit-uk/id1182933914
+motorcycle theory test,work and rules,8,Driving Test Theory Kit 2026,RAY APP LLC,38046,4.71,Free,Education,1,1605,1619757754,https://apps.apple.com/gb/app/driving-test-theory-kit-2026/id1619757754
+pcv theory test,work and rules,1,PCV Theory Test & Hazards Kit,Deep River Development Ltd,1468,4.72,Free,Education,5,5403,490449932,https://apps.apple.com/gb/app/pcv-theory-test-hazards-kit/id490449932
+pcv theory test,work and rules,2,PCV Theory Test 2026 UK Kit,Olena Gordiychuk,683,4.82,Free,Education,23,3830,1097950629,https://apps.apple.com/gb/app/pcv-theory-test-2026-uk-kit/id1097950629
+pcv theory test,work and rules,3,2026 PCV Theory Test Kit UK,Quantech Ltd,84,4.81,Free,Education,56,2607,1450752652,https://apps.apple.com/gb/app/2026-pcv-theory-test-kit-uk/id1450752652
+pcv theory test,work and rules,4,PCV Theory Test UK – D & D1,Iteration Mobile S.L,284,4.67,Free,Education,486,2681,1324984485,https://apps.apple.com/gb/app/pcv-theory-test-uk-d-d1/id1324984485
+pcv theory test,work and rules,5,Driving Theory Test 4 in 1 Kit,Driving Test Success Limited,391572,4.82,£5.99,Education,9,4432,829581836,https://apps.apple.com/gb/app/driving-theory-test-4-in-1-kit/id829581836
+pcv theory test,work and rules,6,PCV Theory Test Study Kit 2026,RAC Motoring Services,371,4.77,Free,Education,273,2315,1513353066,https://apps.apple.com/gb/app/pcv-theory-test-study-kit-2026/id1513353066
+pcv theory test,work and rules,7,Driving Theory Test Kit | RAC,RAC Motoring Services,100778,4.73,Free,Education,139,2870,1442848883,https://apps.apple.com/gb/app/driving-theory-test-kit-rac/id1442848883
+pcv theory test,work and rules,8,Driving Theory Test Kit UKDL®,KAIN SUITE PTE. LTD.,4266,4.69,Free,Education,119,692,6736810242,https://apps.apple.com/gb/app/driving-theory-test-kit-ukdl/id6736810242
+pcv theory test,work and rules,9,PCV Theory Test & Tool kit,Webrich Software Limited,39,4.64,Free,Education,8,6246,328203891,https://apps.apple.com/gb/app/pcv-theory-test-tool-kit/id328203891
+tachograph,work and rules,1,Tachograph 2.0,Artem Kostenko,3,5,Free,Productivity,23,436,6746964637,https://apps.apple.com/gb/app/tachograph-2-0/id6746964637
+tachograph,work and rules,2,Tachogram – Tachograph App,Mapon SIA,21,2.43,Free,Business,0,2001,1494734187,https://apps.apple.com/gb/app/tachogram-tachograph-app/id1494734187
+tachograph,work and rules,3,WorkingTime: HGV,MUNUR OSMAN,14,4.71,Free,Utilities,0,407,6751460309,https://apps.apple.com/gb/app/workingtime-hgv/id6751460309
+tachograph,work and rules,4,TachoPlus,Dmytro Bezrukov,0,0,Free,Navigation,39,168,6762611277,https://apps.apple.com/gb/app/tachoplus/id6762611277
+tachograph,work and rules,5,Tachomaster Worker,Road Tech Computer Systems Ltd.,20,2.65,Free,Utilities,205,4703,740517136,https://apps.apple.com/gb/app/tachomaster-worker/id740517136
+tachograph,work and rules,6,Smart tachograph 2 simulator,Verleij Services Bv,0,0,Free,Education,60,105,6781248691,https://apps.apple.com/gb/app/smart-tachograph-2-simulator/id6781248691
+tachograph,work and rules,7,TachoFaults,HRISTO STEFANOV HRISTEV,0,0,Free,Education,602,603,6741799247,https://apps.apple.com/gb/app/tachofaults/id6741799247
+tachograph,work and rules,8,TachoData,TachoMI.hu Korlatolt Felelossegu Tarsasag,0,0,Free,Business,13,193,6737516213,https://apps.apple.com/gb/app/tachodata/id6737516213
+tachograph,work and rules,9,Hours Tracker: Time Calculator,Appostrophe AB,6231,4.6,Free,Utilities,765,2666,1468092377,https://apps.apple.com/gb/app/hours-tracker-time-calculator/id1468092377
+tachograph,work and rules,10,digiDownload,ProSys Dev Limited,0,0,Free,Utilities,82,82,6748821491,https://apps.apple.com/gb/app/digidownload/id6748821491
+drivers hours,work and rules,1,Drivers Hours,1BIGRIG Ltd,2,2,Free,Productivity,133,165,6757016996,https://apps.apple.com/gb/app/drivers-hours/id6757016996
+drivers hours,work and rules,2,TachoClear: Drivers' Hours UK,Tom Murton,2,5,Free,Business,1,63,6794922343,https://apps.apple.com/gb/app/tachoclear-drivers-hours-uk/id6794922343
+drivers hours,work and rules,3,Drivers' Hours: HGV & Van,Gun woo Kim,2,2,Free,Business,65,78,6792326285,https://apps.apple.com/gb/app/drivers-hours-hgv-van/id6792326285
+drivers hours,work and rules,4,DRYVR App,THOMAS RICHARD SINGLETON,1,5,Free,Business,209,212,6759723349,https://apps.apple.com/gb/app/dryvr-app/id6759723349
+drivers hours,work and rules,5,Hours Tracker: Time Calculator,Appostrophe AB,6231,4.6,Free,Utilities,765,2666,1468092377,https://apps.apple.com/gb/app/hours-tracker-time-calculator/id1468092377
+drivers hours,work and rules,6,TruckerTimer,WL Online Marketing LLC,83,3.16,£5.99,Business,728,5140,555938334,https://apps.apple.com/gb/app/truckertimer/id555938334
+drivers hours,work and rules,7,Drivers Logbook,Donut Development LTD,0,0,Free,Productivity,13,151,6760286993,https://apps.apple.com/gb/app/drivers-logbook/id6760286993
+drivers hours,work and rules,8,Samsara Driver,Samsara Networks Inc,564,4.7,Free,Utilities,13,3738,1106069401,https://apps.apple.com/gb/app/samsara-driver/id1106069401
+drivers hours,work and rules,9,My Shift Planner – Shift Rota,MyBuzz Technologies Limited,17515,4.83,Free,Productivity,4,4897,645662133,https://apps.apple.com/gb/app/my-shift-planner-shift-rota/id645662133
+mileage tracker,work and rules,1,Mileage Tracker by Driversnote,Driversnote ApS,7530,4.76,Free,Finance,21,4341,924418916,https://apps.apple.com/gb/app/mileage-tracker-by-driversnote/id924418916
+mileage tracker,work and rules,2,Mileage Tracker by MileIQ,MileIQ Inc.,3904,4.66,Free,Finance,21,5044,578830929,https://apps.apple.com/gb/app/mileage-tracker-by-mileiq/id578830929
+mileage tracker,work and rules,3,Mileage Logbook,Hus Software Development & Consulting Limited,38,4.39,Free,Finance,3,2295,1465874921,https://apps.apple.com/gb/app/mileage-logbook/id1465874921
+mileage tracker,work and rules,4,Simple Mileage Tracker,"SherpaShare, Inc",85,4.41,Free,Finance,2556,2810,1448782840,https://apps.apple.com/gb/app/simple-mileage-tracker/id1448782840
+mileage tracker,work and rules,5,Mile Logger - Mileage tracker,Dajax LLC,49,3.49,Free,Finance,22,3876,1078393112,https://apps.apple.com/gb/app/mile-logger-mileage-tracker/id1078393112
+mileage tracker,work and rules,6,AutoMiles: Mileage Tracker,DNNR Tech,7,4.43,Free,Finance,7,266,6757247618,https://apps.apple.com/gb/app/automiles-mileage-tracker/id6757247618
+mileage tracker,work and rules,7,Mileage Tracker・Note Miles App,Rodrigo Oprea,0,0,Free,Finance,350,393,6741737288,https://apps.apple.com/gb/app/mileage-tracker-note-miles-app/id6741737288
+mileage tracker,work and rules,8,Mileage Track,The Miles Consultancy Limited,844,2.77,Free,Business,470,4867,652181352,https://apps.apple.com/gb/app/mileage-track/id652181352
+mileage tracker,work and rules,9,Mileage Tracker App by TripLog,"TripLog, Inc",255,4.34,Free,Finance,21,5046,585918522,https://apps.apple.com/gb/app/mileage-tracker-app-by-triplog/id585918522
+mileage tracker,work and rules,10,Running Walking Jogging Goals,AK Apptuitive GmbH,11650,4.76,Free,Health & Fitness,0,3641,1136617388,https://apps.apple.com/gb/app/running-walking-jogging-goals/id1136617388
+timesheet,work and rules,1,Hours Tracker: Time Calculator,Appostrophe AB,6231,4.6,Free,Utilities,765,2666,1468092377,https://apps.apple.com/gb/app/hours-tracker-time-calculator/id1468092377
+timesheet,work and rules,2,TimeSheet - IS -,Digital Accels Inc.,24,3.83,Free,Business,245,5574,445811752,https://apps.apple.com/gb/app/timesheet-is/id445811752
+timesheet,work and rules,3,Timesheet: Work Hours Tracker,Jakub Takac,158,4.68,Free,Finance,12,2274,1518938275,https://apps.apple.com/gb/app/timesheet-work-hours-tracker/id1518938275
+timesheet,work and rules,4,Clockify Time Tracker,CAKE.com Inc.,596,4.5,Free,Productivity,14,3256,1304431926,https://apps.apple.com/gb/app/clockify-time-tracker/id1304431926
+timesheet,work and rules,5,Timesheet IO – Work Hours,Timesheet - Mobile Time Tracking OG,12,4.83,Free,Productivity,2,2282,1488208261,https://apps.apple.com/gb/app/timesheet-io-work-hours/id1488208261
+timesheet,work and rules,6,Work Shift Planner - Timesheet,Kanstantsin Markau,12,5,Free,Productivity,57,847,6503091221,https://apps.apple.com/gb/app/work-shift-planner-timesheet/id6503091221
+timesheet,work and rules,7,Timesheet - Easy Hours Tracker,Adam Feher,1,4,Free,Productivity,1058,1058,6471918600,https://apps.apple.com/gb/app/timesheet-easy-hours-tracker/id6471918600
+timesheet,work and rules,8,Timesheet PDF,Paul Keen,122,4.61,Free,Business,92,4456,898115583,https://apps.apple.com/gb/app/timesheet-pdf/id898115583
+timesheet,work and rules,9,Work Hours & Pay Calculator,Lesya Verbina,1088,4.74,Free,Finance,98,2667,1468530190,https://apps.apple.com/gb/app/work-hours-pay-calculator/id1468530190
+timesheet,work and rules,10,Timesheet Mobile™,"Freedom Telecare, LLC",43,3.37,Free,Business,754,5094,560462162,https://apps.apple.com/gb/app/timesheet-mobile/id560462162
+holiday pay calculator,work and rules,1,Work Hours & Pay Calculator,Lesya Verbina,1088,4.74,Free,Finance,98,2667,1468530190,https://apps.apple.com/gb/app/work-hours-pay-calculator/id1468530190
+holiday pay calculator,work and rules,2,UK Salary Calculator 2024-2025,James Still,3120,4.81,Free,Finance,905,6021,366872441,https://apps.apple.com/gb/app/uk-salary-calculator-2024-2025/id366872441
+holiday pay calculator,work and rules,3,Holiday Pay Calculator,Michael Savacool,0,0,£0.99,Utilities,3480,3480,1219815642,https://apps.apple.com/gb/app/holiday-pay-calculator/id1219815642
+holiday pay calculator,work and rules,4,FA Pay,Shane Sutro,0,0,Free,Finance,2713,2713,1456776247,https://apps.apple.com/gb/app/fa-pay/id1456776247
+holiday pay calculator,work and rules,5,wac – shift & earnings tracker,Work and Communications Ltd,5773,4.79,Free,Finance,28,2538,1483618032,https://apps.apple.com/gb/app/wac-shift-earnings-tracker/id1483618032
+holiday pay calculator,work and rules,6,UK Salary Calculator 2026/27,Rhys Lewis,1633,4.76,Free,Finance,189,4299,945807341,https://apps.apple.com/gb/app/uk-salary-calculator-2026-27/id945807341
+holiday pay calculator,work and rules,7,UK Salary Calculator: 2026/27,52 Apps Ltd,22,4.86,Free,Finance,14,725,6670315222,https://apps.apple.com/gb/app/uk-salary-calculator-2026-27/id6670315222
+holiday pay calculator,work and rules,8,CheckPlease Tip Calculator,Nick Alonge,2,2,Free,Food & Drink,37,2703,284974421,https://apps.apple.com/gb/app/checkplease-tip-calculator/id284974421
+holiday pay calculator,work and rules,9,UK Tax Calculators 2024-2025,Rayan Arman,974,4.68,Free,Finance,1003,5513,460977743,https://apps.apple.com/gb/app/uk-tax-calculators-2024-2025/id460977743
+holiday pay calculator,work and rules,10,UK Tax Calculator 26/27,1BIGRIG Ltd,4,4,Free,Finance,16,211,6759113395,https://apps.apple.com/gb/app/uk-tax-calculator-26-27/id6759113395
+overtime calculator,work and rules,1,Overtime Calculator - Pay Calc,Phan Nhat Đang,0,0,Free,Utilities,124,1757,1599995398,https://apps.apple.com/gb/app/overtime-calculator-pay-calc/id1599995398
+overtime calculator,work and rules,2,Hours Tracker: Time Calculator,Appostrophe AB,6231,4.6,Free,Utilities,765,2666,1468092377,https://apps.apple.com/gb/app/hours-tracker-time-calculator/id1468092377
+overtime calculator,work and rules,3,Overtime Calculator 2.0,"JC Accounting & Innovative Technologies, Inc",0,0,Free,Productivity,1184,2902,1440173888,https://apps.apple.com/gb/app/overtime-calculator-2-0/id1440173888
+overtime calculator,work and rules,4,Overtime Calculator plus,AMAR AWNI,0,0,Free,Utilities,1149,1645,1615042862,https://apps.apple.com/gb/app/overtime-calculator-plus/id1615042862
+overtime calculator,work and rules,5,Cop Overtime Management,"JC Accounting & Innovative Technologies, Inc",0,0,Free,Utilities,22,3255,1266800462,https://apps.apple.com/gb/app/cop-overtime-management/id1266800462
+overtime calculator,work and rules,6,OverTimer: Work Hours,Serhat Celik,1,5,Free,Productivity,2,256,6757972082,https://apps.apple.com/gb/app/overtimer-work-hours/id6757972082
+overtime calculator,work and rules,7,Work Hours & Pay Calculator,Lesya Verbina,1088,4.74,Free,Finance,98,2667,1468530190,https://apps.apple.com/gb/app/work-hours-pay-calculator/id1468530190
+overtime calculator,work and rules,8,TimeCalc: Time Calculator,Ha Thanh,14,4.07,Free,Utilities,58,2991,1369060155,https://apps.apple.com/gb/app/timecalc-time-calculator/id1369060155
+overtime calculator,work and rules,9,Time Card Calculator-Timeclock,Review And Judge LLC,9,3.33,Free,Productivity,828,4811,672350386,https://apps.apple.com/gb/app/time-card-calculator-timeclock/id672350386
+redundancy pay,work and rules,1,UK Redundancy Pay Pro,IVAN BOBAN,0,0,Free,Finance,109,127,6771291837,https://apps.apple.com/gb/app/uk-redundancy-pay-pro/id6771291837
+redundancy pay,work and rules,2,wac – shift & earnings tracker,Work and Communications Ltd,5773,4.79,Free,Finance,28,2538,1483618032,https://apps.apple.com/gb/app/wac-shift-earnings-tracker/id1483618032
+redundancy pay,work and rules,3,Employment Hero Work,Employment Hero Pty Ltd,643,4.56,Free,Business,2,3596,1171253572,https://apps.apple.com/gb/app/employment-hero-work/id1171253572
+redundancy pay,work and rules,4,RotaCloud,Kettle & Keyboard Ltd,13580,4.83,Free,Business,1,3956,1050974249,https://apps.apple.com/gb/app/rotacloud/id1050974249
+redundancy pay,work and rules,5,Deel: Global Payroll & HR,"Deel, Inc (USA)",643,4.67,Free,Business,1,778,6478083155,https://apps.apple.com/gb/app/deel-global-payroll-hr/id6478083155
+redundancy pay,work and rules,6,DailyPay On-Demand Pay,Level Financial Technology Limited,13,4.69,Free,Finance,7,774,6504234129,https://apps.apple.com/gb/app/dailypay-on-demand-pay/id6504234129
+redundancy pay,work and rules,7,BrightPay Employee,Bright SG Ltd,60,2,Free,Business,104,338,6748438119,https://apps.apple.com/gb/app/brightpay-employee/id6748438119
+redundancy pay,work and rules,8,Moorepay,Moorepay Limited,177,1.54,Free,Finance,5,2127,1517033652,https://apps.apple.com/gb/app/moorepay/id1517033652
+redundancy pay,work and rules,9,All Gravy,Butter Solutions ApS,38,3.11,Free,Productivity,2,1784,1538780080,https://apps.apple.com/gb/app/all-gravy/id1538780080
+redundancy pay,work and rules,10,Work - By elementsuite,elementsuite Limited,59,1.88,Free,Business,140,1259,1668148367,https://apps.apple.com/gb/app/work-by-elementsuite/id1668148367
+gas safe,work and rules,1,GB Gas Tightness Testing,George A Brown,1,4,Free,Business,1,5664,428846431,https://apps.apple.com/gb/app/gb-gas-tightness-testing/id428846431
+gas safe,work and rules,2,Gas Engineer Software - GES,Software Works for You Ltd,1509,4.67,Free,Business,2,4679,771853285,https://apps.apple.com/gb/app/gas-engineer-software-ges/id771853285
+gas safe,work and rules,3,Gas App Uk,Gas App Uk Limited,1536,4.65,Free,Business,1,3946,1033168436,https://apps.apple.com/gb/app/gas-app-uk/id1033168436
+gas safe,work and rules,4,Gas Certificate App,Trade Apps LTD,232,4.2,Free,Utilities,1,3285,1293890970,https://apps.apple.com/gb/app/gas-certificate-app/id1293890970
+gas safe,work and rules,5,GB Gas Onsite Guide,George A Brown,2,5,Free,Business,4,2166,1537237630,https://apps.apple.com/gb/app/gb-gas-onsite-guide/id1537237630
+gas safe,work and rules,6,Gas Checker,GasSoft limited,94,4.19,Free,Utilities,402,5262,523576969,https://apps.apple.com/gb/app/gas-checker/id523576969
+gas safe,work and rules,7,TightnessPro,AUDIT-PRO LTD,2,5,Free,Business,29,111,6780316738,https://apps.apple.com/gb/app/tightnesspro/id6780316738
+gas safe,work and rules,8,Gas Flow Rate Calculator,Rik Watson,1,5,£0.99,Utilities,23,183,1441968456,https://apps.apple.com/gb/app/gas-flow-rate-calculator/id1441968456
+gas safe,work and rules,9,KANE LIVE,Kane International Limited,9,2.89,Free,Productivity,140,1759,1594399447,https://apps.apple.com/gb/app/kane-live/id1594399447
+gas safe,work and rules,10,GasCert: CP12 Gas Certificates,iCertifi,1,5,Free,Business,7,314,6746510893,https://apps.apple.com/gb/app/gascert-cp12-gas-certificates/id6746510893
+18th edition,work and rules,1,IET Wiring Regulations 18th Ed,Eknath Kadam,1555,4.68,Free,Education,4,3990,1052750962,https://apps.apple.com/gb/app/iet-wiring-regulations-18th-ed/id1052750962
+18th edition,work and rules,2,18th Edition Wiring Regs Prep,MD Shahariar Nazim Joy,1,1,Free,Education,76,77,6791223196,https://apps.apple.com/gb/app/18th-edition-wiring-regs-prep/id6791223196
+18th edition,work and rules,3,NICEIC Pocket Guides app,Certsure LLP,29,4.72,Free,Business,404,1569,1628591814,https://apps.apple.com/gb/app/niceic-pocket-guides-app/id1628591814
+18th edition,work and rules,4,18th Edition Wiring Exam Q&A,Adnan Sheikh,0,0,£11.99,Education,2099,2232,1529109291,https://apps.apple.com/gb/app/18th-edition-wiring-exam-q-a/id1529109291
+18th edition,work and rules,5,Electrical Wiring Simulator,Louie Juera,26,4.42,Free,Education,2,1520,1638500625,https://apps.apple.com/gb/app/electrical-wiring-simulator/id1638500625
+18th edition,work and rules,6,Inspection & Testing,Clay10 Creative LTD,46,3.93,Free,Education,1862,1862,1561014493,https://apps.apple.com/gb/app/inspection-testing/id1561014493
+18th edition,work and rules,7,Screwfix,Screwfix Direct Ltd.,155256,4.81,Free,Shopping,30,2050,1520659139,https://apps.apple.com/gb/app/screwfix/id1520659139
+18th edition,work and rules,8,IET Wiring Regulations 18th Ed,Adnan Sheikh,1,2,£5.99,Education,2127,2568,1481354285,https://apps.apple.com/gb/app/iet-wiring-regulations-18th-ed/id1481354285
+18th edition,work and rules,9,Facebook,"Meta Platforms, Inc.",3243621,4.52,Free,Social Networking,0,2801,284882215,https://apps.apple.com/gb/app/facebook/id284882215
+18th edition,work and rules,10,Electrical Calculations,Egal Net di Ettore Gallina,19,4.74,Free,Productivity,44,4141,993232048,https://apps.apple.com/gb/app/electrical-calculations/id993232048
+risk assessment,work and rules,1,Risk Assessor Pro,Safety Apps Ltd.,102,4.3,Free,Business,30,4559,857556906,https://apps.apple.com/gb/app/risk-assessor-pro/id857556906
+risk assessment,work and rules,2,Risk_Assessment,GAMAL ABDELNASER GABR GABR,0,0,Free,Utilities,418,469,6747714854,https://apps.apple.com/gb/app/risk-assessment/id6747714854
+risk assessment,work and rules,3,MY Risk Assessments,Access UK Ltd,2,5,Free,Business,46,2535,1479859418,https://apps.apple.com/gb/app/my-risk-assessments/id1479859418
+risk assessment,work and rules,4,SurvAid Risk Assessment,Jimmy Pewtress,0,0,Free,Utilities,1169,1169,6452799839,https://apps.apple.com/gb/app/survaid-risk-assessment/id6452799839
+risk assessment,work and rules,5,L8log - Risk Assessment,REMOTE TECH LTD,0,0,Free,Business,5,516,6664064941,https://apps.apple.com/gb/app/l8log-risk-assessment/id6664064941
+risk assessment,work and rules,6,Risk Talk - Workplace Safety,SUNSET COAST HOLDINGS PTY. LTD.,1,5,Free,Business,8,3282,1280748870,https://apps.apple.com/gb/app/risk-talk-workplace-safety/id1280748870
+risk assessment,work and rules,7,RiskBase,RiskBase Limited,15,4.53,Free,Productivity,168,2170,1533825779,https://apps.apple.com/gb/app/riskbase/id1533825779
+risk assessment,work and rules,8,Mitti (by SafetyCulture),Mitti Holdings Pty Ltd,17760,4.69,Free,Business,2,5346,499999532,https://apps.apple.com/gb/app/mitti-by-safetyculture/id499999532
+risk assessment,work and rules,9,RiskProof,Dynamic Risk Indicator Ltd,31,3.42,Free,Business,1,2528,1451065773,https://apps.apple.com/gb/app/riskproof/id1451065773
+risk assessment,work and rules,10,Rimini Risk Management,Rimini riskhantering AB,0,0,Free,Utilities,799,3037,1374907525,https://apps.apple.com/gb/app/rimini-risk-management/id1374907525
+pat testing,work and rules,1,KEWPAT,RSR Systems Limited,34,3.09,Free,Productivity,461,2971,1348350148,https://apps.apple.com/gb/app/kewpat/id1348350148
+pat testing,work and rules,2,TradeTest Pro: PAT Testing,LAWRENCE CARL BOUND,0,0,Free,Business,32,60,6791238390,https://apps.apple.com/gb/app/tradetest-pro-pat-testing/id6791238390
+pat testing,work and rules,3,PAT Test Manager Pro,SAM MATTHEW LEONARD TOMS,1,5,Free,Productivity,64,273,6756587453,https://apps.apple.com/gb/app/pat-test-manager-pro/id6756587453
+pat testing,work and rules,4,PATMobile,Seaward Electronic Ltd.,65,1.91,Free,Productivity,15,1666,1495978467,https://apps.apple.com/gb/app/patmobile/id1495978467
+pat testing,work and rules,5,PAT Test Pro,iCertifi,62,4.53,Free,Utilities,6,483,6746668717,https://apps.apple.com/gb/app/pat-test-pro/id6746668717
+pat testing,work and rules,6,SGW 5D PAT Testing,SG World Limited,0,0,Free,Utilities,1194,2072,1544977687,https://apps.apple.com/gb/app/sgw-5d-pat-testing/id1544977687
+pat testing,work and rules,7,ESC PAT Certificate,Easy Safety Cert Ltd,5,2.4,Free,Business,1802,3779,1116937554,https://apps.apple.com/gb/app/esc-pat-certificate/id1116937554
+pat testing,work and rules,8,Megger PAT Toolbox,Megger LTD,3,2.33,Free,Business,4383,4404,915766748,https://apps.apple.com/gb/app/megger-pat-toolbox/id915766748
+pat testing,work and rules,9,City&Guilds 2377 PAT Testing,Adnan Sheikh,1,1,£9.99,Education,1049,3493,1214842678,https://apps.apple.com/gb/app/city-guilds-2377-pat-testing/id1214842678
+fire logbook,work and rules,1,Fire Safe,iCertifi,82,4.54,Free,Productivity,7,3315,1271708574,https://apps.apple.com/gb/app/fire-safe/id1271708574
+fire logbook,work and rules,2,Logbooks by Uptick,Uptick Pty Ltd,0,0,Free,Business,1322,2633,1469009164,https://apps.apple.com/gb/app/logbooks-by-uptick/id1469009164
+fire logbook,work and rules,3,Log4AS - Anaesthetic Logbook,Wenxin Zhang,46,4.46,Free,Medical,22,4159,987244449,https://apps.apple.com/gb/app/log4as-anaesthetic-logbook/id987244449
+fire logbook,work and rules,4,Fireplace Live HD - Real Fire,Voros Innovation & Business Services Pty Ltd,763,4.63,Free,Lifestyle,378,5479,469329213,https://apps.apple.com/gb/app/fireplace-live-hd-real-fire/id469329213
+fire logbook,work and rules,5,iCertifi Fire & Emergency,iCertifi,3,4,Free,Productivity,7,5000,595143989,https://apps.apple.com/gb/app/icertifi-fire-emergency/id595143989
+fire logbook,work and rules,6,Logbook 4 Cars,Sam Tawfik,0,0,Free,Lifestyle,45,1170,6443728695,https://apps.apple.com/gb/app/logbook-4-cars/id6443728695
+fire logbook,work and rules,7,Lightme - Logbook,Giuseppe Bertolini,14,4.64,Free,Photo & Video,0,1960,1544518308,https://apps.apple.com/gb/app/lightme-logbook/id1544518308
+fire logbook,work and rules,8,Logbook Pro Flight Logbook,"NC Software, Inc.",8,4.62,Free,Utilities,82,5768,410773111,https://apps.apple.com/gb/app/logbook-pro-flight-logbook/id410773111
+fire logbook,work and rules,9,LogTen Pilot Logbook,Coradine Aviation Systems,878,4.42,Free,Utilities,2,4374,837274884,https://apps.apple.com/gb/app/logten-pilot-logbook/id837274884
+fire logbook,work and rules,10,Netflix,"Netflix, Inc.",885217,4.72,Free,Entertainment,2,5385,363590051,https://apps.apple.com/gb/app/netflix/id363590051
+police sergeant exam,work and rules,1,Police Inspire,Inspired Training Solutions Ltd,12,2.92,Free,Education,29,821,6443709299,https://apps.apple.com/gb/app/police-inspire/id6443709299
+police sergeant exam,work and rules,2,Police Cop Simulator. Gang War,LIMANSKYGAMES LTD,8281,4.45,Free,Games,13,2627,1469864712,https://apps.apple.com/gb/app/police-cop-simulator-gang-war/id1469864712
+police sergeant exam,work and rules,3,Got Stripes: Police Exam Prep,AAK Studio LLC,0,0,Free,Education,0,152,6765915271,https://apps.apple.com/gb/app/got-stripes-police-exam-prep/id6765915271
+police sergeant exam,work and rules,4,Police Mission Chief,SHPlay GmbH,655,4.61,Free,Games,15,2218,1529875219,https://apps.apple.com/gb/app/police-mission-chief/id1529875219
+police sergeant exam,work and rules,5,Police Chief,VoyagerOne Distribution Limited,5337,4.83,Free,Games,8,152,6757350661,https://apps.apple.com/gb/app/police-chief/id6757350661
+police sergeant exam,work and rules,6,Police Simulator Cop Car Duty,FreeOnlineGames.com FZE,3619,4.72,Free,Games,414,2734,1457343515,https://apps.apple.com/gb/app/police-simulator-cop-car-duty/id1457343515
+police sergeant exam,work and rules,7,Police Car Driving: Crime City,GameShark Studios LTD,4154,4.43,Free,Games,228,2974,1418584024,https://apps.apple.com/gb/app/police-car-driving-crime-city/id1418584024
+police sergeant exam,work and rules,8,Police Tutorial,"Police Tutorial Service, Inc.",0,0,Free,Education,77,4835,637137861,https://apps.apple.com/gb/app/police-tutorial/id637137861
+firefighter test,work and rules,1,Firefighter Practice Test Prep,MOON MOUNTAIN INC,0,0,Free,Education,2666,2666,1464665092,https://apps.apple.com/gb/app/firefighter-practice-test-prep/id1464665092
+firefighter test,work and rules,2,Firefighter I & II Test Prep,MastrAPI Ltd,5,5,Free,Education,285,1852,1584513689,https://apps.apple.com/gb/app/firefighter-i-ii-test-prep/id1584513689
+firefighter test,work and rules,3,Firefighter Exam Practice Test,iAPPSSTUDIO,0,0,Free,Education,71,260,6757999650,https://apps.apple.com/gb/app/firefighter-exam-practice-test/id6757999650
+firefighter test,work and rules,4,EMERGENCY HQ: firefighter game,Sixteen Tons Entertainment GmbH,11444,4.63,Free,Games,8,3208,859148736,https://apps.apple.com/gb/app/emergency-hq-firefighter-game/id859148736
+firefighter test,work and rules,5,Firefighter 1 & 2 Exam Prep,Andrey Andreyev,1,5,Free,Education,98,981,6476922164,https://apps.apple.com/gb/app/firefighter-1-2-exam-prep/id6476922164
+firefighter test,work and rules,6,Firefighter Mastery,"gWhiz, LLC",1,5,Free,Education,3479,3586,1150637179,https://apps.apple.com/gb/app/firefighter-mastery/id1150637179
+firefighter test,work and rules,7,Firefighter Practice Test,3328833 Nova Scotia Limited,0,0,Free,Education,370,371,6753158114,https://apps.apple.com/gb/app/firefighter-practice-test/id6753158114
+firefighter test,work and rules,8,FireFighter I & II : Exam Prep,Prepia Inc,1,5,Free,Education,13,419,6749839571,https://apps.apple.com/gb/app/firefighter-i-ii-exam-prep/id6749839571
+firefighter test,work and rules,9,FireFighter Aptitude Test,FIRE RECRUITMENT SERVICES PTE. LTD.,0,0,Free,Reference,867,868,6502633359,https://apps.apple.com/gb/app/firefighter-aptitude-test/id6502633359
+firefighter test,work and rules,10,Idle Firefighter Tycoon,Kolibri Games GmbH,4627,4.72,Free,Games,30,2017,1560178364,https://apps.apple.com/gb/app/idle-firefighter-tycoon/id1560178364
+prison officer test,work and rules,1,Prison Video,PHONEHUB IO LTD,3683,4.91,Free,Social Networking,8,2393,1359083734,https://apps.apple.com/gb/app/prison-video/id1359083734
+prison officer test,work and rules,2,Prison Guard: Grand Escape,LLP Take Top Entertainment,5,4.4,Free,Games,219,477,6747131733,https://apps.apple.com/gb/app/prison-guard-grand-escape/id6747131733
+prison officer test,work and rules,3,Tiny Prison,"Two-Bit Titans, LLC",2105,4.48,Free,Games,3963,4365,736898746,https://apps.apple.com/gb/app/tiny-prison/id736898746
+prison officer test,work and rules,4,Police Chief,VoyagerOne Distribution Limited,5337,4.83,Free,Games,8,152,6757350661,https://apps.apple.com/gb/app/police-chief/id6757350661
+prison officer test,work and rules,5,Prison Break-Out,YAMY STUDIO YAZILIM VE OYUN GELISTIRME ANONIM SIRKETI,933,4.53,Free,Games,61,733,6736354721,https://apps.apple.com/gb/app/prison-break-out/id6736354721
+prison officer test,work and rules,6,The Prison Simulator,Appscraft LLC,58,4.07,Free,Games,252,3395,1245577011,https://apps.apple.com/gb/app/the-prison-simulator/id1245577011
+prison officer test,work and rules,7,Prison Empire Tycoon－Idle Game,Codigames SL,14966,4.47,Free,Games,9,2358,1508490923,https://apps.apple.com/gb/app/prison-empire-tycoon-idle-game/id1508490923
+prison officer test,work and rules,8,Prison Life: Idle Game,Supercent Inc.,612,4.32,Free,Games,50,839,6472412918,https://apps.apple.com/gb/app/prison-life-idle-game/id6472412918
+prison officer test,work and rules,9,eMates,Unilink Technology Services Ltd,155,1.43,Free,Social Networking,1001,1871,1573352170,https://apps.apple.com/gb/app/emates/id1573352170
+prison officer test,work and rules,10,Prison Voicemail,PHONEHUB IO LTD,118,3.95,Free,Social Networking,114,3613,1174278040,https://apps.apple.com/gb/app/prison-voicemail/id1174278040
+civil service test,work and rules,1,Civil Service Test Prep UK,Alpha Beat Limited,3,5,Free,Education,59,112,6780967463,https://apps.apple.com/gb/app/civil-service-test-prep-uk/id6780967463
+civil service test,work and rules,2,IAS Civil Service Test Prep,MOON MOUNTAIN INC,0,0,Free,Education,2429,2455,1490381837,https://apps.apple.com/gb/app/ias-civil-service-test-prep/id1490381837
+civil service test,work and rules,3,Civil Service Test Prep,MD Shahariar Nazim Joy,0,0,Free,Education,69,69,6792998059,https://apps.apple.com/gb/app/civil-service-test-prep/id6792998059
+civil service test,work and rules,4,Civil Service Exam Prep 2026,Exam Prep OU,0,0,Free,Education,19,676,6738780993,https://apps.apple.com/gb/app/civil-service-exam-prep-2026/id6738780993
+civil service test,work and rules,5,HK CRE: Civil Service Exam,kin wah Cheng,0,0,Free,Education,6,378,6752921971,https://apps.apple.com/gb/app/hk-cre-civil-service-exam/id6752921971
+civil service test,work and rules,6,Official Life in the UK Test,The Stationery Office Limited,1446,3.38,£5.99,Education,9,4926,632064672,https://apps.apple.com/gb/app/official-life-in-the-uk-test/id632064672
+civil service test,work and rules,7,Life in the UK Test Prep,Learning Bytes Limited,2937,4.59,Free,Education,274,2528,1481724919,https://apps.apple.com/gb/app/life-in-the-uk-test-prep/id1481724919
+civil service test,work and rules,8,Civil Service Jobs UK,Lee Ka Lok,115,4.37,Free,Business,1254,1448,6443794906,https://apps.apple.com/gb/app/civil-service-jobs-uk/id6443794906
+civil service test,work and rules,9,Op/Spec Test Prep for CITB,GET EXAM SRL,1065,4.58,Free,Education,277,2527,1484787974,https://apps.apple.com/gb/app/op-spec-test-prep-for-citb/id1484787974
+ilr absence,work and rules,1,ILR Tracker,URTICAD TECH LTD,0,0,Free,Productivity,14,193,6757963377,https://apps.apple.com/gb/app/ilr-tracker/id6757963377
+ilr absence,work and rules,2,edays,E-DAYS ABSENCE MANAGEMENT LIMITED,1588,4.85,Free,Business,1,1497,1603691465,https://apps.apple.com/gb/app/edays/id1603691465
+ilr absence,work and rules,3,UKDays: UK ILR & Citizenship,Maria Bshara,9,4.33,Free,Productivity,17,393,6752123044,https://apps.apple.com/gb/app/ukdays-uk-ilr-citizenship/id6752123044
+ilr absence,work and rules,4,RKY UK ILR Tracker,Rajesh Kumar Yadav,2,5,£1.99,Productivity,11,113,6779982660,https://apps.apple.com/gb/app/rky-uk-ilr-tracker/id6779982660
+ilr absence,work and rules,5,Borderline – UK ILR Tracker,Tin Chi Yeung,0,0,Free,Utilities,104,227,6740153418,https://apps.apple.com/gb/app/borderline-uk-ilr-tracker/id6740153418
+ilr absence,work and rules,6,ILR Tracker: UK Settlement,CENTORA LTD,0,0,Free,Productivity,20,20,6807908408,https://apps.apple.com/gb/app/ilr-tracker-uk-settlement/id6807908408
+ilr absence,work and rules,7,absence.io,absence.io GmbH,41,4.78,Free,Utilities,100,4092,1001554288,https://apps.apple.com/gb/app/absence-io/id1001554288
+ilr absence,work and rules,8,actiPLANS: absence notes,ACTITIME SOFTWARE L.L.C-FZ,0,0,Free,Productivity,1785,3914,1049307705,https://apps.apple.com/gb/app/actiplans-absence-notes/id1049307705
+ilr absence,work and rules,9,Absence Planner,"Platform Science, Inc.",0,0,Free,Utilities,377,3596,1178012000,https://apps.apple.com/gb/app/absence-planner/id1178012000
+ilr absence,work and rules,10,CirrusHR,Supportis Limited,0,0,Free,Business,76,216,6759730476,https://apps.apple.com/gb/app/cirrushr/id6759730476

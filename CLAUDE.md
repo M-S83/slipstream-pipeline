@@ -28,6 +28,7 @@ ideas/
     app/              the Expo project
 tools/
   chart_scan.py       top grossing apps per category with a modest number of ratings
+  keyword_sweep.py    many keywords at once: are small, stale or new apps near the top
   store_check.py      top 10 App Store results for a keyword
   review_check.py     counts complaints in recent low-star App Store reviews for an app
 ```
